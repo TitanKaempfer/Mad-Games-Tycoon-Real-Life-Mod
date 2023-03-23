@@ -1,3 +1,6 @@
 # Ignore all office files
 
 *.ods
+
+# Ignore specific files
+*/CompanyLogos/999.png
