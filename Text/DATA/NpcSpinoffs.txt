@@ -1,0 +1,1032 @@
+﻿[ALL]
+Extreme <NAME>
+Hyper <NAME>
+Mega <NAME>
+New <NAME>
+Super <NAME>
+[END]
+
+[0]
+<NAME> Arena
+<NAME> Chaos
+<NAME> Climber
+<NAME> Dancing All Night
+<NAME> Dancing in Moonlight
+<NAME> Dash
+<NAME> Fiesta Run
+<NAME> Jump
+<NAME> Jungle Run
+<NAME> Party
+<NAME> Pinball
+<NAME> Pinball Land
+<NAME> Raving Rabbits
+<NAME> Run
+<NAME> Runners
+<NAME> Rush
+<NAME> Shuffle
+<NAME> Spinball
+<NAME>: Colors
+<NAME>: Crazy Colors
+<NAME>: Gemini
+<NAME>: Gemstorm
+<NAME>: Music Stars!
+<NAME>: Time Attack!
+Chaotic <NAME>
+Dance Party: <NAME> Mix
+Dream <NAME>
+Future <NAME>
+Panic Shot! <NAME>
+[END]
+
+[1]
+<NAME> Avalanche
+<NAME> Blast
+<NAME> Brain Games
+<NAME> Café
+<NAME> is Missing!
+<NAME> Junior
+<NAME> Junior: English
+<NAME> Labyrinth
+<NAME> Link!
+<NAME> Mahjong
+<NAME> Picross
+<NAME> Puzzle Attack
+<NAME> Puzzle Challenge
+<NAME> Puzzle League
+<NAME> Quiz
+<NAME> Smile
+<NAME> Star Stacker
+<NAME> Tilt 'n' Tumble
+<NAME> Trivia
+<NAME>: Brains
+<NAME>: Codebreakers
+<NAME>: Conspirancy
+<NAME>: Core
+<NAME>: Countdown
+<NAME>: Enigma
+<NAME>: Enlightment
+<NAME>: IQ!
+<NAME>: Neuro!
+<NAME>'s Cookie
+<NAME>'s Woods
+Advanced <NAME>
+Basic <NAME>
+Dr. <NAME>
+English with <NAME>
+French with <NAME>
+Future <NAME>
+Math with <NAME>
+Quiz <NAME>
+[END]
+
+[2]
+<NAME> Advent
+<NAME> Adventures
+<NAME> Legends
+<NAME>: Abyss
+<NAME>: Adventure!
+<NAME>: Aeons
+<NAME>: Archons
+<NAME>: Arisen
+<NAME>: Black Flag
+<NAME>: Chronicles
+<NAME>: Conspirancy
+<NAME>: Corruption
+<NAME>: Destiny
+<NAME>: Dream Story
+<NAME>: Dystopia
+<NAME>: Enigma
+<NAME>: Exodus
+<NAME>: Fables
+<NAME>: Investigation Squad
+<NAME>: Investigations
+<NAME>: New Eden
+<NAME>: New Generation
+<NAME>: New Treasures
+<NAME>: New World
+<NAME>: Next Generation
+<NAME>: Orphan
+<NAME>: Redemption
+<NAME>: School Days
+<NAME>: Shattered Memories
+<NAME>: The Beginning
+<NAME>: The Curse
+<NAME>: The Escape
+<NAME>: The Fallen
+<NAME>: The Isle
+<NAME>: The Journey
+<NAME>: The Mist
+<NAME>: The Night
+<NAME>: The Rain
+<NAME>: The Ruins
+<NAME>: Twilight
+<NAME>: Underworld
+<NAME>: Utopia
+<NAME>: Wonderland
+Adventures of <NAME>
+Catacombs of <NAME>
+Chronicles of <NAME>
+Decadent <NAME>
+Dream <NAME>
+Legend of <NAME>
+Sins of <NAME>
+The Isle of <NAME>
+The Legend of <NAME>
+The Secret of <NAME>
+[END]
+
+[3]
+<NAME> Advent
+<NAME> Advent Children
+<NAME> Aeons
+<NAME> Afterlife
+<NAME> Ascendancy
+<NAME> Colosseum
+<NAME> Dungeons
+<NAME> Eternal
+<NAME> Fantaasy
+<NAME> GO
+<NAME> Heroes
+<NAME> Monsters
+<NAME> Mystery Dungeon
+<NAME> Q
+<NAME> Ranger
+<NAME> RPG
+<NAME> Star Force
+<NAME> Walk
+<NAME>: Abyss
+<NAME>: Adventure
+<NAME>: Ancients
+<NAME>: Archons
+<NAME>: Arisen
+<NAME>: Artifacts
+<NAME>: Ashes
+<NAME>: Bandits
+<NAME>: Black Flag
+<NAME>: Black Gate
+<NAME>: Book of Memories
+<NAME>: Centurions
+<NAME>: Chronicles
+<NAME>: Cloud Quest
+<NAME>: Command Mission
+<NAME>: Crisis
+<NAME>: Crisis Core
+<NAME>: Demon Souls
+<NAME>: Demonheart
+<NAME>: Demons
+<NAME>: Dragon Breath
+<NAME>: Dungeon Adventures
+<NAME>: Dungeon Chronicles
+<NAME>: Dungeon Lord
+<NAME>: Dungeon Master
+<NAME>: Dungeons
+<NAME>: Dystopia
+<NAME>: Elemental Lords
+<NAME>: Elysium
+<NAME>: Eternity
+<NAME>: Excalibur
+<NAME>: Fables
+<NAME>: Flame Sword
+<NAME>: Forsaken
+<NAME>: Gemini
+<NAME>: Gods Quests
+<NAME>: if
+<NAME>: Memories
+<NAME>: Moon Story
+<NAME>: Moondust
+<NAME>: Moonstones
+<NAME>: Mystical Quest
+<NAME>: New Age
+<NAME>: New Eden
+<NAME>: New World
+<NAME>: Next Generation
+<NAME>: Realms
+<NAME>: Serpent Quest
+<NAME>: Skull Quest
+<NAME>: Souls
+<NAME>: Spirit Quest
+<NAME>: Summoners
+<NAME>: The Beginning
+<NAME>: The Crystals
+<NAME>: The Darkness
+<NAME>: The Fallen
+<NAME>: The Journey
+<NAME>: The Mist
+<NAME>: The Night
+<NAME>: The Siege
+<NAME>: The Souls
+<NAME>: The Stones
+<NAME>: Twilight
+<NAME>: Ultimatum
+<NAME>: Underworld
+<NAME>: Utopia
+<NAME>: Vengeance
+Adventures of <NAME>
+Ancient <NAME>
+Breath of <NAME>
+Catacombs of <NAME>
+Chronicles of <NAME>
+Crown of <NAME>
+Dark Armies of <NAME>
+Decadent <NAME>
+Demonic <NAME>
+Eternal <NAME>
+Fantasy <NAME>
+Final <NAME>
+God of <NAME>
+Guardians of <NAME>
+Heart of <NAME>
+Heroes of <NAME>
+Illusion of <NAME>
+Knights of <NAME>
+Legends of <NAME>
+Memories of <NAME>
+Mystic <NAME>
+Paladins of <NAME>
+Paper <NAME>
+Quest of <NAME>
+Realms of <NAME>
+Scrolls of <NAME>
+Shadow of <NAME>
+Sins of <NAME>
+Soul of <NAME>
+The <NAME> Legend
+The Book of <NAME>
+The Curse of <NAME>
+The Lords of <NAME>
+The Ring of <NAME>
+The Secret of <NAME>
+World of <NAME>
+[END]
+
+[4]
+<NAME> Acid
+<NAME> Advent
+<NAME> Alliance
+<NAME> Attack
+<NAME> Base Defender
+<NAME> Battle
+<NAME> Battlegrounds
+<NAME> Cadets
+<NAME> Card Battle
+<NAME> Centaurion
+<NAME> Chimera Squad
+<NAME> Clan Wars
+<NAME> Clone Wars
+<NAME> Combat
+<NAME> Tactics
+<NAME> Trading Card Game
+<NAME>: Allied Assault
+<NAME>: Ancient Wars
+<NAME>: Annihilation
+<NAME>: Armada
+<NAME>: Armed Assault
+<NAME>: Armed Conflict
+<NAME>: Black Flag
+<NAME>: Civil War
+<NAME>: Civilizations
+<NAME>: Colonization
+<NAME>: Command Mission
+<NAME>: Commander
+<NAME>: Conspirancy
+<NAME>: Crowns
+<NAME>: Dark Armies
+<NAME>: Defenders!
+<NAME>: Defense
+<NAME>: Desert Warfare
+<NAME>: Dungeon Lord
+<NAME>: Dungeon Master
+<NAME>: Dungeon Tactics
+<NAME>: Dynasties
+<NAME>: Dynasty
+<NAME>: Dynasty Wars
+<NAME>: Dystopia
+<NAME>: Empires
+<NAME>: Galactic Empire
+<NAME>: Galatica
+<NAME>: Generals
+<NAME>: Genocide
+<NAME>: Global War
+<NAME>: Heroes
+<NAME>: Invaders
+<NAME>: Invasion
+<NAME>: Kingdom
+<NAME>: Knights
+<NAME>: Last War
+<NAME>: Legions
+<NAME>: Mercenaries
+<NAME>: New Conflict
+<NAME>: New World
+<NAME>: Offensive
+<NAME>: Red Alert
+<NAME>: Resistance
+<NAME>: Robot Wars
+<NAME>: Siege
+<NAME>: Squads
+<NAME>: Summoners
+<NAME>: Summoners of War
+<NAME>: Syndicate
+<NAME>: The Card Game
+<NAME>: The Leader
+<NAME>: The Missions
+<NAME>: The Siege
+<NAME>: Tower Defence
+<NAME>: Ultimatum
+<NAME>: Universe
+<NAME>: War
+<NAME>: War Games
+<NAME>: War Tactics
+<NAME>: Warfare
+<NAME>: Wing Captain
+<NAME>: World War
+Alliances of <NAME>
+Armies of <NAME>
+Battle <NAME>
+Champions of <NAME>
+Chronicles of <NAME>
+Civilizations of <NAME>
+Colonies of <NAME>
+Combat <NAME>
+Crisis of <NAME>
+Crown of <NAME>
+Cultures of <NAME>
+Dark Armies of <NAME>
+Decadent <NAME>
+Defenders of <NAME>
+Dynasties of <NAME>
+Empires of <NAME>
+Heroes of <NAME>
+Invaders of <NAME>
+Kingdoms of <NAME>
+Knights of <NAME>
+Legion of <NAME>
+Tactics <NAME>
+War of <NAME>
+[END]
+
+[5]
+<NAME> Battle
+<NAME> Battlegrounds
+<NAME> Blast
+<NAME> Block Ball
+<NAME> Cadets
+<NAME> Championship
+<NAME> Chaos
+<NAME> Clan Wars
+<NAME> Crossbow Training
+<NAME> Extreme
+<NAME> Fighters
+<NAME> Heroes
+<NAME> Invasion
+<NAME> Legends
+<NAME> M
+<NAME> Rising
+<NAME> Rumble
+<NAME> Skypatrol
+<NAME> Strikers
+<NAME> Survive
+<NAME> Warriors
+<NAME> Xtreme
+<NAME> Zero
+<NAME>: Air Combat
+<NAME>: Annihilation
+<NAME>: Apocalypse
+<NAME>: Arena
+<NAME>: Armada
+<NAME>: Armageddon
+<NAME>: Assault
+<NAME>: Attack!
+<NAME>: Bad Blood
+<NAME>: Combat
+<NAME>: Crisis
+<NAME>: Dark Armies
+<NAME>: Dark Project
+<NAME>: Dead Armies
+<NAME>: Dead Walker
+<NAME>: Defender
+<NAME>: Destiny
+<NAME>: Destruction
+<NAME>: Dungeons
+<NAME>: Dystopia
+<NAME>: Enforcer
+<NAME>: Enforcers
+<NAME>: Eternal
+<NAME>: Exodus
+<NAME>: Future Alert
+<NAME>: Future Perfect
+<NAME>: Gemini
+<NAME>: Genocide
+<NAME>: Gladitors
+<NAME>: Guerilla Wars
+<NAME>: Interception
+<NAME>: Interceptor
+<NAME>: Legends
+<NAME>: Legions
+<NAME>: Mega Blast
+<NAME>: Mercenaries
+<NAME>: Nighthawk
+<NAME>: Offensive
+<NAME>: Predators
+<NAME>: Red Alert
+<NAME>: Redemption
+<NAME>: Renegade
+<NAME>: Resistance
+<NAME>: Revelation
+<NAME>: Robot Wars
+<NAME>: Shock!
+<NAME>: Shoots!
+<NAME>: Skyfighter
+<NAME>: Spartan Assault
+<NAME>: Spartan Strike
+<NAME>: Spec Ops
+<NAME>: Super
+<NAME>: Tank Fighter
+<NAME>: The Arcade
+<NAME>: The Combat
+<NAME>: Thunderstorm
+<NAME>: Time Attack!
+<NAME>: Trooper!
+<NAME>: Typhoon
+<NAME>: Ultimate
+<NAME>: Ultimatum
+<NAME>: Vendetta
+<NAME>: Vengeance
+<NAME>: Violence
+<NAME>: Warfare
+<NAME>: World War
+<NAME>: Xeno
+Absolute <NAME>
+Armies of <NAME>
+Attack <NAME>
+Battle <NAME>
+Champions of <NAME>
+Chaotic <NAME>
+Crisis of <NAME>
+Dead <NAME>
+Extreme <NAME>
+Heroes of <NAME>
+Ultimate <NAME>
+Violent <NAME>
+[END]
+
+[6]
+<NAME> Chaos
+<NAME> Chaotix
+<NAME> Climber
+<NAME> Country
+<NAME> Hex Isle
+<NAME> Land
+<NAME> Maker
+<NAME> Sisters
+<NAME> X
+<NAME> Zero
+<NAME> ZX
+<NAME>: Dream Story
+<NAME>: Exodus
+<NAME>: Explorers
+<NAME>: Gemini
+<NAME>: Hearts!
+<NAME>: Horizons
+<NAME>: Nuts & Bolts
+<NAME>: Runners
+<NAME>: Super
+<NAME>: Sweet Animals
+<NAME>: The Adventure
+<NAME>: The Curse
+<NAME>: The Journey
+<NAME>: Warped!
+<NAME>: Wonderland
+Adventures of <NAME>
+Amazing <NAME>
+Big <NAME>
+Chaotic <NAME>
+Cool <NAME>
+Crazy <NAME>
+Dream <NAME>
+Explorers of <NAME>
+Heart of <NAME>
+Hey! <NAME>
+Kid <NAME>
+Super <NAME>
+Super <NAME>
+The Curse of <NAME>
+The Journey of <NAME>
+[END]
+
+[7]
+<NAME> Bloom
+<NAME> Channel
+<NAME> Paint
+<NAME> Pocket Camp
+<NAME> Simulator
+<NAME> Snap
+<NAME>: Afterlife
+<NAME>: Aquarium
+<NAME>: Big Farm
+<NAME>: Century
+<NAME>: Civilizations
+<NAME>: Creatures
+<NAME>: Daily Life
+<NAME>: Deep Diving
+<NAME>: Farm Hero
+<NAME>: Industrial
+<NAME>: Industry
+<NAME>: Pilot Wings
+<NAME>: Planets!
+<NAME>: School Days
+<NAME>: Terra
+<NAME>: The Cure
+<NAME>: The Simulation
+<NAME>: Virtual Existence
+<NAME>Craft
+Camp <NAME>
+Civilizations of <NAME>
+Colonies of <NAME>
+Cultures of <NAME>
+My <NAME>
+My <NAME> Ranch
+Planet of <NAME>
+Sim <NAME>
+[END]
+
+[8]
+<NAME> at the Olympic Games
+<NAME> Bowling
+<NAME> Cars
+<NAME> Championship
+<NAME> Climber
+<NAME> Crazy Golf
+<NAME> Eleven
+<NAME> Golf
+<NAME> Paradise
+<NAME> Soccer
+<NAME> Sports Mix
+<NAME> Sports Superstars
+<NAME> Strikers
+<NAME> Super Sluggers
+<NAME> Superstar Baseball
+<NAME> Tennis
+<NAME> Xtreme Beach Volleyball
+<NAME>: Archery Cup
+<NAME>: Arena
+<NAME>: Baseball Stars
+<NAME>: Battle & Chase
+<NAME>: Bowling Stars
+<NAME>: Boxing
+<NAME>: Cricket
+<NAME>: Dart Champs
+<NAME>: Darts
+<NAME>: Deep Diving
+<NAME>: Dodgeball
+<NAME>: Extreme
+<NAME>: Football
+<NAME>: Goal!
+<NAME>: Golden Cup
+<NAME>: Golf Star
+<NAME>: Hockey
+<NAME>: Hockey League
+<NAME>: Hotball
+<NAME>: Ice Hockey
+<NAME>: Jugger
+<NAME>: Match Point
+<NAME>: Pool
+<NAME>: Runners
+<NAME>: Shoots!
+<NAME>: Skater
+<NAME>: Skating
+<NAME>: Snooker
+<NAME>: Speedballs
+<NAME>: Sports
+<NAME>: Tennis
+<NAME>: Volleyball
+<NAME>: Wrestling
+Boxing <NAME>
+Champions of <NAME>
+Crazy <NAME>
+Extreme <NAME>
+[END]
+
+[9]
+<NAME> Tycoon
+<NAME>: Aquarium
+<NAME>: Big Deals
+<NAME>: Big Farm
+<NAME>: Biz Tycoon
+<NAME>: Capitalism
+<NAME>: Digital Museum
+<NAME>: Economic
+<NAME>: Empires
+<NAME>: Industrial
+<NAME>: Industry
+<NAME>: Music Stars!
+<NAME>: Star Manager
+<NAME>: Syndicate
+<NAME>: The Tycoons
+<NAME>: Utopia
+<NAME>: Wall Street
+Empires of <NAME>
+Hotel <NAME>
+Industries of <NAME>
+Wall Street <NAME>
+[END]
+
+[10]
+<NAME> Anti-Heroes
+<NAME> Arena
+<NAME> Attack
+<NAME> Battle
+<NAME> Chaos
+<NAME> Clan Wars
+<NAME> Combat
+<NAME> Judgment
+<NAME> Stadium
+<NAME> Tag Tournament
+<NAME> the Fighters
+<NAME>: Bad Blood
+<NAME>: Battle & Chase
+<NAME>: Combat
+<NAME>: Enforcers
+<NAME>: Fighting
+<NAME>: Fightstyle
+<NAME>: Gladiators
+<NAME>: Heroes
+<NAME>: Judo Stars
+<NAME>: Karate
+<NAME>: Karate Champs
+<NAME>: Kung Fu Stars
+<NAME>: Legends
+<NAME>: Martial Arts
+<NAME>: Mega Fights
+<NAME>: Renegade
+<NAME>: The Combat
+<NAME>: The Fist
+<NAME>: The Kickboxer
+<NAME>: The Power Battle
+<NAME>: The Power Fighters
+<NAME>: Violence
+<NAME>: Wrestling
+Battle <NAME>
+Combat <NAME>
+Extreme <NAME>
+Fighting <NAME>
+Heroes of <NAME>
+Karate <NAME>
+Legends of <NAME>
+Mega <NAME>
+Smash <NAME>
+Super <NAME>
+Super <NAME> Turbo
+Violent <NAME>
+[END]
+
+[11]
+<NAME> Shelter
+<NAME>: Big City
+<NAME>: Cities
+<NAME>: Civilizations
+<NAME>: Colonization
+<NAME>: Cultures
+<NAME>: Dynasties
+<NAME>: Empires
+<NAME>: Galactic Empire
+<NAME>: Industrial
+<NAME>: Industry
+<NAME>: New City
+<NAME>: New Colony
+<NAME>: New Eden
+<NAME>: New World
+<NAME>: Skylines
+<NAME>: The Tycoons
+<NAME>: Tycoon
+<NAME>: Utopia
+Camp <NAME>
+Cities of <NAME>
+City of <NAME>
+Civilizations of <NAME>
+Colonies of <NAME>
+Cultures of <NAME>
+Dynasties of <NAME>
+Empires of <NAME>
+Industries of <NAME>
+[END]
+
+[12]
+<NAME>: Adventures
+<NAME>: Afterlife
+<NAME>: Apocalypse
+<NAME>: Armaggedon
+<NAME>: Ascension
+<NAME>: Chronicles
+<NAME>: Codebreakers
+<NAME>: Crisis
+<NAME>: Dark Armies
+<NAME>: Desire
+<NAME>: Destiny
+<NAME>: Dread
+<NAME>: Dream Story
+<NAME>: Enigma
+<NAME>: Eternity
+<NAME>: Exodus
+<NAME>: Fables
+<NAME>: Flame Story
+<NAME>: Forsaken
+<NAME>: Galactica
+<NAME>: Hearts
+<NAME>: Hidden Quest
+<NAME>: Investigation
+<NAME>: Last Days
+<NAME>: Memories
+<NAME>: Moon Story
+<NAME>: New Generation
+<NAME>: New World
+<NAME>: Nightmare
+<NAME>: Pearl Story
+<NAME>: Redemption
+<NAME>: School Days
+<NAME>: The Curse
+<NAME>: The Darkness
+<NAME>: The Journey
+<NAME>: The Night
+<NAME>: The Novel
+<NAME>: The Rain
+<NAME>: The Secrets
+Chronicles of <NAME>
+[END]
+
+[13]
+<NAME> Base Defender
+<NAME> Battle Network
+<NAME> Clan Wars
+<NAME> Clone Wars
+<NAME> Defense
+<NAME> Invasion
+<NAME> UNITE
+<NAME> Wars
+<NAME>: Alliance
+<NAME>: Allied Assault
+<NAME>: Ancient War
+<NAME>: Annihilation
+<NAME>: Apocalypse
+<NAME>: Armada
+<NAME>: Armageddon
+<NAME>: Armed Conflict
+<NAME>: Assault
+<NAME>: Bandits
+<NAME>: Centurions
+<NAME>: Civil War
+<NAME>: Command Mission
+<NAME>: Crisis
+<NAME>: Crowns
+<NAME>: Dark Armies
+<NAME>: Defenders
+<NAME>: Desert Warfare
+<NAME>: Dynasty War
+<NAME>: Elemental Lords
+<NAME>: Empires
+<NAME>: Future Alert
+<NAME>: Galactic Empire
+<NAME>: Generals
+<NAME>: Genocide
+<NAME>: Global War
+<NAME>: Guerilla Wars
+<NAME>: Herores
+<NAME>: Invaders
+<NAME>: Knights
+<NAME>: Last War
+<NAME>: Legions
+<NAME>: Mercenaries
+<NAME>: New Conflict
+<NAME>: Offensive
+<NAME>: Red Alert
+<NAME>: Resistance
+<NAME>: Robot Wars
+<NAME>: Syndicate
+<NAME>: Tank Fighter
+<NAME>: The Combat
+<NAME>: The Cure
+<NAME>: The Fallen
+<NAME>: The Lords
+<NAME>: The Mission
+<NAME>: The Siege
+<NAME>: Trooper!
+<NAME>: Ultimatum
+<NAME>: Vengeance
+<NAME>: War Games
+<NAME>: War Tactics
+<NAME>: Warfare
+<NAME>: World War
+<NAME>: Xeno
+<NAME>: Zeus
+Alliances of <NAME>
+Armed <NAME>
+Armies of <NAME>
+Banner of <NAME>
+Clans of <NAME>
+Crisis of <NAME>
+Crown of <NAME>
+Dark Armies of <NAME>
+Defenders of <NAME>
+Dynasties of <NAME>
+Empires of <NAME>
+Heroes of <NAME>
+Invaders of <NAME>
+Knights of <NAME>
+Legions of <NAME>
+[END]
+
+[14]
+<NAME> Attack
+<NAME> Battlegrounds
+<NAME> Cadets
+<NAME> Crossbow Training
+<NAME> Prime
+<NAME>: Annihilation
+<NAME>: Apocalypse
+<NAME>: Arena
+<NAME>: Armageddon
+<NAME>: Assault
+<NAME>: Bad Blood
+<NAME>: Bandits
+<NAME>: Bio-weapon
+<NAME>: Civil War
+<NAME>: Commando
+<NAME>: Conspirancy
+<NAME>: Crisis
+<NAME>: Dark Armies
+<NAME>: Dark Project
+<NAME>: Deathmatch
+<NAME>: Destruction
+<NAME>: Enforcers
+<NAME>: Full Fire
+<NAME>: Future Alert
+<NAME>: Genocide
+<NAME>: Herores
+<NAME>: Last War
+<NAME>: Legions
+<NAME>: Mercenaries
+<NAME>: Redemption
+<NAME>: Renegade
+<NAME>: Resistance
+<NAME>: Spec Ops
+<NAME>: Syndicate
+<NAME>: The Mission
+<NAME>: Trooper
+<NAME>: Vendetta
+<NAME>: Warfare
+<NAME>: Xeno
+<NAME>: Zero
+Bionic <NAME>
+[END]
+
+[15]
+<NAME>: Big City
+<NAME>: Chronicles
+<NAME>: Daily Life
+<NAME>: Desire
+<NAME>: Destiny
+<NAME>: Dream Story
+<NAME>: Gemini
+<NAME>: Hearts!
+<NAME>: Illusions
+<NAME>: Memories
+<NAME>: Moon Story
+<NAME>: New Generation
+<NAME>: Next Generation
+<NAME>: Pearl Story
+<NAME>: School Days
+<NAME>: Star Manager
+<NAME>: The Academy
+<NAME>: The Beginning
+<NAME>: The Book
+<NAME>: The Journey
+<NAME>: The Night
+<NAME>: The Novel
+<NAME>: The Park
+<NAME>: The Rain
+<NAME>: Wonderland
+Back to <NAME>
+Camp <NAME>
+Memories of <NAME>
+Play Novel: <NAME>
+The Book of <NAME>
+The Journey of <NAME>
+The Secret of <NAME>
+[END]
+
+[16]
+<NAME> Anti-heroes
+<NAME> Battlegrounds
+<NAME> Cadets
+<NAME> Invasion
+<NAME>: Allied Assault
+<NAME>: Annihilation
+<NAME>: Armageddon
+<NAME>: Assault
+<NAME>: Bad Blood
+<NAME>: Badlands
+<NAME>: Bandits
+<NAME>: Bio-weapon
+<NAME>: Commando
+<NAME>: Dark Armies
+<NAME>: Dread
+<NAME>: Enforcers
+<NAME>: Eternity
+<NAME>: Full Fire
+<NAME>: Future Alert
+<NAME>: Garden Warfare
+<NAME>: Genocide
+<NAME>: Guerilla Wars
+<NAME>: Herores
+<NAME>: Last War
+<NAME>: Robot Wars
+<NAME>: Spec Ops
+<NAME>: Syndicate
+<NAME>: The Mission
+<NAME>: The Siege
+<NAME>: Thunderstorm
+<NAME>: Undercover
+<NAME>: Vendetta
+<NAME>: Vengeance
+<NAME>: Virtual Existence
+<NAME>: Warfare
+<NAME>: Zero
+Bionic <NAME>
+The Bureau: <NAME> Declassified
+[END]
+
+[17]
+<NAME> Air Ride
+<NAME> Cars
+<NAME> Championship
+<NAME> Drift
+<NAME> Kart
+<NAME> Nitro Kart
+<NAME> R
+<NAME> Riders
+<NAME> Rivals
+<NAME> Tour
+<NAME>: All-Stars Racing
+<NAME>: Arcade Racer
+<NAME>: Battle Race
+<NAME>: Beach Buggy
+<NAME>: Destruction Derby
+<NAME>: Drag Racing
+<NAME>: Drift
+<NAME>: Drift Masters
+<NAME>: Golden Cup
+<NAME>: Kart Racer
+<NAME>: Motors
+<NAME>: Motorsport
+<NAME>: Nitro
+<NAME>: Off-Road
+<NAME>: Performance
+<NAME>: Pilot Wings
+<NAME>: Race Stars
+<NAME>: Rally
+<NAME>: Runners
+<NAME>: The Driver
+<NAME>: Time Attack!
+<NAME>: Trials
+<NAME>: Turbo Racing
+<NAME>: V-Plane
+<NAME>: Velocity
+Nitro <NAME>
+Streets of <NAME>
+Team <NAME> Racing
+Turbo <NAME>
+[END]
+
+[18]
+<NAME> Builders
+<NAME> Survive
+<NAME>: Abyss
+<NAME>: Apocalypse
+<NAME>: Badlands
+<NAME>: Creatures
+<NAME>: Crisis
+<NAME>: Day Z
+<NAME>: Dead Walker
+<NAME>: Dread
+<NAME>: Dystopia
+<NAME>: Explorers
+<NAME>: Horizons
+<NAME>: Last Days
+<NAME>: New Age
+<NAME>: New Eden
+<NAME>: New World
+<NAME>: Nightmare
+<NAME>: Survivors
+<NAME>: Terra
+<NAME>: The Darkness
+<NAME>: The Mist
+<NAME>: The Rain
+<NAME>: The Ruins
+<NAME>: The Survivors
+<NAME>: Thunderstorm
+<NAME>: Utopia
+<NAME>: Wildlife
+<NAME>: Xeno
+<NAME>Craft
+Explorers of <NAME>
+Last Days of <NAME>
+[END]

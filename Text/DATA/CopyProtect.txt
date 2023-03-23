@@ -1,0 +1,338 @@
+﻿[ID]1
+[NAME EN]Spiradisc
+[NAME GE]Spiradisc
+[NAME CH]Spiradisc
+[NAME TU]Spiradisc
+[NAME FR]Spiradisc
+[NAME CT]Spiradisc
+[NAME RU]Spiradisc
+[NAME IT]Spiradisc
+[NAME JA]Spiradisc
+[DATE]AUG 1980
+[PRICE]15000
+[DEV COSTS]2000
+
+[ID]2
+[NAME EN]Spiradisc v2.0
+[NAME GE]Spiradisc v2.0
+[NAME CH]Spiradisc v2.0
+[NAME TU]Spiradisc v2.0
+[NAME FR]Spiradisc v2.0
+[NAME CT]Spiradisc v2.0
+[NAME RU]Spiradisc v2.0
+[NAME IT]Spiradisc v2.0
+[NAME JA]Spiradisc v2.0
+[DATE]AUG 1982
+[PRICE]20000
+[DEV COSTS]3000
+
+[ID]3
+[NAME EN]Manual Passphrase
+[NAME GE]Manual Passphrase
+[NAME CH]Manual Passphrase
+[NAME TU]Manual Passphrase
+[NAME FR]Manual Passphrase
+[NAME CT]Manual Passphrase
+[NAME RU]Manual Passphrase
+[NAME IT]Manual Passphrase
+[NAME JA]Manual Passphrase
+[DATE]AUG 1984
+[PRICE]25000
+[DEV COSTS]4000
+
+[ID]4
+[NAME EN]Codewheel
+[NAME GE]Codewheel
+[NAME CH]Codewheel
+[NAME TU]Codewheel
+[NAME FR]Codewheel
+[NAME CT]Codewheel
+[NAME RU]Codewheel
+[NAME IT]Codewheel
+[NAME JA]Codewheel
+[DATE]AUG 1986
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]5
+[NAME EN]Codesheet
+[NAME GE]Codesheet
+[NAME CH]Codesheet
+[NAME TU]Codesheet
+[NAME FR]Codesheet
+[NAME CT]Codesheet
+[NAME RU]Codesheet
+[NAME IT]Codesheet
+[NAME JA]Codesheet
+[DATE]AUG 1988
+[PRICE]35000
+[DEV COSTS]6000
+
+[ID]6
+[NAME EN]Physical Protection
+[NAME GE]Physical Protection
+[NAME CH]Physical Protection
+[NAME TU]Physical Protection
+[NAME FR]Physical Protection
+[NAME CT]Physical Protection
+[NAME RU]Physical Protection
+[NAME IT]Physical Protection
+[NAME JA]Physical Protection
+[DATE]AUG 1990
+[PRICE]40000
+[DEV COSTS]7000
+
+[ID]7
+[NAME EN]Dummy Files
+[NAME GE]Dummy Files
+[NAME CH]Dummy Files
+[NAME TU]Dummy Files
+[NAME FR]Dummy Files
+[NAME CT]Dummy Files
+[NAME RU]Dummy Files
+[NAME IT]Dummy Files
+[NAME JA]Dummy Files
+[DATE]AUG 1992
+[PRICE]45000
+[DEV COSTS]8000
+
+[ID]8
+[NAME EN]Oversized CD
+[NAME GE]Oversized CD
+[NAME CN]Oversized CD
+[NAME TU]Oversized CD
+[NAME FR]Oversized CD
+[NAME CT]Oversized CD
+[NAME RU]Oversized CD
+[NAME IT]Oversized CD
+[NAME JA]Oversized CD
+[DATE]AUG 1994
+[PRICE]50000
+[DEV COSTS]9000
+
+[ID]9
+[NAME EN]CD-Cops
+[NAME GE]CD-Cops
+[NAME CH]CD-Cops
+[NAME TU]CD-Cops
+[NAME FR]CD-Cops
+[NAME CT]CD-Cops
+[NAME RU]CD-Cops
+[NAME IT]CD-Cops
+[NAME JA]CD-Cops
+[DATE]AUG 1996
+[PRICE]55000
+[DEV COSTS]10000
+
+[ID]10
+[NAME EN]SafeDisc
+[NAME GE]SafeDisc
+[NAME CH]SafeDisc
+[NAME TU]SafeDisc
+[NAME FR]SafeDisc
+[NAME CT]SafeDisc
+[NAME RU]SafeDisc
+[NAME IT]SafeDisc
+[NAME JA]SafeDisc
+[DATE]AUG 1998
+[PRICE]60000
+[DEV COSTS]11000
+
+[ID]11
+[NAME EN]SafeDisc v2.0
+[NAME GE]SafeDisc v2.0
+[NAME CH]SafeDisc v2.0
+[NAME TU]SafeDisc v2.0
+[NAME FR]SafeDisc v2.0
+[NAME CT]SafeDisc v2.0
+[NAME RU]SafeDisc v2.0
+[NAME IT]SafeDisc v2.0
+[NAME JA]SafeDisc v2.0
+[DATE]AUG 2000
+[PRICE]65000
+[DEV COSTS]12000
+
+[ID]12
+[NAME EN]StarForce
+[NAME GE]StarForce
+[NAME CH]StarForce
+[NAME TU]StarForce
+[NAME FR]StarForce
+[NAME CT]StarForce
+[NAME RU]StarForce
+[NAME IT]StarForce
+[NAME JA]StarForce
+[DATE]AUG 2002
+[PRICE]70000
+[DEV COSTS]13000
+
+[ID]13
+[NAME EN]SafeDisc v3.0
+[NAME GE]SafeDisc v3.0
+[NAME CH]SafeDisc v3.0
+[NAME TU]SafeDisc v3.0
+[NAME FR]SafeDisc v3.0
+[NAME CT]SafeDisc v3.0
+[NAME RU]SafeDisc v3.0
+[NAME IT]SafeDisc v3.0
+[NAME JA]SafeDisc v3.0
+[DATE]AUG 2004
+[PRICE]75000
+[DEV COSTS]14000
+
+[ID]14
+[NAME EN]SafeDisc v4.0
+[NAME GE]SafeDisc v4.0
+[NAME CH]SafeDisc v4.0
+[NAME TU]SafeDisc v4.0
+[NAME FR]SafeDisc v4.0
+[NAME CT]SafeDisc v4.0
+[NAME RU]SafeDisc v4.0
+[NAME IT]SafeDisc v4.0
+[NAME JA]SafeDisc v4.0
+[DATE]AUG 2006
+[PRICE]80000
+[DEV COSTS]15000
+
+[ID]15
+[NAME EN]SecuROM
+[NAME GE]SecuROM
+[NAME CH]SecuROM
+[NAME TU]SecuROM
+[NAME FR]SecuROM
+[NAME CT]SecuROM
+[NAME RU]SecuROM
+[NAME IT]SecuROM
+[NAME JA]SecuROM
+[DATE]AUG 2008
+[PRICE]85000
+[DEV COSTS]16000
+
+[ID]16
+[NAME EN]SecuROM v2.0
+[NAME GE]SecuROM v2.0
+[NAME CH]SecuROM v2.0
+[NAME TU]SecuROM v2.0
+[NAME FR]SecuROM v2.0
+[NAME CT]SecuROM v2.0
+[NAME RU]SecuROM v2.0
+[NAME IT]SecuROM v2.0
+[NAME JA]SecuROM v2.0
+[DATE]AUG 2010
+[PRICE]90000
+[DEV COSTS]17000
+
+[ID]17
+[NAME EN]ActProtect
+[NAME GE]ActProtect
+[NAME CH]ActProtect
+[NAME TU]ActProtect
+[NAME FR]ActProtect
+[NAME CT]ActProtect
+[NAME RU]ActProtect
+[NAME IT]ActProtect
+[NAME JA]ActProtect
+[DATE]AUG 2012
+[PRICE]95000
+[DEV COSTS]18000
+
+[ID]18
+[NAME EN]Denuvo
+[NAME GE]Denuvo
+[NAME CH]Denuvo
+[NAME TU]Denuvo
+[NAME FR]Denuvo
+[NAME CT]Denuvo
+[NAME RU]Denuvo
+[NAME IT]Denuvo
+[NAME JA]Denuvo
+[DATE]AUG 2014
+[PRICE]100000
+[DEV COSTS]19000
+
+[ID]19
+[NAME EN]Denuvo v2.0
+[NAME GE]Denuvo v2.0
+[NAME CH]Denuvo v2.0
+[NAME TU]Denuvo v2.0
+[NAME FR]Denuvo v2.0
+[NAME CT]Denuvo v2.0
+[NAME RU]Denuvo v2.0
+[NAME IT]Denuvo v2.0
+[NAME JA]Denuvo v2.0
+[DATE]AUG 2016
+[PRICE]105000
+[DEV COSTS]20000
+
+[ID]20
+[NAME EN]Denuvo v3.0
+[NAME GE]Denuvo v3.0
+[NAME CH]Denuvo v3.0
+[NAME TU]Denuvo v3.0
+[NAME FR]Denuvo v3.0
+[NAME CT]Denuvo v3.0
+[NAME RU]Denuvo v3.0
+[NAME IT]Denuvo v3.0
+[NAME JA]Denuvo v3.0
+[DATE]AUG 2018
+[PRICE]110000
+[DEV COSTS]21000
+
+[ID]21
+[NAME EN]Denuvo v4.0
+[NAME GE]Denuvo v4.0
+[NAME CH]Denuvo v4.0
+[NAME TU]Denuvo v4.0
+[NAME FR]Denuvo v4.0
+[NAME CT]Denuvo v4.0
+[NAME RU]Denuvo v4.0
+[NAME IT]Denuvo v4.0
+[NAME JA]Denuvo v4.0
+[DATE]AUG 2020
+[PRICE]115000
+[DEV COSTS]22000
+
+[ID]22
+[NAME EN]Denuvo v5.0
+[NAME GE]Denuvo v5.0
+[NAME CH]Denuvo v5.0
+[NAME TU]Denuvo v5.0
+[NAME FR]Denuvo v5.0
+[NAME CT]Denuvo v5.0
+[NAME RU]Denuvo v5.0
+[NAME IT]Denuvo v5.0
+[NAME JA]Denuvo v5.0
+[DATE]AUG 2022
+[PRICE]120000
+[DEV COSTS]23000
+
+[ID]23
+[NAME EN]Quantum
+[NAME GE]Quantum
+[NAME CH]Quantum
+[NAME TU]Quantum
+[NAME FR]Quantum
+[NAME CT]Quantum
+[NAME RU]Quantum
+[NAME IT]Quantum
+[NAME JA]Quantum
+[DATE]AUG 2024
+[PRICE]125000
+[DEV COSTS]24000
+
+[ID]24
+[NAME EN]Quantum v2.0
+[NAME GE]Quantum v2.0
+[NAME CH]Quantum v2.0
+[NAME TU]Quantum v2.0
+[NAME FR]Quantum v2.0
+[NAME RU]Quantum v2.0
+[NAME CT]Quantum v2.0
+[NAME IT]Quantum v2.0
+[NAME JA]Quantum v2.0
+[DATE]AUG 2026
+[PRICE]130000
+[DEV COSTS]25000
+[ENDLESS]
+
+[EOF]

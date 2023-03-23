@@ -1,0 +1,254 @@
+﻿[ID]1
+[NAME EN]File Validator v1.0
+[NAME GE]File Validator v1.0
+[NAME CH]File Validator v1.0
+[NAME TU]File Validator v1.0
+[NAME FR]File Validator v1.0
+[NAME CT]File Validator v1.0
+[NAME RU]File Validator v1.0
+[NAME IT]File Validator v1.0
+[NAME JA]File Validator v1.0
+[DATE]FEB 1990
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]2
+[NAME EN]File Validator v2.0
+[NAME GE]File Validator v2.0
+[NAME CH]File Validator v2.0
+[NAME TU]File Validator v2.0
+[NAME FR]File Validator v2.0
+[NAME CT]File Validator v2.0
+[NAME RU]File Validator v2.0
+[NAME IT]File Validator v2.0
+[NAME JA]File Validator v2.0
+[DATE]FEB 1992
+[PRICE]35000
+[DEV COSTS]7000
+
+[ID]3
+[NAME EN]File Validator v3.0
+[NAME GE]File Validator v3.0
+[NAME CH]File Validator v3.0
+[NAME TU]File Validator v3.0
+[NAME FR]File Validator v3.0
+[NAME CT]File Validator v3.0
+[NAME RU]File Validator v3.0
+[NAME IT]File Validator v3.0
+[NAME JA]File Validator v3.0
+[DATE]FEB 1994
+[PRICE]40000
+[DEV COSTS]9000
+
+[ID]4
+[NAME EN]GameSpy
+[NAME GE]GameSpy
+[NAME CH]GameSpy
+[NAME TU]GameSpy
+[NAME FR]GameSpy
+[NAME CT]GameSpy
+[NAME RU]GameSpy
+[NAME IT]GameSpy
+[NAME JA]GameSpy
+[DATE]FEB 1996
+[PRICE]45000
+[DEV COSTS]11000
+
+[ID]5
+[NAME EN]GameGuard
+[NAME GE]GameGuard
+[NAME CH]GameGuard
+[NAME TU]GameGuard
+[NAME FR]GameGuard
+[NAME CT]GameGuard
+[NAME RU]GameGuard
+[NAME IT]GameGuard
+[NAME JA]GameGuard
+[DATE]FEB 1998
+[PRICE]50000
+[DEV COSTS]13000
+
+[ID]6
+[NAME EN]PunkBuster
+[NAME GE]PunkBuster
+[NAME CH]PunkBuster
+[NAME TU]PunkBuster
+[NAME FR]PunkBuster
+[NAME CT]PunkBuster
+[NAME RU]PunkBuster
+[NAME IT]PunkBuster
+[NAME JA]PunkBuster
+[DATE]FEB 2000
+[PRICE]55000
+[DEV COSTS]15000
+
+[ID]7
+[NAME EN]VAC
+[NAME GE]VAC
+[NAME CH]VAC
+[NAME TU]VAC
+[NAME FR]VAC
+[NAME CT]VAC
+[NAME RU]VAC
+[NAME IT]VAC
+[NAME JA]VAC
+[DATE]FEB 2002
+[PRICE]60000
+[DEV COSTS]17000
+
+[ID]8
+[NAME EN]VAC v2.0
+[NAME GE]VAC v2.0
+[NAME CH]VAC v2.0
+[NAME TU]VAC v2.0
+[NAME FR]VAC v2.0
+[NAME CT]VAC v2.0
+[NAME RU]VAC v2.0
+[NAME IT]VAC v2.0
+[NAME JA]VAC v2.0
+[DATE]FEB 2004
+[PRICE]65000
+[DEV COSTS]19000
+
+[ID]9
+[NAME EN]VAC v3.0
+[NAME GE]VAC v3.0
+[NAME CH]VAC v3.0
+[NAME TU]VAC v3.0
+[NAME FR]VAC v3.0
+[NAME CT]VAC v3.0
+[NAME RU]VAC v3.0
+[NAME IT]VAC v3.0
+[NAME JA]VAC v3.0
+[DATE]FEB 2006
+[PRICE]70000
+[DEV COSTS]21000
+
+[ID]10
+[NAME EN]Easy Anti-Cheat 1.0
+[NAME GE]Easy Anti-Cheat 1.0
+[NAME CH]Easy Anti-Cheat  1.0
+[NAME TU]Easy Anti-Cheat 1.0
+[NAME FR]Easy Anti-Cheat 1.0
+[NAME CT]Easy Anti-Cheat 1.0
+[NAME RU]Easy Anti-Cheat 1.0
+[NAME IT]Easy Anti-Cheat 1.0
+[NAME JA]Easy Anti-Cheat 1.0
+[DATE]FEB 2008
+[PRICE]75000
+[DEV COSTS]23000
+
+[ID]11
+[NAME EN]Easy Anti-Cheat 2.0
+[NAME GE]Easy Anti-Cheat 2.0
+[NAME CH]Easy Anti-Cheat 2.0
+[NAME TU]Easy Anti-Cheat 2.0
+[NAME FR]Easy Anti-Cheat 2.0
+[NAME CT]Easy Anti-Cheat 2.0
+[NAME RU]Easy Anti-Cheat 2.0
+[NAME IT]Easy Anti-Cheat 2.0
+[NAME JA]Easy Anti-Cheat 2.0
+[DATE]FEB 2010
+[PRICE]80000
+[DEV COSTS]25000
+
+[ID]12
+[NAME EN]Easy Anti-Cheat 3.0
+[NAME GE]Easy Anti-Cheat 3.0
+[NAME CH]Easy Anti-Cheat  3.0
+[NAME TU]Easy Anti-Cheat 3.0
+[NAME FR]Easy Anti-Cheat 3.0
+[NAME CT]Easy Anti-Cheat 3.0
+[NAME RU]Easy Anti-Cheat 3.0
+[NAME IT]Easy Anti-Cheat 3.0
+[NAME JA]Easy Anti-Cheat 3.0
+[DATE]FEB 2012
+[PRICE]95000
+[DEV COSTS]27000
+
+[ID]13
+[NAME EN]Battleye
+[NAME GE]Battleye
+[NAME CH]Battleye
+[NAME TU]Battleye
+[NAME FR]Battleye
+[NAME CT]Battleye
+[NAME RU]Battleye
+[NAME IT]Battleye
+[NAME JA]Battleye
+[DATE]FEB 2014
+[PRICE]100000
+[DEV COSTS]29000
+
+[ID]14
+[NAME EN]Battleye v2.0
+[NAME GE]Battleye v2.0
+[NAME CH]Battleye v2.0
+[NAME TU]Battleye v2.0
+[NAME FR]Battleye v2.0
+[NAME CT]Battleye v2.0
+[NAME RU]Battleye v2.0
+[NAME IT]Battleye v2.0
+[NAME JA]Battleye v2.0
+[DATE]FEB 2016
+[PRICE]105000
+[DEV COSTS]31000
+
+[ID]15
+[NAME EN]Denuvo Anti-Cheat
+[NAME GE]Denuvo Anti-Cheat
+[NAME CH]Denuvo Anti-Cheat
+[NAME TU]Denuvo Anti-Cheat
+[NAME FR]Denuvo Anti-Cheat
+[NAME CT]Denuvo Anti-Cheat
+[NAME RU]Denuvo Anti-Cheat
+[NAME IT]Denuvo Anti-Cheat
+[NAME JA]Denuvo Anti-Cheat
+[DATE]FEB 2018
+[PRICE]110000
+[DEV COSTS]33000
+
+[ID]16
+[NAME EN]Denuvo Anti-Cheat v2.0
+[NAME GE]Denuvo Anti-Cheat v2.0
+[NAME CH]Denuvo Anti-Cheat v2.0
+[NAME TU]Denuvo Anti-Cheat v2.0
+[NAME FR]Denuvo Anti-Cheat v2.0
+[NAME CT]Denuvo Anti-Cheat v2.0
+[NAME RU]Denuvo Anti-Cheat v2.0
+[NAME IT]Denuvo Anti-Cheat v2.0
+[NAME JA]Denuvo Anti-Cheat v2.0
+[DATE]FEB 2020
+[PRICE]115000
+[DEV COSTS]35000
+
+[ID]17
+[NAME EN]Denuvo Anti-Cheat v3.0
+[NAME GE]Denuvo Anti-Cheat v3.0
+[NAME CH]Denuvo Anti-Cheat v3.0
+[NAME TU]Denuvo Anti-Cheat v3.0
+[NAME FR]Denuvo Anti-Cheat v3.0
+[NAME CT]Denuvo Anti-Cheat v3.0
+[NAME RU]Denuvo Anti-Cheat v3.0
+[NAME IT]Denuvo Anti-Cheat v3.0
+[NAME JA]Denuvo Anti-Cheat v3.0
+[DATE]FEB 2022
+[PRICE]120000
+[DEV COSTS]37000
+
+[ID]18
+[NAME EN]GodShield NEO
+[NAME GE]GodShield NEO
+[NAME CH]GodShield NEO
+[NAME TU]GodShield NEO
+[NAME FR]GodShield NEO
+[NAME CT]GodShield NEO
+[NAME RU]GodShield NEO
+[NAME IT]GodShield NEO
+[NAME JA]GodShield NEO
+[DATE]FEB 2024
+[PRICE]125000
+[DEV COSTS]40000
+[ENDLESS]
+
+[EOF]

@@ -1,0 +1,144 @@
+﻿0mega System
+16-Engine
+16X-CD
+2DO Active
+32X-CD
+4D-OH
+64X-CD
+8-Engine
+Action GameMaster
+Apollo Game Sphere
+Arc
+Arcade Experience
+Archive Arcade System
+Atlantis
+Aurora
+Beam Machine
+Bitshift-2000
+Blue Box
+Black Box
+Borealis 32
+Cassette Deck Gamesystem
+Cerebus Breach
+Cheetah
+Citra
+Coleen
+Corona
+Cosmonaut Play System
+Cosmos
+DigiSystem
+Discdeck
+Discsystem-32
+Dogma Pyramide
+Dolphin
+DualSystem
+Durango
+DVD-I
+Enigma
+Entertaining System
+Exodus
+FamiFun
+Family Console
+FunStation
+Fusion
+Galaxy
+GalaxyStation
+Game Brain
+Game Child
+Game Cone
+Game Pal
+GameCast
+Gameling
+GameSlave
+Gamesphere
+GameStadion
+GameStation
+Giga Pal
+Harmony
+HBOX
+Hexagon
+Home Arcade
+Hyper Entertainment System
+HyperStation
+Infinium Labs Phantom
+Intelligent-System
+Leader System
+Leopard
+Lion
+Lonestar
+Lucidcast
+Lux
+Jade
+Jupiter
+Jupiter-64
+Mark V
+Mars
+Marz
+Master V
+Mega Entertainment System
+Mercury
+Mercury Gameflux
+Microcast
+Micro-System
+Mirai
+Moonlight
+Multisystem
+NanoGear
+Neo
+Neon X
+Neptune
+Nerve Gear
+Next Gen Portable
+Nintari
+Nitro
+Nuu
+Omega X
+Orion
+Orbis
+Oxygen
+Pam
+Panther
+Playbox
+Playsystem
+Playsystem Portable
+Pleiades
+Polymega
+Polystation
+Portable Vision
+Project Natal
+Puma
+Quicksilver
+Radical Game System
+Retrovision
+Revolution
+Scorpio
+Solar
+Snap
+Spear
+Stadion
+Super Drive
+Super Family Console
+Swap
+Television Entertainment System
+Tower X
+TV-Vision
+Ultra 32
+Ultra 64
+Utopia
+Uya
+V-Cube
+Vega
+Venus
+Venus Gear
+Venus Oasis
+VG-2000
+Viral Station
+Virtual-Kid
+Visual Boy
+Wee
+WoWow
+Wuu
+X-Cube
+Xenon
+Y-Box
+Z-Box

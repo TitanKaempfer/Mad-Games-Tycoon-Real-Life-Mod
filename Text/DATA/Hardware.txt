@@ -1,0 +1,2629 @@
+﻿[ID]0
+[TYP]0
+[NAME EN]1 Mhz CPU
+[NAME GE]1 Mhz CPU 
+[NAME ES]CPU de 1 Mhz
+[NAME PB]CPU de 1 Mhz
+[NAME JA]1 Mhz CPU
+[NAME CT]1 Mhz 處理器
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]400000
+[TECHLEVEL]1
+
+[ID]1
+[TYP]0
+[NAME EN]1.5 Mhz CPU
+[NAME GE]1.5 Mhz CPU
+[NAME ES]CPU de 1,5 Mhz
+[NAME PB]CPU de 1.5 Mhz
+[NAME JA]1.5 Mhz CPU
+[NAME CT]1.5 Mhz 處理器
+[DATE]JUN 1980
+[RES POINTS]1200
+[PRICE]300000
+[DEV COSTS]600000
+[TECHLEVEL]1
+
+[ID]2
+[TYP]0
+[NAME EN]2 Mhz CPU
+[NAME GE]2 Mhz CPU
+[NAME ES]CPU de 2 Mhz
+[NAME PB]CPU de 2 Mhz
+[NAME JA]2 Mhz CPU
+[NAME CT]2 Mhz 處理器
+[DATE]OCT 1982
+[RES POINTS]1400
+[PRICE]500000
+[DEV COSTS]1000000
+[TECHLEVEL]2
+
+[ID]3
+[TYP]0
+[NAME EN]3 Mhz CPU
+[NAME GE]3 Mhz CPU
+[NAME ES]CPU de 3 Mhz
+[NAME PB]CPU de 3 Mhz
+[NAME JA]3 Mhz CPU
+[NAME CT]3 Mhz 處理器
+[DATE]DEC 1984
+[RES POINTS]1600
+[PRICE]700000
+[DEV COSTS]1300000
+[TECHLEVEL]2
+
+[ID]4
+[TYP]0
+[NAME EN]4 Mhz CPU
+[NAME GE]4 Mhz CPU
+[NAME ES]CPU de 4 Mhz
+[NAME PB]CPU de 4 Mhz
+[NAME JA]4 Mhz CPU
+[NAME CT]4 Mhz 處理器
+[DATE]APR 1986
+[RES POINTS]1800
+[PRICE]1000000
+[DEV COSTS]2000000
+[TECHLEVEL]3
+
+[ID]5
+[TYP]0
+[NAME EN]12 Mhz CPU
+[NAME GE]12 Mhz CPU
+[NAME ES]CPU de 12 Mhz
+[NAME PB]CPU de 12 Mhz
+[NAME JA]12 Mhz CPU
+[NAME CT]12 Mhz 處理器
+[DATE]JUN 1990
+[RES POINTS]2000
+[PRICE]1200000
+[DEV COSTS]2500000
+[TECHLEVEL]3
+
+[ID]6
+[TYP]0
+[NAME EN]33 Mhz CPU
+[NAME GE]33 Mhz CPU
+[NAME ES]CPU de 33 Mhz
+[NAME PB]CPU de 33 Mhz
+[NAME JA]33 Mhz CPU
+[NAME CT]33 Mhz 處理器
+[DATE]FEB 1992
+[RES POINTS]2200
+[PRICE]2500000
+[DEV COSTS]5000000
+[TECHLEVEL]4
+
+[ID]7
+[TYP]0
+[NAME EN]112 Mhz CPU
+[NAME GE]112 Mhz CPU
+[NAME ES]CPU de 112 Mhz
+[NAME PB]CPU de 112 Mhz
+[NAME JA]112 Mhz CPU
+[NAME CT]112 Mhz 處理器
+[DATE]NOV 1995
+[RES POINTS]2400
+[PRICE]3500000
+[DEV COSTS]7000000
+[TECHLEVEL]4
+
+[ID]8
+[TYP]0
+[NAME EN]294 Mhz CPU
+[NAME GE]294 Mhz CPU
+[NAME ES]CPU de 294 Mhz
+[NAME PB]CPU de 294 Mhz
+[NAME JA]294 Mhz CPU
+[NAME CT]294 Mhz 處理器
+[DATE]OCT 1997
+[RES POINTS]2600
+[PRICE]7000000
+[DEV COSTS]13000000
+[TECHLEVEL]5
+
+[ID]9
+[TYP]0
+[NAME EN]550 Mhz CPU
+[NAME GE]550 Mhz CPU
+[NAME ES]CPU de 550 Mhz
+[NAME PB]CPU de 550 Mhz
+[NAME JA]550 Mhz CPU
+[NAME CT]550 Mhz 處理器
+[DATE]MAY 2000
+[RES POINTS]2800
+[PRICE]8000000
+[DEV COSTS]16000000
+[TECHLEVEL]5
+
+[ID]10
+[TYP]0
+[NAME EN]2-Core CPU
+[NAME GE]2-Core CPU
+[NAME ES]CPU de 2 núcleos
+[NAME PB]CPU de 2 núcleos
+[NAME JA]2コア CPU
+[NAME CT]雙核處理器
+[DATE]APR 2004
+[RES POINTS]3000
+[PRICE]10000000
+[DEV COSTS]21000000
+[TECHLEVEL]6
+
+[ID]11
+[TYP]0
+[NAME EN]4-Core CPU
+[NAME GE]4-Core CPU
+[NAME ES]CPU de 4 núcleos
+[NAME PB]CPU de 4 núcleos
+[NAME JA]4コア CPU
+[NAME CT]四核處理器
+[DATE]FEB 2009
+[RES POINTS]3200
+[PRICE]12000000
+[DEV COSTS]25000000
+[TECHLEVEL]6
+
+[ID]12
+[TYP]0
+[NAME EN]2x4-Core CPU
+[NAME GE]2x4-Core CPU
+[NAME ES]CPU de 2x4 núcleos
+[NAME PB]CPU de 2x4 núcleos
+[NAME JA]2x4コア CPU
+[NAME CT]2x四核處理器
+[DATE]JUL 2012
+[RES POINTS]3400
+[PRICE]16000000
+[DEV COSTS]33000000
+[TECHLEVEL]7
+
+[ID]13
+[TYP]0
+[NAME EN]8-Core CPU
+[NAME GE]8-Core CPU
+[NAME ES]CPU de 8 núcleos
+[NAME PB]CPU de 8 núcleos
+[NAME JA]8コア CPU
+[NAME CT]八核處理器
+[DATE]AUG 2015
+[RES POINTS]3600
+[PRICE]20000000
+[DEV COSTS]42000000
+[TECHLEVEL]7
+
+[ID]14
+[TYP]0
+[NAME EN]8-Core Extreme CPU
+[NAME GE]8-Core Extreme CPU
+[NAME ES]CPU extrema de 8 núcleos
+[NAME PB]CPU extreme de 8 núcleos
+[NAME JA]8コア Extreme CPU
+[NAME CT]八核極限處理器
+[DATE]SEP 2019
+[RES POINTS]3800
+[PRICE]26000000
+[DEV COSTS]54000000
+[TECHLEVEL]8
+
+[ID]15
+[TYP]0
+[NAME EN]12-Core CPU
+[NAME GE]12-Core CPU
+[NAME ES]CPU de 12 núcleos
+[NAME PB]CPU de 12 núcleos
+[NAME JA]12コア CPU
+[NAME CT]十二核處理器
+[DATE]MAY 2023
+[RES POINTS]4000
+[PRICE]30000000
+[DEV COSTS]62000000
+[TECHLEVEL]8
+
+[ID]16
+[TYP]0
+[NAME EN]16-Core CPU
+[NAME GE]16-Core CPU
+[NAME ES]CPU de 16 núcleos
+[NAME PB]CPU de 16 núcleos
+[NAME JA]16コア CPU
+[NAME CT]十六核處理器
+[DATE]MAR 2027
+[RES POINTS]4200
+[PRICE]35000000
+[DEV COSTS]76000000
+[TECHLEVEL]9
+
+[ID]17
+[TYP]0
+[NAME EN]24-Core CPU
+[NAME GE]24-Core CPU
+[NAME ES]CPU de 24 núcleos
+[NAME PB]CPU de 24 núcleos
+[NAME JA]24コア CPU
+[NAME CT]廿四核處理器
+[DATE]FEB 2033
+[RES POINTS]4400
+[PRICE]40000000
+[DEV COSTS]85000000
+[TECHLEVEL]9
+
+////////////////////////////////////////////////////////////////////
+
+[ID]18
+[TYP]1
+[NAME EN]Television Interface Adaptor
+[NAME GE]Television Interface Adaptor
+[NAME ES]Television Interface Adaptor
+[NAME PB]Television Interface Adaptor
+[NAME JA]Television Interface Adaptor
+[NAME CT]Television Interface Adaptor
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]200000
+[TECHLEVEL]1
+
+[ID]19
+[TYP]1
+[NAME EN]Graphic Television Interface Adaptor
+[NAME GE]Graphic Television Interface Adaptor
+[NAME ES]Graphic Television Interface Adaptor
+[NAME PB]Graphic Television Interface Adaptor
+[NAME JA]Graphic Television Interface Adaptor
+[NAME CT]Graphic Television Interface Adaptor
+[DATE]JUL 1980
+[RES POINTS]1000
+[PRICE]150000
+[DEV COSTS]300000
+[TECHLEVEL]1
+
+[ID]20
+[TYP]1
+[NAME EN]Color Graphics Adapter
+[NAME GE]Color Graphics Adapter
+[NAME ES]Color Graphics Adapter
+[NAME PB]Color Graphics Adapter
+[NAME JA]Color Graphics Adapter
+[NAME CT]Color Graphics Adapter
+[DATE]OCT 1982
+[RES POINTS]1200
+[PRICE]350000
+[DEV COSTS]700000
+[TECHLEVEL]2
+
+[ID]21
+[TYP]1
+[NAME EN]Enhanced Graphics Adapter
+[NAME GE]Enhanced Graphics Adapter
+[NAME ES]Enhanced Graphics Adapter
+[NAME PB]Enhanced Graphics Adapter
+[NAME JA]Enhanced Graphics Adapter
+[NAME CT]Enhanced Graphics Adapter
+[DATE]APR 1984
+[RES POINTS]1400
+[PRICE]500000
+[DEV COSTS]1000000
+[TECHLEVEL]2
+
+[ID]22
+[TYP]1
+[NAME EN]ATI Graphics Solution Rev 3
+[NAME GE]ATI Graphics Solution Rev 3
+[NAME ES]ATI Graphics Solution Rev 3
+[NAME PB]ATI Graphics Solution Rev 3
+[NAME JA]ATI Graphics Solution Rev 3
+[NAME CT]ATI Graphics Solution Rev 3
+[DATE]MAY 1986
+[RES POINTS]1600
+[PRICE]800000
+[DEV COSTS]1800000
+[TECHLEVEL]3
+
+[ID]23
+[TYP]1
+[NAME EN]ATI Mach 8
+[NAME GE]ATI Mach 8
+[NAME ES]ATI Mach 8
+[NAME PB]ATI Mach 8
+[NAME JA]ATI Mach 8
+[NAME CT]ATI Mach 8
+[DATE]NOV 1990
+[RES POINTS]1800
+[PRICE]1000000
+[DEV COSTS]2200000
+[TECHLEVEL]3
+
+[ID]24
+[TYP]1
+[NAME EN]ATI Mach 32
+[NAME GE]ATI Mach 32
+[NAME ES]ATI Mach 32
+[NAME PB]ATI Mach 32
+[NAME JA]ATI Mach 32
+[NAME CT]ATI Mach 32
+[DATE]FEB 1992
+[RES POINTS]2000
+[PRICE]2500000
+[DEV COSTS]5200000
+[TECHLEVEL]4
+
+[ID]25
+[TYP]1
+[NAME EN]ATI 3D Xpression
+[NAME GE]ATI 3D Xpression
+[NAME ES]ATI 3D Xpression
+[NAME PB]ATI 3D Xpression
+[NAME JA]ATI 3D Xpression
+[NAME CT]ATI 3D Xpression
+[DATE]JUL 1994
+[RES POINTS]2200
+[PRICE]3600000
+[DEV COSTS]7500000
+[TECHLEVEL]4
+
+[ID]26
+[TYP]1
+[NAME EN]Voodoo Rush
+[NAME GE]Voodoo Rush
+[NAME ES]Voodoo Rush
+[NAME PB]Voodoo Rush
+[NAME JA]Voodoo Rush
+[NAME CT]Voodoo Rush
+[DATE]OCT 1997
+[RES POINTS]2400
+[PRICE]7000000
+[DEV COSTS]14000000
+[TECHLEVEL]5
+
+[ID]27
+[TYP]1
+[NAME EN]NVIDIA GeForce2 MX + nForce 220
+[NAME GE]NVIDIA GeForce2 MX + nForce 220
+[NAME ES]NVIDIA GeForce2 MX + nForce 220
+[NAME PB]NVIDIA GeForce2 MX + nForce 220
+[NAME JA]NVIDIA GeForce2 MX + nForce 220
+[NAME CT]NVIDIA GeForce2 MX + nForce 220
+[DATE]JUN 2001
+[RES POINTS]2600
+[PRICE]9000000
+[DEV COSTS]18000000
+[TECHLEVEL]5
+
+[ID]28
+[TYP]1
+[NAME EN]ATI Radeon 9250
+[NAME GE]ATI Radeon 9250
+[NAME ES]ATI Radeon 9250
+[NAME PB]ATI Radeon 9250
+[NAME JA]ATI Radeon 9250
+[NAME CT]ATI Radeon 9250
+[DATE]APR 2004
+[RES POINTS]2800
+[PRICE]10000000
+[DEV COSTS]23000000
+[TECHLEVEL]6
+
+[ID]29
+[TYP]1
+[NAME EN]NVIDIA GeForce GTX 260
+[NAME GE]NVIDIA GeForce GTX 260
+[NAME ES]NVIDIA GeForce GTX 260
+[NAME PB]NVIDIA GeForce GTX 260
+[NAME JA]NVIDIA GeForce GTX 260
+[NAME CT]NVIDIA GeForce GTX 260
+[DATE]NOV 2008
+[RES POINTS]3000
+[PRICE]14000000
+[DEV COSTS]28000000
+[TECHLEVEL]6
+
+[ID]30
+[TYP]1
+[NAME EN]AMD Radeon HD 7850
+[NAME GE]AMD Radeon HD 7850
+[NAME ES]AMD Radeon HD 7850
+[NAME PB]AMD Radeon HD 7850
+[NAME JA]AMD Radeon HD 7850
+[NAME CT]AMD Radeon HD 7850
+[DATE]DEC 2012
+[RES POINTS]3200
+[PRICE]20000000
+[DEV COSTS]37000000
+[TECHLEVEL]7
+
+[ID]31
+[TYP]1
+[NAME EN]AMD Radeon R9 370
+[NAME GE]AMD Radeon R9 370
+[NAME ES]AMD Radeon R9 370
+[NAME PB]AMD Radeon R9 370
+[NAME JA]AMD Radeon R9 370
+[NAME CT]AMD Radeon R9 370
+[DATE]JAN 2015
+[RES POINTS]3400
+[PRICE]24000000
+[DEV COSTS]49000000
+[TECHLEVEL]7
+
+[ID]32
+[TYP]1
+[NAME EN]NVIDIA GeForce RTX 2060
+[NAME GE]NVIDIA GeForce RTX 2060
+[NAME ES]NVIDIA GeForce RTX 2060
+[NAME PB]NVIDIA GeForce RTX 2060
+[NAME JA]NVIDIA GeForce RTX 2060
+[NAME CT]NVIDIA GeForce RTX 2060
+[DATE]APR 2019
+[RES POINTS]3600
+[PRICE]30000000
+[DEV COSTS]60000000
+[TECHLEVEL]8
+
+[ID]33
+[TYP]1
+[NAME EN]Radeon RX 7700 XT
+[NAME GE]Radeon RX 7700 XT
+[NAME ES]Radeon RX 7700 XT
+[NAME PB]Radeon RX 7700 XT
+[NAME JA]Radeon RX 7700 XT
+[NAME CT]Radeon RX 7700 XT
+[DATE]JUN 2023
+[RES POINTS]3800
+[PRICE]35000000
+[DEV COSTS]71000000
+[TECHLEVEL]8
+
+[ID]34
+[TYP]1
+[NAME EN]NVIDIA GeForce RTX 6070
+[NAME GE]NVIDIA GeForce RTX 6070
+[NAME ES]NVIDIA GeForce RTX 6070
+[NAME PB]NVIDIA GeForce RTX 6070
+[NAME JA]NVIDIA GeForce RTX 6070
+[NAME CT]NVIDIA GeForce RTX 6070
+[DATE]MAY 2027
+[RES POINTS]4000
+[PRICE]40000000
+[DEV COSTS]84000000
+[TECHLEVEL]9
+
+[ID]35
+[TYP]1
+[NAME EN]NVIDIA GeForce RTX 7680 Ti
+[NAME GE]NVIDIA GeForce RTX 7680 Ti
+[NAME ES]NVIDIA GeForce RTX 7680 Ti
+[NAME PB]NVIDIA GeForce RTX 7680 Ti
+[NAME JA]NVIDIA GeForce RTX 7680 Ti
+[NAME CT]NVIDIA GeForce RTX 7680 Ti
+[DATE]OCT 2031
+[RES POINTS]4200
+[PRICE]45000000
+[DEV COSTS]92000000
+[TECHLEVEL]9
+
+////////////////////////////////////////////////////////////////////
+
+[ID]36
+[TYP]2
+[NAME EN]128 Bytes
+[NAME GE]128 Bytes
+[NAME ES]128 Bytes
+[NAME PB]128 Bytes
+[NAME JA]128バイト
+[NAME CT]128位元組
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]250000
+[TECHLEVEL]1
+
+[ID]37
+[TYP]2
+[NAME EN]1024 Bytes 
+[NAME GE]1024 Bytes 
+[NAME ES]1024 Bytes 
+[NAME PB]1024 Bytes
+[NAME JA]1024バイト
+[NAME CT]1024位元組
+[DATE]JUN 1979
+[RES POINTS]600
+[PRICE]180000
+[DEV COSTS]380000
+[TECHLEVEL]1
+
+[ID]38
+[TYP]2
+[NAME EN]8 Kilobyte
+[NAME GE]8 Kilobyte
+[NAME ES]8 kilobytes
+[NAME PB]8 Kilobytes
+[NAME JA]8KB
+[NAME CT]8KB
+[DATE]JUL 1982
+[RES POINTS]800
+[PRICE]250000
+[DEV COSTS]500000
+[TECHLEVEL]2
+
+[ID]39
+[TYP]2
+[NAME EN]64 Kilobyte
+[NAME GE]64 Kilobyte
+[NAME ES]64 kilobytes
+[NAME PB]64 Kilobytes
+[NAME JA]64KB
+[NAME CT]64KB
+[DATE]DEC 1984
+[RES POINTS]1000
+[PRICE]350000
+[DEV COSTS]700000
+[TECHLEVEL]2
+
+[ID]40
+[TYP]2
+[NAME EN]128 Kilobyte
+[NAME GE]128 Kilobyte
+[NAME ES]128 kilobytes
+[NAME PB]128 Kilobytes
+[NAME JA]128KB
+[NAME CT]128KB
+[DATE]FEB 1986
+[RES POINTS]1200
+[PRICE]500000
+[DEV COSTS]1000000
+[TECHLEVEL]3
+
+[ID]41
+[TYP]2
+[NAME EN]512 Kilobyte
+[NAME GE]512 Kilobyte
+[NAME ES]512 kilobytes
+[NAME PB]512 Kilobytes
+[NAME JA]512KB
+[NAME CT]512KB
+[DATE]MAR 1989
+[RES POINTS]1400
+[PRICE]600000
+[DEV COSTS]1200000
+[TECHLEVEL]3
+
+[ID]42
+[TYP]2
+[NAME EN]2 Megabyte
+[NAME GE]2 Megabyte
+[NAME ES]2 Megabytes
+[NAME PB]2 Megabytes
+[NAME JA]2MB
+[NAME CT]2MB
+[DATE]OCT 1992
+[RES POINTS]1600
+[PRICE]1000000
+[DEV COSTS]2500000
+[TECHLEVEL]4
+
+[ID]43
+[TYP]2
+[NAME EN]8 Megabyte
+[NAME GE]8 Megabyte
+[NAME ES]8 Megabytes
+[NAME PB]8 Megabytes
+[NAME JA]8MB
+[NAME CT]8MB
+[DATE]NOV 1995
+[RES POINTS]1800
+[PRICE]1500000
+[DEV COSTS]3400000
+[TECHLEVEL]4
+
+[ID]44
+[TYP]2
+[NAME EN]32 Megabyte
+[NAME GE]32 Megabyte
+[NAME ES]32 Megabytes
+[NAME PB]32 Megabytes
+[NAME JA]32MB
+[NAME CT]32MB
+[DATE]DEC 1997
+[RES POINTS]2000
+[PRICE]3000000
+[DEV COSTS]6000000
+[TECHLEVEL]5
+
+[ID]45
+[TYP]2
+[NAME EN]128 Megabyte
+[NAME GE]128 Megabyte
+[NAME ES]128 Megabytes
+[NAME PB]128 Megabytes
+[NAME JA]128MB
+[NAME CT]128MB
+[DATE]SEP 2002
+[RES POINTS]2200
+[PRICE]4000000
+[DEV COSTS]8000000
+[TECHLEVEL]5
+
+[ID]46
+[TYP]2
+[NAME EN]512 Megabyte
+[NAME GE]512 Megabyte
+[NAME ES]512 Megabytes
+[NAME PB]512 Megabytes
+[NAME JA]512MB
+[NAME CT]512MB
+[DATE]FEB 2004
+[RES POINTS]2400
+[PRICE]6000000
+[DEV COSTS]12000000
+[TECHLEVEL]6
+
+[ID]47
+[TYP]2
+[NAME EN]2 Gigabyte
+[NAME GE]2 Gigabyte
+[NAME ES]2 Gigabytes
+[NAME PB]2 Gigabytes
+[NAME JA]2GB
+[NAME CT]2GB
+[DATE]MAY 2008
+[RES POINTS]2600
+[PRICE]7000000
+[DEV COSTS]14000000
+[TECHLEVEL]6
+
+[ID]48
+[TYP]2
+[NAME EN]8 Gigabyte
+[NAME GE]8 Gigabyte
+[NAME ES]8 Gigabytes
+[NAME PB]8 Gigabytes
+[NAME JA]8GB
+[NAME CT]8GB
+[DATE]JAN 2012
+[RES POINTS]2800
+[PRICE]8000000
+[DEV COSTS]17000000
+[TECHLEVEL]7
+
+[ID]49
+[TYP]2
+[NAME EN]12 Gigabyte
+[NAME GE]12 Gigabyte
+[NAME ES]12 Gigabytes
+[NAME PB]12 Gigabytes
+[NAME JA]12GB
+[NAME CT]12GB
+[DATE]OCT 2015
+[RES POINTS]3000
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]7
+
+[ID]50
+[TYP]2
+[NAME EN]16 Gigabyte
+[NAME GE]16 Gigabyte
+[NAME ES]16 Gigabytes
+[NAME PB]16 Gigabytes
+[NAME JA]16GB
+[NAME CT]16GB
+[DATE]JUN 2019
+[RES POINTS]3200
+[PRICE]13000000
+[DEV COSTS]26000000
+[TECHLEVEL]8
+
+[ID]51
+[TYP]2
+[NAME EN]32 Gigabyte 
+[NAME GE]32 Gigabyte
+[NAME ES]32 Gigabytes
+[NAME PB]32 Gigabytes
+[NAME JA]32GB
+[NAME CT]32GB
+[DATE]APR 2024
+[RES POINTS]3400
+[PRICE]15000000
+[DEV COSTS]30000000
+[TECHLEVEL]8
+
+[ID]52
+[TYP]2
+[NAME EN]64 Gigabyte
+[NAME GE]64 Gigabyte
+[NAME ES]64 Gigabytes
+[NAME PB]64 Gigabytes
+[NAME JA]64GB
+[NAME CT]64GB
+[DATE]NOV 2027
+[RES POINTS]3600
+[PRICE]20000000
+[DEV COSTS]37000000
+[TECHLEVEL]9
+
+[ID]53
+[TYP]2
+[NAME EN]128 Gigabyte
+[NAME GE]128 Gigabyte
+[NAME ES]128 Gigabytes
+[NAME PB]128 Gigabytes
+[NAME JA]128GB
+[NAME CT]128GB
+[DATE]JUL 2032
+[RES POINTS]3800
+[PRICE]25000000
+[DEV COSTS]45000000
+[TECHLEVEL]9
+
+////////////////////////////////////////////////////////////////////
+
+[ID]54
+[TYP]3
+[NAME EN]No storage option
+[NAME GE]Keine Speichermöglichkeit
+[NAME ES]Sin opción de almacenamiento
+[NAME PB]Sem opção de armazenamento
+[NAME JA]対応ストレージ無し
+[NAME CT]沒有儲存選項
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]0
+[TECHLEVEL]1
+
+[ID]55
+[TYP]3
+[NAME EN]128 bytes on cartridge
+[NAME GE]128 Bytes auf Modul
+[NAME ES]128 bytes en cartucho
+[NAME PB]Cartucho de 128 bytes
+[NAME JA]128バイト バッテリーバックアップ
+[NAME CT]128位元組卡帶
+[DATE]MAR 1978
+[RES POINTS]600
+[PRICE]160000
+[DEV COSTS]320000
+[TECHLEVEL]1
+
+[ID]56
+[TYP]3
+[NAME EN]1 kilobyte on cartridge
+[NAME GE]1 Kilobyte auf Modul
+[NAME ES]1 kilobyte en cartucho
+[NAME PB]Cartucho de 1 kilobyte
+[NAME JA]1KB バッテリーバックアップ
+[NAME CT]1KB卡帶
+[DATE]APR 1982
+[RES POINTS]800
+[PRICE]250000
+[DEV COSTS]570000
+[TECHLEVEL]2
+
+[ID]57
+[TYP]3
+[NAME EN]4 kilobyte on cartridge
+[NAME GE]4 Kilobyte auf Modul
+[NAME ES]4 kilobytes en cartucho
+[NAME PB]Cartucho de 4 kilobytes
+[NAME JA]4KB バッテリーバックアップ
+[NAME CT]4KB卡帶
+[DATE]SEP 1984
+[RES POINTS]1000
+[PRICE]400000
+[DEV COSTS]800000
+[TECHLEVEL]2
+
+[ID]58
+[TYP]3
+[NAME EN]8 kilobyte on cartridge
+[NAME GE]8 Kilobyte auf Modul
+[NAME ES]8 kilobytes en cartucho
+[NAME PB]Cartucho de 8 kilobytes
+[NAME JA]8KB バッテリーバックアップ
+[NAME CT]8KB卡帶
+[DATE]OCT 1986
+[RES POINTS]1200
+[PRICE]550000
+[DEV COSTS]1100000
+[TECHLEVEL]3
+
+[ID]59
+[TYP]3
+[NAME EN]32 kilobyte on cartridge
+[NAME GE]32 Kilobyte auf Modul
+[NAME ES]32 kilobytes en cartucho
+[NAME PB]Cartucho de 32 kilobytes
+[NAME JA]32KB バッテリーバックアップ
+[NAME CT]32KB卡帶
+[DATE]DEC 1990
+[RES POINTS]1400
+[PRICE]700000
+[DEV COSTS]1400000
+[TECHLEVEL]3
+
+[ID]60
+[TYP]3
+[NAME EN]512 kilobyte memory card
+[NAME GE]512 Kilobyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 512 kilobytes
+[NAME PB]Cartão de memória de 512 kilobytes
+[NAME JA]512KB メモリーカード
+[NAME CT]512KB記憶卡
+[DATE]AUG 1992
+[RES POINTS]1600
+[PRICE]1300000
+[DEV COSTS]2800000
+[TECHLEVEL]4
+
+[ID]61
+[TYP]3
+[NAME EN]4 megabyte memory card
+[NAME GE]4 Megabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 4 megabytes
+[NAME PB]Cartão de memória de 4 megabytes
+[NAME JA]4MB メモリーカード
+[NAME CT]4MB記憶卡
+[DATE]FEB 1995
+[RES POINTS]1800
+[PRICE]2200000
+[DEV COSTS]4600000
+[TECHLEVEL]4
+
+[ID]62
+[TYP]3
+[NAME EN]32 megabyte memory card
+[NAME GE]32 Megabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 32 megabytes
+[NAME PB]Cartão de memória de 32 megabytes
+[NAME JA]32MB メモリーカード
+[NAME CT]32MB記憶卡
+[DATE]MAY 1997
+[RES POINTS]2000
+[PRICE]3500000
+[DEV COSTS]7200000
+[TECHLEVEL]5
+
+[ID]63
+[TYP]3
+[NAME EN]64 megabyte memory card
+[NAME GE]64 Megabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 64 megabytes
+[NAME PB]Cartão de memória de 64 megabytes
+[NAME JA]64MB メモリーカード
+[NAME CT]64MB記憶卡
+[DATE]SEP 2002
+[RES POINTS]2200
+[PRICE]4000000
+[DEV COSTS]8500000
+[TECHLEVEL]5
+
+[ID]64
+[TYP]3
+[NAME EN]20 gigabyte hard disk
+[NAME GE]20 Gigabyte Festplatte
+[NAME ES]Disco duro de 20 gigabytes
+[NAME PB]Disco rígido de 20 gigabytes
+[NAME JA]20GB ハードディスク
+[NAME CT]20GB硬碟
+[DATE]JUL 2004
+[RES POINTS]2400
+[PRICE]6000000
+[DEV COSTS]13000000
+[TECHLEVEL]6
+[ONLY_STATIONARY]
+
+[ID]65
+[TYP]3
+[NAME EN]2 gigabyte memory card
+[NAME GE]2 Gigabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 2 gigabytes
+[NAME PB]Cartão de memória de 2 gigabytes
+[NAME JA]2GB メモリーカード
+[NAME CT]2GB記憶卡
+[DATE]MAY 2007
+[RES POINTS]2400
+[PRICE]6000000
+[DEV COSTS]13000000
+[TECHLEVEL]6
+[ONLY_HANDHELD]
+
+[ID]66
+[TYP]3
+[NAME EN]80 gigabyte hard disk
+[NAME GE]80 Gigabyte Festplatte
+[NAME ES]Disco duro de 80 gigabytes
+[NAME PB]Disco rígido de 80 gigabytes
+[NAME JA]80GB ハードディスク
+[NAME CT]80GB硬碟
+[DATE]FEB 2008
+[RES POINTS]2600
+[PRICE]7000000
+[DEV COSTS]15000000
+[TECHLEVEL]6
+[ONLY_STATIONARY]
+
+[ID]67
+[TYP]3
+[NAME EN]500 gigabyte hard disk
+[NAME GE]500 Gigabyte Festplatte
+[NAME ES]Disco duro de 500 gigabytes
+[NAME PB]Disco rígido de 500 gigabytes
+[NAME JA]500GB ハードディスク
+[NAME CT]500GB硬碟
+[DATE]JAN 2012
+[RES POINTS]2800
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]7
+[ONLY_STATIONARY]
+
+[ID]68
+[TYP]3
+[NAME EN]8 gigabyte memory card
+[NAME GE]8 Gigabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 8 gigabytes
+[NAME PB]Cartão de memória de 8 gigabytes
+[NAME JA]8GB メモリーカード
+[NAME CT]8GB記憶卡
+[DATE]SEP 2015
+[RES POINTS]2800
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]7
+[ONLY_HANDHELD]
+
+[ID]69
+[TYP]3
+[NAME EN]800 gigabyte hard disk
+[NAME GE]800 Gigabyte Festplatte
+[NAME ES]Disco duro de 800 gigabytes
+[NAME PB]Disco rígido de 800 gigabytes
+[NAME JA]800GB ハードディスク
+[NAME CT]800GB硬碟
+[DATE]OCT 2015
+[RES POINTS]3000
+[PRICE]12000000
+[DEV COSTS]25000000
+[TECHLEVEL]7
+[ONLY_STATIONARY]
+
+[ID]70
+[TYP]3
+[NAME EN]1 terabyte hard disk
+[NAME GE]1 Terabyte Festplatte
+[NAME ES]Disco duro de 1 terabyte
+[NAME PB]Disco rígido de 1 terabyte
+[NAME JA]1TB ハードディスク
+[NAME CT]1TB硬碟
+[DATE]MAY 2019
+[RES POINTS]3200
+[PRICE]17000000
+[DEV COSTS]35000000
+[TECHLEVEL]8
+[ONLY_STATIONARY]
+
+[ID]71
+[TYP]3
+[NAME EN]32 gigabyte memory card
+[NAME GE]32 Gigabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 32 gigabytes
+[NAME PB]Cartão de memória de 32 gigabytes
+[NAME JA]32GB メモリーカード
+[NAME CT]32GB記憶卡
+[DATE]APR 2019
+[RES POINTS]3000
+[PRICE]17000000
+[DEV COSTS]35000000
+[TECHLEVEL]7
+[ONLY_HANDHELD]
+
+[ID]72
+[TYP]3
+[NAME EN]4 terabyte hard disk
+[NAME GE]4 Terabyte Festplatte
+[NAME ES]Disco duro de 4 terabytes
+[NAME PB]Disco rígido de 4 Terabytes
+[NAME JA]4TB ハードディスク
+[NAME CT]4TB硬碟
+[DATE]DEC 2025
+[RES POINTS]3400
+[PRICE]20000000
+[DEV COSTS]42000000
+[TECHLEVEL]8
+[ONLY_STATIONARY]
+
+[ID]73
+[TYP]3
+[NAME EN]512 gigabyte memory card
+[NAME GE]512 Gigabyte Speicherkarte
+[NAME ES]Tarjeta de memoria de 512 gigabytes
+[NAME PB]Cartão de memória de 512 gigabytes
+[NAME JA]512GB メモリーカード
+[NAME CT]512GB記憶卡
+[DATE]NOV 2026
+[RES POINTS]3400
+[PRICE]20000000
+[DEV COSTS]42000000
+[TECHLEVEL]8
+[ONLY_HANDHELD]
+
+[ID]74
+[TYP]3
+[NAME EN]16 terabyte hard disk
+[NAME GE]16 Terabyte Festplatte
+[NAME ES]Disco duro de 16 terabytes
+[NAME PB]Disco rígido de 16 Terabytes
+[NAME JA]16TB ハードディスク
+[NAME CT]16TB硬碟
+[DATE]MAY 2032
+[RES POINTS]3600
+[PRICE]25000000
+[DEV COSTS]55000000
+[TECHLEVEL]9
+[ONLY_STATIONARY]
+
+[ID]151
+[TYP]3
+[NAME EN]32 terabyte hard disk
+[NAME GE]32 Terabyte Festplatte
+[NAME TU]32TB Hard Disk
+[NAME ES]Disco duro de 32TB
+[NAME PB]Disco rígido de 32 Terabytes
+[NAME JA]32TB ハードディスク
+[NAME CH]32TB硬盘
+[NAME CT]32TB硬碟
+[NAME IT]Disco rigido 32TB
+[NAME FR]Disque dur de 32 téraoctet
+[NAME PL]Dysk 32 TB
+[NAME UA]Жорсткий диск на 32 ТБ
+[NAME CZ]32 TB pevný disk
+[NAME TH]ฮาร์ดดิสก์ขนาด 32 เทราไบต์
+[DATE]MAY 2033
+[RES POINTS]4000
+[PRICE]30000000
+[DEV COSTS]65000000
+[TECHLEVEL]9
+[ONLY_STATIONARY]
+
+[ID]152
+[TYP]3
+[NAME EN]750 gigabyte memory card
+[NAME GE]750 Gigabyte Speicherkarte
+[NAME TU]750GB Hafıza Kartı
+[NAME ES]Tarjeta de memoria de 750GB
+[NAME PB]Cartão de memória de 750 gigabytes
+[NAME JA]750GB メモリーカード
+[NAME CH]750GB记忆卡
+[NAME CT]750GB記憶卡
+[NAME IT]Scheda di memoria da 750GB
+[NAME FR]Carte mémoire de 750 gigaoctets
+[NAME PL]Karta pamięci 750 GB
+[NAME UA]Карта пам'яті на 750 ГБ
+[NAME CZ]750 GB paměťová karta
+[NAME TH]เมมโมรีการ์ดขนาด 750 กิกะไบต์
+[DATE]NOV 2026
+[RES POINTS]3600
+[PRICE]23000000
+[DEV COSTS]48000000
+[TECHLEVEL]8
+[ONLY_HANDHELD]
+
+[ID]153
+[TYP]3
+[NAME EN]1 terabyte memory card
+[NAME GE]1 Terabyte Speicherkarte
+[NAME TU]1TB Hafıza Kartı
+[NAME ES]Tarjeta de memoria de 1TB
+[NAME PB]1 terabyte memory card
+[NAME JA]1TB メモリーカード
+[NAME CH]1TB记忆卡
+[NAME CT]1TB記憶卡
+[NAME IT]Scheda di memoria da 1TB
+[NAME FR]1 terabyte memory card
+[NAME PL]Karta pamięci 1 TB
+[NAME UA]1 terabyte memory card
+[NAME CZ]1 TB paměťová karta
+[NAME TH]เมมโมรีการ์ดขนาด 1 เทราไบต์
+[DATE]FEB 2028
+[RES POINTS]4000
+[PRICE]26000000
+[DEV COSTS]50000000
+[TECHLEVEL]9
+[ONLY_HANDHELD]
+
+[ID]154
+[TYP]3
+[NAME EN]4 terabyte memory card
+[NAME GE]4 Terabyte Speicherkarte
+[NAME TU]4TB Hafıza Kartı
+[NAME ES]Tarjeta de memoria de 4TB
+[NAME PB]4 terabyte memory card
+[NAME JA]4TB メモリーカード
+[NAME CH]4TB记忆卡
+[NAME CT]4TB記憶卡
+[NAME IT]Scheda di memoria da 4TB
+[NAME FR]4 terabyte memory card
+[NAME PL]Karta pamięci 4 TB
+[NAME UA]4 terabyte memory card
+[NAME CZ]4 TB paměťová karta
+[NAME TH]เมมโมรีการ์ดขนาด 4 เทราไบต์
+[DATE]OCT 2034
+[RES POINTS]4500
+[PRICE]30000000
+[DEV COSTS]60000000
+[TECHLEVEL]9
+[ONLY_HANDHELD]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]75
+[TYP]7
+[NAME EN]Controller I
+[NAME GE]Controller I
+[NAME ES]Controlador I
+[NAME PB]Controle I
+[NAME JA]コントローラー 第1世代
+[NAME CT]第一代控制器
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]180000
+[TECHLEVEL]1
+[NEED-1]45
+[ONLY_STATIONARY]
+
+[ID]76
+[TYP]7
+[NAME EN]Controller II
+[NAME GE]Controller II
+[NAME ES]Controlador II
+[NAME PB]Controle II
+[NAME JA]コントローラー 第2世代
+[NAME CT]第二代控制器
+[DATE]FEB 1982
+[RES POINTS]1000
+[PRICE]250000
+[DEV COSTS]500000
+[TECHLEVEL]2
+[NEED-1]45
+[ONLY_STATIONARY]
+
+[ID]77
+[TYP]7
+[NAME EN]Controller III
+[NAME GE]Controller III
+[NAME ES]Controlador III
+[NAME PB]Controle III
+[NAME JA]コントローラー 第3世代
+[NAME CT]第三代控制器
+[DATE]JUN 1986
+[RES POINTS]1500
+[PRICE]500000
+[DEV COSTS]1200000
+[TECHLEVEL]3
+[NEED-1]45
+[ONLY_STATIONARY]
+
+[ID]78
+[TYP]7
+[NAME EN]Modern controller I
+[NAME GE]Moderner Controller I
+[NAME ES]Controlador moderno I
+[NAME PB]Controle moderno I
+[NAME JA]新型コントローラー 第1世代
+[NAME CT]第一期近代控制器
+[DATE]AUG 1992
+[RES POINTS]2000
+[PRICE]1000000
+[DEV COSTS]2000000
+[TECHLEVEL]4
+[NEED-1]51
+[ONLY_STATIONARY]
+
+[ID]79
+[TYP]7
+[NAME EN]Modern controller II
+[NAME GE]Moderner Controller II
+[NAME ES]Controlador moderno II
+[NAME PB]Controle moderno II
+[NAME JA]新型コントローラー 第2世代
+[NAME CT]第二期近代控制器
+[DATE]DEC 1997
+[RES POINTS]2500
+[PRICE]2500000
+[DEV COSTS]5000000
+[TECHLEVEL]5
+[NEED-1]51
+[ONLY_STATIONARY]
+
+[ID]80
+[TYP]7
+[NAME EN]Modern controller III
+[NAME GE]Moderner Controller III
+[NAME ES]Controlador moderno III
+[NAME PB]Controle moderno III
+[NAME JA]新型コントローラー 第3世代
+[NAME CT]第三期近代控制器
+[DATE]MAY 2004
+[RES POINTS]3000
+[PRICE]5000000
+[DEV COSTS]10000000
+[TECHLEVEL]6
+[NEED-1]51
+[ONLY_STATIONARY]
+
+[ID]81
+[TYP]7
+[NAME EN]Modern controller IV
+[NAME GE]Moderner Controller IV
+[NAME ES]Controlador moderno IV
+[NAME PB]Controle moderno IV
+[NAME JA]新型コントローラー 第4世代
+[NAME CT]第四期近代控制器
+[DATE]APR 2012
+[RES POINTS]3500
+[PRICE]7500000
+[DEV COSTS]15000000
+[TECHLEVEL]7
+[NEED-1]51
+[ONLY_STATIONARY]
+
+[ID]82
+[TYP]7
+[NAME EN]Modern controller V
+[NAME GE]Moderner Controller V
+[NAME ES]Controlador moderno V
+[NAME PB]Controle moderno V
+[NAME JA]新型コントローラー 第5世代
+[NAME CT]第五期近代控制器
+[DATE]AUG 2019
+[RES POINTS]4000
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]8
+[NEED-1]51
+[ONLY_STATIONARY]
+
+[ID]148
+[TYP]7
+[NAME EN]Modern controller VI
+[NAME GE]Moderner Controller VI
+[NAME TU]Modern Kontrolcü VI
+[NAME ES]Controlador moderno VI
+[NAME PB]Controle moderno VI
+[NAME JA]新型コントローラー 第6世代
+[NAME CH]Modern controller VI
+[NAME CT]第六期近代控制器
+[NAME IT]Controller moderno VI
+[NAME FR]Manette moderne VI
+[NAME PL]Nowoczesny Kontroler VI
+[NAME UA]Сучасний контролер VI
+[NAME CZ]Moderní ovladač VI
+[NAME TH]คอนโทรลเลอร์สมัยใหม่ VI
+[DATE]AUG 2026
+[RES POINTS]5000
+[PRICE]13000000
+[DEV COSTS]25000000
+[TECHLEVEL]9
+[NEED-1]51
+[ONLY_STATIONARY]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]83
+[TYP]9
+[NAME EN]1.8 inch grayscale screen
+[NAME GE]1,8 Zoll Graustufen-Bildschirm
+[NAME ES]Pantalla de escala de grises de 1,8 pulgadas
+[NAME PB]Tela em tons de cinza de 1,8 polegadas
+[NAME JA]1.8インチ 白黒画面
+[NAME CT]1.8吋灰階屏幕
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]360000
+[TECHLEVEL]1
+[NEED-1]45
+[ONLY_HANDHELD]
+
+[ID]84
+[TYP]9
+[NAME EN]2.6 inch grayscale screen
+[NAME GE]2,6 Zoll Graustufen-Bildschirm
+[NAME ES]Pantalla en escala de grises de 2,6 pulgadas
+[NAME PB]Tela em tons de cinza de 2,6 polegadas
+[NAME JA]2.6インチ 白黒画面
+[NAME CT]2.6吋灰階屏幕
+[DATE]JUL 1985
+[RES POINTS]1000
+[PRICE]400000
+[DEV COSTS]900000
+[TECHLEVEL]2
+[NEED-1]45
+[ONLY_HANDHELD]
+
+[ID]85
+[TYP]9
+[NAME EN]3.2 inch color screen
+[NAME GE]3,2 Zoll Farb-Bildschirm
+[NAME ES]Pantalla a color de 3,2 pulgadas
+[NAME PB]Tela colorida de 3,2 polegadas
+[NAME JA]3.2インチ カラー画面
+[NAME CT]3.2吋彩色屏幕
+[DATE]JUN 1989
+[RES POINTS]1500
+[PRICE]1000000
+[DEV COSTS]2000000
+[TECHLEVEL]3
+[NEED-1]45
+[ONLY_HANDHELD]
+
+[ID]86
+[TYP]9
+[NAME EN]3.6 inch touch screen
+[NAME GE]3,6 Zoll Touch-Bildschirm
+[NAME ES]Pantalla táctil de 3.6 pulgadas
+[NAME PB]Tela sensível ao toque de 3,6 polegadas
+[NAME JA]3.6インチ タッチ画面
+[NAME CT]3.6吋輕觸式屏幕
+[DATE]JAN 2001
+[RES POINTS]2000
+[PRICE]2000000
+[DEV COSTS]3800000
+[TECHLEVEL]4
+[NEED-1]45
+[NEED-2]56
+[ONLY_HANDHELD]
+
+[ID]87
+[TYP]9
+[NAME EN]4.8 inch touch screen
+[NAME GE]4,8 Zoll Touch-Bildschirm
+[NAME ES]Pantalla táctil de 4.8 pulgadas
+[NAME PB]Tela sensível ao toque de 4,8 polegadas
+[NAME JA]4.8インチ タッチ画面
+[NAME CT]4.8吋輕觸式屏幕
+[DATE]DEC 2004
+[RES POINTS]2500
+[PRICE]4000000
+[DEV COSTS]8000000
+[TECHLEVEL]5
+[NEED-1]45
+[NEED-2]56
+[ONLY_HANDHELD]
+
+[ID]88
+[TYP]9
+[NAME EN]4.9 inch 3D touch screen
+[NAME GE]4,9 Zoll 3D-Touch-Bildschirm
+[NAME ES]Pantalla táctil 3D de 4.9 pulgadas
+[NAME PB]Tela de toque 3D de 4,9 polegadas
+[NAME JA]4.9インチ 3Dタッチ画面
+[NAME CT]4.9吋立體輕觸式屏幕
+[DATE]SEP 2008
+[RES POINTS]3000
+[PRICE]8000000
+[DEV COSTS]17000000
+[TECHLEVEL]6
+[NEED-1]45
+[NEED-2]56
+[ONLY_HANDHELD]
+
+[ID]89
+[TYP]9
+[NAME EN]5.1 inch 3D touch screen
+[NAME GE]5,1 Zoll 3D-Touch-Bildschirm
+[NAME ES]Pantalla táctil 3D de 5.1 pulgadas
+[NAME PB]Tela de toque 3D de 5,1 polegadas
+[NAME JA]5.1インチ 3Dタッチ画面
+[NAME CT]5.1吋立體輕觸式屏幕
+[DATE]APR 2020
+[RES POINTS]3500
+[PRICE]14000000
+[DEV COSTS]28000000
+[TECHLEVEL]7
+[NEED-1]45
+[NEED-2]56
+[ONLY_HANDHELD]
+
+[ID]90
+[TYP]9
+[NAME EN]5.2 inch 3D touch screen
+[NAME GE]5,2 Zoll 3D-Touch-Bildschirm
+[NAME ES]Pantalla táctil 3D de 5,2 pulgadas
+[NAME PB]Tela de toque 3D de 5,2 polegadas
+[NAME JA]5.2インチ 3Dタッチ画面
+[NAME CT]5.2吋立體輕觸式屏幕
+[DATE]DEC 2027
+[RES POINTS]4000
+[PRICE]20000000
+[DEV COSTS]39000000
+[TECHLEVEL]8
+[NEED-1]45
+[NEED-2]56
+[ONLY_HANDHELD]
+
+[ID]155
+[TYP]9
+[NAME EN]5.4 inch 3D touch screen
+[NAME GE]5,4 Zoll 3D-Touch-Bildschirm
+[NAME TU]5.4 inç 3D Dokunmatik Ekran
+[NAME ES]Pantalla táctil 3D de 5,4 pulgadas
+[NAME PB]Tela de toque 3D de 5,4 polegadas
+[NAME JA]5.4インチ 3Dタッチ画面
+[NAME CH]5.4寸3D触控屏幕
+[NAME CT]5.4吋立體輕觸式屏幕
+[NAME IT]Schermo touch 3D da 5,4 pollici
+[NAME FR]Écran tactile 3D de 5,4 pouces
+[NAME PL]Ekran dotykowy 3D touch 5.4 cala
+[NAME UA]5,4-дюймовий сенсорний 3D-екран
+[NAME CZ]5.4" 3D dotykový displej
+[NAME TH]หน้าจอสัมผัส 3 มิติขนาด 5.4 นิ้ว
+[DATE]FEB 2030
+[RES POINTS]5000
+[PRICE]25000000
+[DEV COSTS]45000000
+[TECHLEVEL]9
+[NEED-1]45
+[NEED-2]56
+[ONLY_HANDHELD]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]91
+[TYP]4
+[NAME EN]Television Interface Adaptor
+[NAME GE]Television Interface Adaptor
+[NAME ES]Television Interface Adaptor
+[NAME PB]Television Interface Adaptor
+[NAME JA]Television Interface Adaptor
+[NAME CT]Television Interface Adaptor
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]280000
+[TECHLEVEL]1
+
+[ID]92
+[TYP]4
+[NAME EN]Texas Instruments SN76489
+[NAME GE]Texas Instruments SN76489
+[NAME ES]Texas Instruments SN76489
+[NAME PB]Texas Instruments SN76489
+[NAME JA]Texas Instruments SN76489
+[NAME CT]Texas Instruments SN76489
+[DATE]MAY 1980
+[RES POINTS]800
+[PRICE]200000
+[DEV COSTS]420000
+[TECHLEVEL]1
+
+[ID]93
+[TYP]4
+[NAME EN]Ricoh 2A03
+[NAME GE]Ricoh 2A03
+[NAME ES]Ricoh 2A03
+[NAME PB]Ricoh 2A03
+[NAME JA]Ricoh 2A03
+[NAME CT]Ricoh 2A03
+[DATE]OCT 1982
+[RES POINTS]1000
+[PRICE]250000
+[DEV COSTS]550000
+[TECHLEVEL]2
+
+[ID]94
+[TYP]4
+[NAME EN]Yamaha YM2149
+[NAME GE]Yamaha YM2149
+[NAME ES]Yamaha YM2149
+[NAME PB]Yamaha YM2149
+[NAME JA]Yamaha YM2149
+[NAME CT]Yamaha YM2149
+[DATE]NOV 1984
+[RES POINTS]1200
+[PRICE]400000
+[DEV COSTS]800000
+[TECHLEVEL]2
+
+[ID]95
+[TYP]4
+[NAME EN]Yamaha YM2413
+[NAME GE]Yamaha YM2413
+[NAME ES]Yamaha YM2413
+[NAME PB]Yamaha YM2413
+[NAME JA]Yamaha YM2413
+[NAME CT]Yamaha YM2413
+[DATE]JAN 1986
+[RES POINTS]1400
+[PRICE]600000
+[DEV COSTS]1200000
+[TECHLEVEL]3
+
+[ID]96
+[TYP]4
+[NAME EN]Sony SPC700
+[NAME GE]Sony SPC700
+[NAME ES]Sony SPC700
+[NAME PB]Sony SPC700
+[NAME JA]Sony SPC700
+[NAME CT]Sony SPC700
+[DATE]SEP 1989
+[RES POINTS]1600
+[PRICE]700000
+[DEV COSTS]1400000
+[TECHLEVEL]3
+
+[ID]97
+[TYP]4
+[NAME EN]Ricoh RF5C164 
+[NAME GE]Ricoh RF5C164 
+[NAME ES]Ricoh RF5C164 
+[NAME PB]Ricoh RF5C164 
+[NAME JA]Ricoh RF5C164 
+[NAME CT]Ricoh RF5C164 
+[DATE]NOV 1991
+[RES POINTS]1800
+[PRICE]1500000
+[DEV COSTS]3000000
+[TECHLEVEL]4
+
+[ID]98
+[TYP]4
+[NAME EN]Yamaha YMF292
+[NAME GE]Yamaha YMF292
+[NAME ES]Yamaha YMF292
+[NAME PB]Yamaha YMF292
+[NAME JA]Yamaha YMF292
+[NAME CT]Yamaha YMF292
+[DATE]DEC 1994
+[RES POINTS]2000
+[PRICE]1800000
+[DEV COSTS]3800000
+[TECHLEVEL]4
+
+[ID]99
+[TYP]4
+[NAME EN]Yamaha AICA
+[NAME GE]Yamaha AICA
+[NAME ES]Yamaha AICA
+[NAME PB]Yamaha AICA
+[NAME JA]Yamaha AICA
+[NAME CT]Yamaha AICA
+[DATE]JUL 1997
+[RES POINTS]2200
+[PRICE]3000000
+[DEV COSTS]6700000
+[TECHLEVEL]5
+
+[ID]100
+[TYP]4
+[NAME EN]Creative Technology Sound Blaster Audigy
+[NAME GE]Creative Technology Sound Blaster Audigy
+[NAME ES]Creative Technology Sound Blaster Audigy
+[NAME PB]Creative Technology Sound Blaster Audigy
+[NAME JA]Creative Technology Sound Blaster Audigy
+[NAME CT]Creative Technology Sound Blaster Audigy
+[DATE]JUN 2001
+[RES POINTS]2400
+[PRICE]4000000
+[DEV COSTS]9000000
+[TECHLEVEL]5
+
+[ID]101
+[TYP]4
+[NAME EN]Intel High Definition Audio
+[NAME GE]Intel High Definition Audio
+[NAME ES]Intel High Definition Audio
+[NAME PB]Intel High Definition Audio
+[NAME JA]Intel High Definition Audio
+[NAME CT]Intel High Definition Audio
+[DATE]MAY 2004
+[RES POINTS]2600
+[PRICE]6000000
+[DEV COSTS]13000000
+[TECHLEVEL]6
+
+[ID]102
+[TYP]4
+[NAME EN]Creative Technology Titanium Fatal1ty Champion
+[NAME GE]Creative Technology Titanium Fatal1ty Champion
+[NAME ES]Creative Technology Titanium Fatal1ty Champion
+[NAME PB]Creative Technology Titanium Fatal1ty Champion
+[NAME JA]Creative Technology Titanium Fatal1ty Champion
+[NAME CT]Creative Technology Titanium Fatal1ty Champion
+[DATE]APR 2008
+[RES POINTS]2800
+[PRICE]7000000
+[DEV COSTS]15000000
+[TECHLEVEL]6
+
+[ID]103
+[TYP]4
+[NAME EN]Creative Technology Sound Blaster Z
+[NAME GE]Creative Technology Sound Blaster Z
+[NAME ES]Creative Technology Sound Blaster Z
+[NAME PB]Creative Technology Sound Blaster Z
+[NAME JA]Creative Technology Sound Blaster Z
+[NAME CT]Creative Technology Sound Blaster Z
+[DATE]SEP 2012
+[RES POINTS]3000
+[PRICE]10000000
+[DEV COSTS]19000000
+[TECHLEVEL]7
+
+[ID]104
+[TYP]4
+[NAME EN]Powercolor Devil HDX PCI Express
+[NAME GE]Powercolor Devil HDX PCI Express
+[NAME ES]Powercolor Devil HDX PCI Express
+[NAME PB]Powercolor Devil HDX PCI Express
+[NAME JA]Powercolor Devil HDX PCI Express
+[NAME CT]Powercolor Devil HDX PCI Express
+[DATE]OCT 2015
+[RES POINTS]3200
+[PRICE]12000000
+[DEV COSTS]22000000
+[TECHLEVEL]7
+
+[ID]105
+[TYP]4
+[NAME EN]Creative Technology Soundblaster AE-9
+[NAME GE]Creative Technology Soundblaster AE-9
+[NAME ES]Creative Technology Soundblaster AE-9
+[NAME PB]Creative Technology Soundblaster AE-9
+[NAME JA]Creative Technology Soundblaster AE-9
+[NAME CT]Creative Technology Soundblaster AE-9
+[DATE]JUL 2019
+[RES POINTS]3400
+[PRICE]15000000
+[DEV COSTS]30000000
+[TECHLEVEL]8
+
+[ID]106
+[TYP]4
+[NAME EN]Yahama Surround X23
+[NAME GE]Yahama Surround X23
+[NAME ES]Yahama Surround X23
+[NAME PB]Yahama Surround X23
+[NAME JA]Yahama Surround X23
+[NAME CT]Yahama Surround X23
+[DATE]JUN 2023
+[RES POINTS]3600
+[PRICE]17000000
+[DEV COSTS]34000000
+[TECHLEVEL]8
+
+[ID]107
+[TYP]4
+[NAME EN]Blade RT-Audio 1.0
+[NAME GE]Blade RT-Audio 1.0
+[NAME ES]Blade RT-Audio 1.0
+[NAME PB]Blade RT-Audio 1.0
+[NAME JA]Blade RT-Audio 1.0
+[NAME CT]Blade RT-音效1.0
+[DATE]MAY 2027
+[RES POINTS]3800
+[PRICE]20000000
+[DEV COSTS]40000000
+[TECHLEVEL]9
+
+[ID]108
+[TYP]4
+[NAME EN]Blade RT-Audio 2.0
+[NAME GE]Blade RT-Audio 2.0
+[NAME ES]Blade RT-Audio 2.0
+[NAME PB]Blade RT-Audio 2.0
+[NAME JA]Blade RT-Audio 2.0
+[NAME CT]Blade RT-音效2.0
+[DATE]DEC 2031
+[RES POINTS]4000
+[PRICE]25000000
+[DEV COSTS]50000000
+[TECHLEVEL]9
+
+////////////////////////////////////////////////////////////////////
+
+[ID]109
+[TYP]5
+[NAME EN]Air vents
+[NAME GE]Lüftungsschlitze
+[NAME ES]Respiraderos de ventilación
+[NAME PB]Saída de ar
+[NAME JA]通気口
+[NAME CT]排氣口
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]100000
+[TECHLEVEL]1
+[ONLY_STATIONARY]
+
+[ID]110
+[TYP]5
+[NAME EN]Heat Sink
+[NAME GE]Kühlrippen
+[NAME ES]Aletas de enfriamiento
+[NAME PB]Dissipador de calor
+[NAME JA]ヒートシンク
+[NAME CT]散熱片
+[DATE]FEB 1981
+[RES POINTS]1000
+[PRICE]120000
+[DEV COSTS]250000
+[TECHLEVEL]2
+[ONLY_STATIONARY]
+
+[ID]111
+[TYP]5
+[NAME EN]Small case fan
+[NAME GE]Kleiner Gehäuselüfter
+[NAME ES]Ventilador de caja pequeña
+[NAME PB]Cooler pequeno
+[NAME JA]小型ケースファン
+[NAME CT]小型機箱風扇
+[DATE]MAY 1985
+[RES POINTS]1500
+[PRICE]300000
+[DEV COSTS]600000
+[TECHLEVEL]3
+[ONLY_STATIONARY]
+
+[ID]112
+[TYP]5
+[NAME EN]Small fans for CPU and GPU
+[NAME GE]Kleine Lüfter für CPU und GPU
+[NAME ES]Pequeños ventiladores para CPU y GPU
+[NAME PB]Cooler pequeno para CPU e GPU
+[NAME JA]CPU・GPU用小型ファン
+[NAME CT]處理器及顯示專用小型風扇
+[DATE]JAN 1991
+[RES POINTS]2000
+[PRICE]600000
+[DEV COSTS]1200000
+[TECHLEVEL]4
+[ONLY_STATIONARY]
+
+[ID]113
+[TYP]5
+[NAME EN]High performance fan for CPU and GPU
+[NAME GE]Hochleistungs Lüfter für CPU und GPU
+[NAME ES]Ventilador de alto rendimiento para CPU y GPU
+[NAME PB]Cooler de alto desempenho
+[NAME JA]CPU・GPU用高性能ファン
+[NAME CT]處理器及顯示專用高效風扇
+[DATE]DEC 1996
+[RES POINTS]2500
+[PRICE]1200000
+[DEV COSTS]2700000
+[TECHLEVEL]5
+[ONLY_STATIONARY]
+
+[ID]114
+[TYP]5
+[NAME EN]Tuned 3-fan system
+[NAME GE]Abgestimmtes 3-Lüfter-System
+[NAME ES]Sistema de 3 ventiladores sintonizado
+[NAME PB]Sistema sintonizado de 3 coolers
+[NAME JA]自動調整3ファン
+[NAME CT]調諧三扇系統
+[DATE]JUN 2003
+[RES POINTS]3000
+[PRICE]2500000
+[DEV COSTS]5400000
+[TECHLEVEL]6
+[ONLY_STATIONARY]
+
+[ID]115
+[TYP]5
+[NAME EN]Modern 4-fan system
+[NAME GE]Modernes 4-Lüfter-System
+[NAME ES]Sistema moderno de 4 ventiladores
+[NAME PB]Sistema moderno de 4 coolers
+[NAME JA]新型4ファンシステム
+[NAME CT]現代調諧四扇系統
+[DATE]JUL 2011
+[RES POINTS]3500
+[PRICE]4000000
+[DEV COSTS]9300000
+[TECHLEVEL]7
+[ONLY_STATIONARY]
+
+[ID]116
+[TYP]5
+[NAME EN]Water-cooling system
+[NAME GE]Wasserkühlung
+[NAME ES]Sistema de refrigeración por agua
+[NAME PB]Sistema de refrigeração a água
+[NAME JA]水冷式クーラー
+[NAME CT]水冷系統
+[DATE]AUG 2017
+[RES POINTS]4000
+[PRICE]5000000
+[DEV COSTS]12000000
+[TECHLEVEL]8
+[ONLY_STATIONARY]
+
+[ID]150
+[TYP]5
+[NAME EN]Liquid-metal cooling system
+[NAME GE]Flüssigmetall-Kühlsystem
+[NAME TU]Liquid-metal cooling system
+[NAME ES]Liquid-metal cooling system
+[NAME PB]Liquid-metal cooling system
+[NAME JA]液体金属冷却システム
+[NAME CH]Liquid-metal cooling system
+[NAME CT]液態金屬冷卻系統
+[NAME IT]Liquid-metal cooling system
+[NAME FR]Liquid-metal cooling system
+[NAME PL]Liquid-metal cooling system
+[NAME UA]Liquid-metal cooling system
+[NAME CZ]Systém chlazení kapalným kovem
+[NAME TH]ระบบระบายความร้อนด้วยโลหะเหลว
+[DATE]JUN 2025
+[RES POINTS]5000
+[PRICE]6000000
+[DEV COSTS]15000000
+[TECHLEVEL]9
+[ONLY_STATIONARY]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]117
+[TYP]6
+[NAME EN]4 kilobyte cartridge
+[NAME GE]4 Kilobyte Modul
+[NAME TU]4KB Disket
+[NAME ES]Cartucho de 4KB
+[NAME PB]Cartucho de 4 kilobytes
+[NAME JA]4KB ROMカセット
+[NAME CH]4KB卡带
+[NAME CT]4KB卡帶
+[NAME IT]Cartuccia 4KB
+[NAME FR]Cartouche de 4 kilo-octets
+[NAME PL]Kartridż 4 KB
+[NAME UA]Картридж на 4 кілобайти
+[NAME CZ]4 KB disketa
+[NAME TH]ตลับขนาด 4 กิโลไบต์
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]300000
+[TECHLEVEL]1
+
+[ID]118
+[TYP]6
+[NAME EN]128 kilobyte cartridge
+[NAME GE]128 Kilobyte Modul
+[NAME TU]128KB Disket
+[NAME ES]Cartucho de 128KB
+[NAME PB]Cartucho de 128 kilobytes
+[NAME JA]128KB ROMカセット
+[NAME CH]128KB卡带
+[NAME CT]128KB卡帶
+[NAME IT]Cartuccia 128KB
+[NAME FR]Cartouche de 128 kilo-octets
+[NAME PL]Kartridż 128 KB
+[NAME UA]Картридж на 128 кілобайтів
+[NAME CZ]128 KB disketa
+[NAME TH]ตลับขนาด 128 กิโลไบต์
+[DATE]MAY 1982
+[RES POINTS]800
+[PRICE]230000
+[DEV COSTS]480000
+[TECHLEVEL]2
+
+[ID]119
+[TYP]6
+[NAME EN]1 megabyte cartridge
+[NAME GE]1 Megabyte Modul
+[NAME TU]1MB Disket
+[NAME ES]Cartucho de 1MB
+[NAME PB]Cartucho de 1 megabytes
+[NAME JA]1MB ROMカセット
+[NAME CH]1MB卡带
+[NAME CT]1MB卡帶
+[NAME IT]Cartuccia 1MB
+[NAME FR]Cartouche de 1 mégaoctet
+[NAME PL]Kartridż 1 MB
+[NAME UA]Картридж на 1 Мегабайт
+[NAME CZ]1 MB disketa
+[NAME TH]ตลับขนาด 1 เมกะไบต์
+[DATE]NOV 1986
+[RES POINTS]1000
+[PRICE]450000
+[DEV COSTS]900000
+[TECHLEVEL]3
+
+[ID]120
+[TYP]6
+[NAME EN]700 megabyte CD
+[NAME GE]700 Megabyte CD
+[NAME TU]700MB CD
+[NAME ES]CD de 700MB
+[NAME PB]CD de 700 megabytes
+[NAME JA]700MB CD
+[NAME CH]700MB CD
+[NAME CT]700MB CD
+[NAME IT]CD 700MB
+[NAME FR]CD de 700 mégaoctets
+[NAME PL]Płyta CD 700 MB
+[NAME UA]Компакт-диск на 700 мегабайтів
+[NAME CZ]700 MB CD
+[NAME TH]CD ขนาด 700 เมกะไบต์ 
+[DATE]SEP 1992
+[RES POINTS]1200
+[PRICE]1700000
+[DEV COSTS]3500000
+[TECHLEVEL]4
+[ONLY_STATIONARY]
+
+[ID]121
+[TYP]6
+[NAME EN]16 megabyte cartridge
+[NAME GE]16 Megabyte Modul
+[NAME TU]16 megabyte cartridge
+[NAME ES]cartucho de 16MB
+[NAME PB]16 megabyte cartridge
+[NAME JA]16MB ROMカセット
+[NAME CH]16 megabyte cartridge
+[NAME CT]16MB卡帶
+[NAME IT]16 megabyte cartridge
+[NAME FR]16 megabyte cartridge
+[NAME PL]16 megabyte cartridge
+[NAME UA]Картридж на 16 Мегабайтів
+[NAME CZ]16 MB disketa
+[NAME TH]ตลับขนาด 16 เมกะไบต์
+[DATE]NOV 1992
+[RES POINTS]1200
+[PRICE]1700000
+[DEV COSTS]3500000
+[TECHLEVEL]4
+[ONLY_HANDHELD]
+
+[ID]122
+[TYP]6
+[NAME EN]4 gigabyte DVD
+[NAME GE]4 Gigabyte DVD
+[NAME TU]4GB DVD
+[NAME ES]DVD de 4GB
+[NAME PB]DVD de 4 gigabytes
+[NAME JA]4GB DVD
+[NAME CH]4GB DVD
+[NAME CT]4GB DVD
+[NAME IT]DVD 4GB
+[NAME FR]DVD de 4 gigaoctets
+[NAME PL]Płyta DVD 4 GB
+[NAME UA]DVD на 4 Гігабайти
+[NAME CZ]4 GB DVD
+[NAME TH]DVD ขนาด 4 กิกะไบต์
+[DATE]JUL 1997
+[RES POINTS]1400
+[PRICE]2600000
+[DEV COSTS]5800000
+[TECHLEVEL]5
+[ONLY_STATIONARY]
+
+[ID]123
+[TYP]6
+[NAME EN]128 megabyte cartridge
+[NAME GE]128 Megabyte Modul
+[NAME TU]128 megabyte cartridge
+[NAME ES]cartucho de 128MB
+[NAME PB]128 megabyte cartridge
+[NAME JA]128MB ROMカセット
+[NAME CH]128 megabyte cartridge
+[NAME CT]128MB卡帶
+[NAME IT]128 megabyte cartridge
+[NAME FR]128 megabyte cartridge
+[NAME PL]128 megabyte cartridge
+[NAME UA]Картридж на 128 Мегабайтів
+[NAME CZ]128 MB disketa
+[NAME TH]ตลับขนาด 128 กิกะไบต์
+[DATE]SEP 1997
+[RES POINTS]1400
+[PRICE]2600000
+[DEV COSTS]5800000
+[TECHLEVEL]5
+[ONLY_HANDHELD]
+
+[ID]124
+[TYP]6
+[NAME EN]512 megabyte cartridge
+[NAME GE]512 Megabyte Modul
+[NAME TU]512MB Disket
+[NAME ES]Cartucho de 512MB
+[NAME PB]Cartucho de 512 megabytes
+[NAME JA]512MB ROMカセット
+[NAME CH]512MB卡带
+[NAME CT]512MB卡帶
+[NAME IT]Cartuccia 512MB
+[NAME FR]Cartouche de 512 mégaoctets
+[NAME PL]Kartridż 512 MB
+[NAME UA]Картридж на 512 Мегабайтів
+[NAME CZ]512 MB disketa
+[NAME TH]ตลับขนาด 512 เมกะไบต์
+[DATE]JUN 2003
+[RES POINTS]1500
+[PRICE]3500000
+[DEV COSTS]7000000
+[TECHLEVEL]5
+[ONLY_HANDHELD]
+
+[ID]125
+[TYP]6
+[NAME EN]25 gigabyte Blue-DVD
+[NAME GE]25 Gigabyte Blue-DVD
+[NAME TU]25GB Blu-DVD
+[NAME ES]DVD azul de 25GB
+[NAME PB]DVD Blu-ray de 25 gigabytes
+[NAME JA]25GB Blue-DVD
+[NAME CH]25GB 蓝光DVD
+[NAME CT]25GB DVD藍碟
+[NAME IT]Blue-DVD 25GB
+[NAME FR]25 gigaoctets Blue-ray
+[NAME PL]Płyta Blu-ray 25 GB
+[NAME UA]Blu-ray Диск на 25 гігабайт
+[NAME CZ]25 GB Blue-DVD
+[NAME TH]Blue-DVD ขนาด 25 กิกะไบต์
+[DATE]AUG 2004
+[RES POINTS]1600
+[PRICE]5000000
+[DEV COSTS]10000000
+[TECHLEVEL]6
+[ONLY_STATIONARY]
+
+[ID]126
+[TYP]6
+[NAME EN]2 gigabyte cartridge
+[NAME GE]2 Gigabyte Modul
+[NAME TU]2GB Disket
+[NAME ES]Cartucho de 2GB
+[NAME PB]Cartucho de 2 gigabytes
+[NAME JA]2GB ROMカセット
+[NAME CH]2GB卡带
+[NAME CT]2GB卡帶
+[NAME IT]Cartuccia 2GB
+[NAME FR]Cartouche de 2 gigaoctets
+[NAME PL]Kartridż 2 GB
+[NAME UA]Картридж на 2 Гігабайти
+[NAME CZ]2 GB disketa
+[NAME TH]ตลับขนาด 2 กิกะไบต์
+[DATE]JAN 2007
+[RES POINTS]1600
+[PRICE]5000000
+[DEV COSTS]10000000
+[TECHLEVEL]6
+[ONLY_HANDHELD]
+
+[ID]127
+[TYP]6
+[NAME EN]50 gigabyte Dual-DVD
+[NAME GE]50 Gigabyte Dual-DVD
+[NAME TU]50gb Çift Katlı DV
+[NAME ES]DVD dual de 50GB
+[NAME PB]DVD Dual 50 gigabytes
+[NAME JA]50GB Dual-DVD
+[NAME CH]50GB Dual-DVD(一种DVD标准)
+[NAME CT]50GB雙層DVD
+[NAME IT]Dual-DVD 50GB
+[NAME FR]50 gigaoctets double DVD
+[NAME PL]Płyta Dual-DVD 50 GB
+[NAME UA]Подвійний DVD на 50 гігабайтів
+[NAME CZ]50 GB Dual-DVD
+[NAME TH]DVD คู่ขนาด 50 กิกะไบต์
+[DATE]DEC 2012
+[RES POINTS]1800
+[PRICE]7500000
+[DEV COSTS]15000000
+[TECHLEVEL]7
+[ONLY_STATIONARY]
+
+[ID]128
+[TYP]6
+[NAME EN]120 gigabyte HD-DVD
+[NAME GE]120 Gigabyte HD-DVD
+[NAME TU]120GB HD-DVD
+[NAME ES]HD-DVD de 120GB
+[NAME PB]DVD HD 120 gigabytes
+[NAME JA]120GB HD-DVD
+[NAME CH]120GB 高清DVD
+[NAME CT]120GB HD-DVD
+[NAME IT]HD-DVD 120GB
+[NAME FR]120 gigaoctets HD-DVD
+[NAME PL]Płyta HD-DVD 120 GB
+[NAME UA]HD-DVD на 120 гігабайтів
+[NAME CZ]120 GB HD-DVD
+[NAME TH]HD-DVD ขนาด 120 กิกะไบต์
+[DATE]MAY 2019
+[RES POINTS]2000
+[PRICE]12000000
+[DEV COSTS]24000000
+[TECHLEVEL]8
+[ONLY_STATIONARY]
+
+[ID]129
+[TYP]6
+[NAME EN]16 gigabyte cartridge
+[NAME GE]16 Gigabyte Modul
+[NAME TU]16GB Disket
+[NAME ES]Cartucho de 16GB
+[NAME PB]Cartucho de 16 gigabytes
+[NAME JA]16GB ROMカセット
+[NAME CH]16GB卡带
+[NAME CT]16GB卡帶
+[NAME IT]Cartuccia 16GB
+[NAME FR]Cartouche de 16 gigaoctets
+[NAME PL]Kartridż 16 GB
+[NAME UA]Картридж на 16 Гігабайтів
+[NAME CZ]16 GB disketa
+[NAME TH]ตลับขนาด 16 กิกะไบต์
+[DATE]SEP 2020
+[RES POINTS]2000
+[PRICE]7500000
+[DEV COSTS]15000000
+[TECHLEVEL]7
+[ONLY_HANDHELD]
+
+[ID]130
+[TYP]6
+[NAME EN]64 gigabyte cartridge
+[NAME GE]64 Gigabyte Modul
+[NAME TU]64GB Disket
+[NAME ES]Cartucho de 64GB
+[NAME PB]Cartucho de 64 gigabytes
+[NAME JA]64GB ROMカセット
+[NAME CH]64GB卡带
+[NAME CT]64GB卡帶
+[NAME IT]Cartuccia 64GB
+[NAME FR]Cartouche de 64 gigaoctets
+[NAME PL]Kartridż 64 GB
+[NAME UA]Картридж на 64 Гігабайти
+[NAME CZ]64 GB disketa
+[NAME TH]ตลับขนาด 64 กิกะไบต์
+[DATE]MAR 2024
+[RES POINTS]2500
+[PRICE]13000000
+[DEV COSTS]25000000
+[TECHLEVEL]8
+[ONLY_HANDHELD]
+
+[ID]131
+[TYP]6
+[NAME EN]250 gigabyte Ultra-DVD
+[NAME GE]250 Gigabyte Ultra-DVD
+[NAME TU]250GB Ultra-DVD
+[NAME ES]Ultra DVD de 250GB
+[NAME PB]DVD Ultra 250 gigabytes
+[NAME JA]250GB Ultra-DVD
+[NAME CH]250GB超级DVD
+[NAME CT]250GB超級DVD
+[NAME IT]Ultra-DVD 250GB
+[NAME FR]Ultra-DVD de 250 gigaoctets
+[NAME PL]Płyta Ultra-DVD 250 GB
+[NAME UA]Ultra-DVD на 250 гігабайтів
+[NAME CZ]250 GB Ultra-DVD
+[NAME TH]Ultra-DVD ขนาด 250 กิกะไบต์
+[DATE]OCT 2026
+[RES POINTS]2500
+[PRICE]20000000
+[DEV COSTS]40000000
+[TECHLEVEL]9
+[ONLY_STATIONARY]
+
+[ID]149
+[TYP]6
+[NAME EN]128 gigabyte cartridge
+[NAME GE]128 Gigabyte Modul
+[NAME TU]128GB Disket
+[NAME ES]Cartucho de 128GB
+[NAME PB]Cartucho de 128 gigabytes
+[NAME JA]128GB ROMカセット
+[NAME CH]128GB卡带
+[NAME CT]128GB卡帶
+[NAME IT]Cartuccia 128GB
+[NAME FR]Cartouche de 128 gigaoctets
+[NAME PL]Kartridż 128 GB
+[NAME UA]Картридж на 128 Гігабайти
+[NAME CZ]128 GB disketa
+[NAME TH]ตลับขนาด 128 กิกะไบต์
+[DATE]JUN 2028
+[RES POINTS]3000
+[PRICE]16000000
+[DEV COSTS]28000000
+[TECHLEVEL]9
+[ONLY_HANDHELD]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]132
+[TYP]8
+[NAME EN]Case for stationary console I
+[NAME GE]Gehäuse für stationäre Konsole I
+[NAME TU]Sabit Konsol Çantası I
+[NAME GE]Gehäuse für stationäre Konsole I
+[NAME ES]Carcasa para consola estacionaria I
+[NAME PB]Carcaça para console fixo I
+[NAME JA]据え置き機筐体 第1世代
+[NAME CH]第一代家用游戏机机箱
+[NAME CT]第一代家用機機箱
+[NAME IT]Case per console fissa I
+[NAME FR]Boitier pour console fixe I
+[NAME PL]I Obudowa do konsoli 
+[NAME UA]Корпус для стаціонарної консолі I
+[NAME CZ]Skříň pro stacionární konzoli I
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น I
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]180000
+[TECHLEVEL]1
+[PIC]pCon0.png
+[ONLY_STATIONARY]
+
+[ID]133
+[TYP]8
+[NAME EN]Case for stationary console II
+[NAME GE]Gehäuse für stationäre Konsole II
+[NAME TU]Sabit Konsol Çantası II
+[NAME ES]Carcasa para consola estacionaria II
+[NAME PB]Carcaça para console fixo II
+[NAME JA]据え置き機筐体 第2世代
+[NAME CH]第二代家用游戏机机箱
+[NAME CT]第二代家用機機箱
+[NAME IT]Case per console fissa II
+[NAME FR]Boitier pour console fixe II
+[NAME PL]II Obudowa do konsoli 
+[NAME UA]Корпус для стаціонарної консолі II
+[NAME CZ]Skříň pro stacionární konzoli II
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น II
+[DATE]FEB 1982
+[RES POINTS]1000
+[PRICE]250000
+[DEV COSTS]500000
+[TECHLEVEL]2
+[PIC]pCon1.png
+[ONLY_STATIONARY]
+
+[ID]134
+[TYP]8
+[NAME EN]Case for stationary console III
+[NAME GE]Gehäuse für stationäre Konsole III
+[NAME TU]Sabit Konsol Çantası III
+[NAME ES]Carcasa para consola estacionaria III
+[NAME PB]Carcaça para console fixo III
+[NAME JA]据え置き機筐体 第3世代
+[NAME CH]第三代家用游戏机机箱
+[NAME CT]第三代家用機機箱
+[NAME IT]Case per console fissa III
+[NAME FR]Boitier pour console fixe III
+[NAME PL]III Obudowa do konsoli 
+[NAME UA]Корпус для стаціонарної консолі III
+[NAME CZ]Skříň pro stacionární konzoli III
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น III
+[DATE]JUN 1986
+[RES POINTS]1500
+[PRICE]500000
+[DEV COSTS]1200000
+[TECHLEVEL]3
+[PIC]pCon2.png
+[ONLY_STATIONARY]
+
+[ID]135
+[TYP]8
+[NAME EN]Case for stationary console IV
+[NAME GE]Gehäuse für stationäre Konsole IV
+[NAME TU]Sabit Konsol Çantası IV
+[NAME ES]Carcasa para consola estacionaria IV
+[NAME PB]Carcaça para console fixo IV
+[NAME JA]据え置き機筐体 第4世代
+[NAME CH]第四代家用游戏机机箱
+[NAME CT]第四代家用機機箱
+[NAME IT]Case per console fissa IV
+[NAME FR]Boitier pour console fixe IV
+[NAME PL]IV Obudowa do konsoli 
+[NAME UA]Корпус для стаціонарної консолі IV
+[NAME CZ]Skříň pro stacionární konzoli IV
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น IV
+[DATE]AUG 1992
+[RES POINTS]2000
+[PRICE]1000000
+[DEV COSTS]2000000
+[TECHLEVEL]4
+[PIC]pCon3.png
+[ONLY_STATIONARY]
+
+[ID]136
+[TYP]8
+[NAME EN]Case for stationary console V
+[NAME GE]Gehäuse für stationäre Konsole V
+[NAME TU]Sabit Konsol Çantası V
+[NAME ES]Carcasa para consola estacionaria V
+[NAME PB]Carcaça para console fixo V
+[NAME JA]据え置き機筐体 第5世代
+[NAME CH]第五代家用游戏机机箱
+[NAME CT]第五代家用機機箱
+[NAME IT]Case per console fissa V
+[NAME FR]Boitier pour console fixe V
+[NAME PL]V Obudowa do konsoli 
+[NAME UA]Корпус для стаціонарної консолі V
+[NAME CZ]Skříň pro stacionární konzoli V
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น V
+[DATE]DEC 1997
+[RES POINTS]2500
+[PRICE]2500000
+[DEV COSTS]5000000
+[TECHLEVEL]5
+[PIC]pCon4.png
+[ONLY_STATIONARY]
+
+[ID]137
+[TYP]8
+[NAME EN]Case for stationary console VI
+[NAME GE]Gehäuse für stationäre Konsole VI
+[NAME TU]Sabit Konsol Çantası VI
+[NAME ES]Carcasa para consola estacionaria VI
+[NAME PB]Carcaça para console fixo VI
+[NAME JA]据え置き機筐体 第6世代
+[NAME CH]第六代家用游戏机机箱
+[NAME CT]第六代家用機機箱
+[NAME IT]Case per console fissa VI
+[NAME FR]Boitier pour console fixe VI
+[NAME PL]VI Obudowa do konsoli
+[NAME UA]Корпус для стаціонарної консолі VI
+[NAME CZ]Skříň pro stacionární konzoli VI
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น VI
+[DATE]MAY 2004
+[RES POINTS]3000
+[PRICE]5000000
+[DEV COSTS]10000000
+[TECHLEVEL]6
+[PIC]pCon5.png
+[ONLY_STATIONARY]
+
+[ID]138
+[TYP]8
+[NAME EN]Case for stationary console VII
+[NAME GE]Gehäuse für stationäre Konsole VII
+[NAME TU]Sabit Konsol Çantası VII
+[NAME ES]Carcasa para consola estacionaria VII
+[NAME PB]Carcaça para console fixo VII
+[NAME JA]据え置き機筐体 第7世代
+[NAME CH]第七代家用游戏机机箱
+[NAME CT]第七代家用機機箱
+[NAME IT]Case per console fissa VII
+[NAME FR]Boitier pour console fixe VII
+[NAME PL]VII Obudowa do konsoli
+[NAME UA]Корпус для стаціонарної консолі VII
+[NAME CZ]Skříň pro stacionární konzoli VII
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น VII
+[DATE]APR 2012
+[RES POINTS]3500
+[PRICE]7500000
+[DEV COSTS]15000000
+[TECHLEVEL]7
+[PIC]pCon6.png
+[ONLY_STATIONARY]
+
+[ID]139
+[TYP]8
+[NAME EN]Case for stationary console VIII
+[NAME GE]Gehäuse für stationäre Konsole VIII
+[NAME TU]Sabit Konsol Çantası VIII
+[NAME ES]Carcasa para consola estacionaria VIII
+[NAME PB]Carcaça para console fixo VIII
+[NAME JA]据え置き機筐体 第8世代
+[NAME CH]第八代家用游戏机机箱
+[NAME CT]第八代家用機機箱
+[NAME IT]Case per console fissa VIII
+[NAME FR]Boitier pour console fixe VIII
+[NAME PL]VIII Obudowa do konsoli 
+[NAME UA]Корпус для стаціонарної консолі VIII
+[NAME CZ]Skříň pro stacionární konzoli VIII
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น VIII
+[DATE]AUG 2017
+[RES POINTS]4000
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]8
+[PIC]pCon7.png
+[ONLY_STATIONARY]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]140
+[TYP]8
+[NAME EN]Case for handheld I
+[NAME GE]Gehäuse für Handheld I
+[NAME TU]El Çantası I
+[NAME ES]Carcasa para consola portatil I
+[NAME PB]Carcaça para console portatil I
+[NAME JA]携帯機筐体 第1世代
+[NAME CH]第一代掌机外壳
+[NAME CT]第一代手提機外殼
+[NAME IT]Case per console portatile I
+[NAME FR]Boitier pour console portable I
+[NAME PL]I Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі I
+[NAME CZ]Skříň pro mobilní konzoli I
+[NAME TH]เคสสำหรับคอนโซลพกพา I
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]180000
+[TECHLEVEL]1
+[PIC]pHand0.png
+[ONLY_HANDHELD]
+
+[ID]141
+[TYP]8
+[NAME EN]Case for handheld II
+[NAME GE]Gehäuse für Handheld II
+[NAME TU]El Çantası II
+[NAME ES]Carcasa para consola portatil II
+[NAME PB]Carcaça para console portatil II
+[NAME JA]携帯機筐体 第2世代
+[NAME CH]第二代掌机外壳
+[NAME CT]第二代手提機外殼
+[NAME IT]Case per console portatile II
+[NAME FR]Boitier pour console portable II
+[NAME PL]II Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі II
+[NAME CZ]Skříň pro mobilní konzoli II
+[NAME TH]เคสสำหรับคอนโซลพกพา II
+[DATE]FEB 1982
+[RES POINTS]1000
+[PRICE]250000
+[DEV COSTS]500000
+[TECHLEVEL]2
+[PIC]pHand1.png
+[ONLY_HANDHELD]
+
+[ID]142
+[TYP]8
+[NAME EN]Case for handheld III
+[NAME GE]Gehäuse für Handheld III
+[NAME TU]El Çantası III
+[NAME ES]Carcasa para consola portatil III
+[NAME PB]Carcaça para console portatil III
+[NAME JA]携帯機筐体 第3世代
+[NAME CH]第三代掌机外壳
+[NAME CT]第三代手提機外殼
+[NAME IT]Case per console portatile III
+[NAME FR]Boitier pour console portable III
+[NAME PL]III Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі III
+[NAME CZ]Skříň pro mobilní konzoli III
+[NAME TH]เคสสำหรับคอนโซลพกพา III
+[DATE]JUN 1986
+[RES POINTS]1500
+[PRICE]500000
+[DEV COSTS]1200000
+[TECHLEVEL]3
+[PIC]pHand2.png
+[ONLY_HANDHELD]
+
+[ID]143
+[TYP]8
+[NAME EN]Case for handheld IV
+[NAME GE]Gehäuse für Handheld IV
+[NAME TU]El Çantası IV
+[NAME ES]Carcasa para consola portatil IV
+[NAME PB]Carcaça para console portatil IV
+[NAME JA]携帯機筐体 第4世代
+[NAME CH]第四代掌机外壳
+[NAME CT]第四代手提機外殼
+[NAME IT]Case per console portatile IV
+[NAME FR]Boitier pour console portable IV
+[NAME PL]IV Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі IV
+[NAME CZ]Skříň pro mobilní konzoli IV
+[NAME TH]เคสสำหรับคอนโซลพกพา IV
+[DATE]AUG 1992
+[RES POINTS]2000
+[PRICE]1000000
+[DEV COSTS]2000000
+[TECHLEVEL]4
+[PIC]pHand3.png
+[ONLY_HANDHELD]
+
+[ID]144
+[TYP]8
+[NAME EN]Case for handheld V
+[NAME GE]Gehäuse für Handheld V
+[NAME TU]El Çantası V
+[NAME ES]Carcasa para consola portatil V
+[NAME PB]Carcaça para console portatil V
+[NAME JA]携帯機筐体 第5世代
+[NAME CH]第五代掌机外壳
+[NAME CT]第五代手提機外殼
+[NAME IT]Case per console portatile V
+[NAME FR]Boitier pour console portable V
+[NAME PL]V Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі V
+[NAME CZ]Skříň pro mobilní konzoli V
+[NAME TH]เคสสำหรับคอนโซลพกพา V
+[DATE]DEC 1997
+[RES POINTS]2500
+[PRICE]2500000
+[DEV COSTS]5000000
+[TECHLEVEL]5
+[PIC]pHand4.png
+[ONLY_HANDHELD]
+
+[ID]145
+[TYP]8
+[NAME EN]Case for handheld VI
+[NAME GE]Gehäuse für Handheld VI
+[NAME TU]El Çantası VI
+[NAME ES]Carcasa para consola portatil VI
+[NAME PB]Carcaça para console portatil VI
+[NAME JA]携帯機筐体 第6世代
+[NAME CH]第六代掌机外壳
+[NAME CT]第六代手提機外殼
+[NAME IT]Case per console portatile VI
+[NAME FR]Boitier pour console portable VI
+[NAME PL]VI Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі VI
+[NAME CZ]Skříň pro mobilní konzoli VI
+[NAME TH]เคสสำหรับคอนโซลพกพา VI
+[DATE]MAY 2004
+[RES POINTS]3000
+[PRICE]5000000
+[DEV COSTS]10000000
+[TECHLEVEL]6
+[PIC]pHand5.png
+[ONLY_HANDHELD]
+
+[ID]146
+[TYP]8
+[NAME EN]Case for handheld VII
+[NAME GE]Gehäuse für Handheld VII
+[NAME TU]El Çantası VII
+[NAME ES]Carcasa para consola portatil VII
+[NAME PB]Carcaça para console portatil VII
+[NAME JA]携帯機筐体 第7世代
+[NAME CH]第七代掌机外壳
+[NAME CT]第七代手提機外殼
+[NAME IT]Case per console portatile VII
+[NAME FR]Boitier pour console portable VII
+[NAME PL]VII Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі VII
+[NAME CZ]Skříň pro mobilní konzoli VII
+[NAME TH]เคสสำหรับคอนโซลพกพา VII
+[DATE]APR 2012
+[RES POINTS]3500
+[PRICE]7500000
+[DEV COSTS]15000000
+[TECHLEVEL]7
+[PIC]pHand6.png
+[ONLY_HANDHELD]
+
+[ID]147
+[TYP]8
+[NAME EN]Case for handheld VIII
+[NAME GE]Gehäuse für Handheld VIII
+[NAME TU]El Çantası VIII
+[NAME ES]Carcasa para consola portatil VIII
+[NAME PB]Carcaça para console portatil VIII
+[NAME JA]携帯機筐体 第8世代
+[NAME CH]第八代掌机外壳
+[NAME CT]第八代手提機外殼
+[NAME IT]Case per console portatile VIII
+[NAME FR]Boitier pour console portable VIII
+[NAME PL]VIII Obudowa do konsoli przenośnej
+[NAME UA]Корпус для портативної консолі VIII
+[NAME CZ]Skříň pro mobilní konzoli VIII
+[NAME TH]เคสสำหรับคอนโซลพกพา VIII
+[DATE]AUG 2019
+[RES POINTS]4000
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]8
+[PIC]pHand7.png
+[ONLY_HANDHELD]
+
+[EOF]
