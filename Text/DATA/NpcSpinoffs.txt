@@ -274,6 +274,7 @@ World of <NAME>
 <NAME> Clan Wars
 <NAME> Clone Wars
 <NAME> Combat
+<NAME> Revolution
 <NAME> Tactics
 <NAME> Trading Card Game
 <NAME>: Allied Assault
@@ -282,6 +283,7 @@ World of <NAME>
 <NAME>: Armada
 <NAME>: Armed Assault
 <NAME>: Armed Conflict
+<NAME>: Beyond Earth
 <NAME>: Black Flag
 <NAME>: Civil War
 <NAME>: Civilizations
@@ -380,6 +382,7 @@ War of <NAME>
 <NAME> Invasion
 <NAME> Legends
 <NAME> M
+<NAME> Paintball
 <NAME> Rising
 <NAME> Rumble
 <NAME> Skypatrol
@@ -839,6 +842,7 @@ Legions of <NAME>
 <NAME> Battlegrounds
 <NAME> Cadets
 <NAME> Crossbow Training
+<NAME> Paintball
 <NAME> Prime
 <NAME>: Annihilation
 <NAME>: Apocalypse
@@ -918,6 +922,7 @@ The Secret of <NAME>
 <NAME> Battlegrounds
 <NAME> Cadets
 <NAME> Invasion
+<NAME> Paintball
 <NAME>: Allied Assault
 <NAME>: Annihilation
 <NAME>: Armageddon
