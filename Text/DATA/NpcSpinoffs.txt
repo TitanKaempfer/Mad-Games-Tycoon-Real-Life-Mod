@@ -364,6 +364,7 @@ Knights of <NAME>
 Legion of <NAME>
 Tactics <NAME>
 War of <NAME>
+Heroes of <NAME>
 [END]
 
 [5]
@@ -470,6 +471,9 @@ Extreme <NAME>
 Heroes of <NAME>
 Ultimate <NAME>
 Violent <NAME>
+<NAME>: Rush of Blood
+<NAME>: Small Brawl
+<NAME> Safari
 [END]
 
 [6]
@@ -680,6 +684,7 @@ Smash <NAME>
 Super <NAME>
 Super <NAME> Turbo
 Violent <NAME>
+<NAME>: Small Brawl
 [END]
 
 [11]
