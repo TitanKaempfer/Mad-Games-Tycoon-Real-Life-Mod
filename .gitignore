@@ -2,5 +2,8 @@
 
 *.ods
 
+# Ignore all releases
+*.zip
+
 # Ignore specific files
 */CompanyLogos/999.png
