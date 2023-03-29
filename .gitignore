@@ -6,4 +6,4 @@
 *.zip
 
 # Ignore specific files
-*/CompanyLogos/999.png
+/CompanyLogos/999.png
