@@ -2,27 +2,38 @@
 16-Engine
 16X-CD
 2DO Active
+32X-Box
 32X-CD
 4D-OH
 64X-CD
 8-Engine
 Action GameMaster
+Action-Box
+Alpha Player
 Apollo Game Sphere
 Arc
 Arcade Experience
+Arcade Master
+Arcade Player
+Arcade-FX System
 Archive Arcade System
 Atlantis
 Aurora
 Beam Machine
 Bitshift-2000
-Blue Box
 Black Box
+Blue Box
 Borealis 32
 Cassette Deck Gamesystem
 Cerebus Breach
+Channel X
 Cheetah
 Citra
 Coleen
+Color Cube
+Color Machine
+Color Station
+Com-System
 Corona
 Cosmonaut Play System
 Cosmos
@@ -31,6 +42,7 @@ Discdeck
 Discsystem-32
 Dogma Pyramide
 Dolphin
+Dream Drive
 DualSystem
 Durango
 DVD-I
@@ -43,43 +55,68 @@ FunStation
 Fusion
 Galaxy
 GalaxyStation
+Game Box
 Game Brain
 Game Child
 Game Cone
+Game Machine
+Game Max
+Game Multisystem
 Game Pal
+Game Station
+Game Vision
+Game-TEC
 GameCast
+GameFX
 Gameling
 GameSlave
 Gamesphere
 GameStadion
 GameStation
+Gametron
+Gemini Player
+Genesis Player
 Giga Pal
 Harmony
 HBOX
+Hectrex
 Hexagon
 Home Arcade
+Home Arcade System
+Home Box
+Home Station
+Hyper Console
 Hyper Entertainment System
 HyperStation
+iBox 3000
+iGame Player
 Infinium Labs Phantom
 Intelligent-System
+Jade
+Jupiter
+Jupiter-64
 Leader System
 Leopard
 Lion
 Lonestar
 Lucidcast
 Lux
-Jade
-Jupiter
-Jupiter-64
 Mark V
 Mars
 Marz
+Master Cube
+Master Drive
+Master Engine
 Master V
+Mega Cube
 Mega Entertainment System
+Mega Game System
 Mercury
 Mercury Gameflux
-Microcast
+Merlin System
+Micro Entertainment System
 Micro-System
+Microcast
 Mirai
 Moonlight
 Multisystem
@@ -93,11 +130,16 @@ Nintari
 Nitro
 Nuu
 Omega X
-Orion
+Online Box
+Oracle Station
 Orbis
+Orion
 Oxygen
 Pam
 Panther
+Panther Station
+Panther System
+Phantom Power Box
 Playbox
 Playsystem
 Playsystem Portable
@@ -105,40 +147,64 @@ Pleiades
 Polymega
 Polystation
 Portable Vision
+Power Box
 Project Natal
 Puma
 Quicksilver
 Radical Game System
+Real Interactive System
 Retrovision
+Revo Station
 Revolution
+Saturn Box
 Scorpio
-Solar
+Smart Station
 Snap
+Solar
 Spear
 Stadion
 Super Drive
 Super Family Console
+Super Station
+Super System
 Swap
+System 1000
+System 64
+Tele Player
+Tele Star System
 Television Entertainment System
 Tower X
+Turbo Box
+Turbo Cube
+Turbo Station
 TV-Vision
 Ultra 32
 Ultra 64
+Ultra Box
 Utopia
 Uya
 V-Cube
+Vector Machine
+Vector Player
 Vega
 Venus
 Venus Gear
 Venus Oasis
 VG-2000
+Video Station
 Viral Station
+Virtual Game System
 Virtual-Kid
 Visual Boy
+Vox Box
 Wee
+Wonder Player
+Wonder System
 WoWow
 Wuu
 X-Cube
+XEG System
 Xenon
+Xtreme Multisystem
 Y-Box
 Z-Box

@@ -365,6 +365,7 @@ Legion of <NAME>
 Tactics <NAME>
 War of <NAME>
 Heroes of <NAME>
+<NAME>: Planetfall
 [END]
 
 [5]
@@ -554,6 +555,7 @@ My <NAME>
 My <NAME> Ranch
 Planet of <NAME>
 Sim <NAME>
+<NAME> Deer Huntin'
 [END]
 
 [8]
@@ -840,6 +842,8 @@ Heroes of <NAME>
 Invaders of <NAME>
 Knights of <NAME>
 Legions of <NAME>
+<NAME>: Planetfall
+<NAME>: RTS
 [END]
 
 [14]
@@ -885,6 +889,7 @@ Legions of <NAME>
 <NAME>: Xeno
 <NAME>: Zero
 Bionic <NAME>
+<NAME> 3D
 [END]
 
 [15]
@@ -962,6 +967,7 @@ The Secret of <NAME>
 <NAME>: Zero
 Bionic <NAME>
 The Bureau: <NAME> Declassified
+<NAME> 3D
 [END]
 
 [17]
@@ -1004,6 +1010,7 @@ Nitro <NAME>
 Streets of <NAME>
 Team <NAME> Racing
 Turbo <NAME>
+Off-Road <NAME> Racing
 [END]
 
 [18]
