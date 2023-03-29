@@ -2,14 +2,20 @@
 This is a collection of mod files created by me, to replace all fake names and screenshots with their real life counter parts. Additionally the mod adds new competitors, developer legends, NPC games, IPs and more.
 
 # What does the mod add/change?
+- Anti Cheat Systems
+- Copy Protection Systems
 - Developer Legends
+- Licenses
+- NPC Addons
 - NPC Engines
 - NPC Games
 - NPC IPs
 - NPC Spinoffs
-- NPC Addons
+- Platforms
 - Publisher
 - Quotes (currently only for German)
+- Random Company Names
+- Random Game Names (replaced with a huge list of fake names to avoid accidentially naming your game after NPC Games)
 - Screenshots (in the future)
 
 # How to install the mod?
