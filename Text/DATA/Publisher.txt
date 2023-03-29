@@ -1909,21 +1909,21 @@
 [COUNTRY]1
 
 [ID]111
-[NAME EN]Goldhawk Interactive
-[NAME GE]Goldhawk Interactive
-[NAME TU]Goldhawk Interactive
-[NAME FR]Goldhawk Interactive
-[NAME JA]Goldhawk Interactive
-[DATE]JAN 2009
+[NAME EN]Daedelic Entertainment
+[NAME GE]Daedelic Entertainment
+[NAME TU]Daedelic Entertainment
+[NAME FR]Daedelic Entertainment
+[NAME JA]Daedelic Entertainment
+[DATE]MAR 2007
 [PIC]405
 [DEVELOPER]true
-[PUBLISHER]false
-[MARKET]15
+[PUBLISHER]true
+[MARKET]35
 [SHARE]7
-[GENRE]4
+[GENRE]2
 [SPEED]0
-[COMVAL]1000000
-[COUNTRY]2
+[COMVAL]3500000
+[COUNTRY]5
 
 [ID]112
 [NAME EN]Nihon Falcom
