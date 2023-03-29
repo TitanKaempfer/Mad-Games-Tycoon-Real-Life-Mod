@@ -16,6 +16,7 @@ This is a collection of mod files created by me, to replace all fake names and s
 - Quotes (currently only for German)
 - Random Company Names
 - Random Game Names (replaced with a huge list of fake names to avoid accidentially naming your game after NPC Games)
+- Random Platform Names
 - Screenshots (in the future)
 
 # How to install the mod?
