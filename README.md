@@ -5,6 +5,7 @@ This is a collection of mod files created by me, to replace all fake names and s
 - Anti Cheat Systems
 - Copy Protection Systems
 - Developer Legends
+- Hardware & Hardware Features
 - Licenses
 - NPC Addons
 - NPC Engines
