@@ -82,6 +82,7 @@
 [TYP]4
 [PRE]-1
 [SUC]-1
+[STARTPLATFORM]
 [END]
 
 [ID]4

@@ -4,6 +4,7 @@ Hyper <NAME>
 Mega <NAME>
 New <NAME>
 Super <NAME>
+Special <NAME>
 [END]
 
 [0]
