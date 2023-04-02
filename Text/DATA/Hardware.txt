@@ -2241,21 +2241,20 @@
 
 [ID]132
 [TYP]8
-[NAME EN]Case for stationary console I
-[NAME GE]Gehäuse für stationäre Konsole I
-[NAME TU]Sabit Konsol Çantası I
-[NAME GE]Gehäuse für stationäre Konsole I
-[NAME ES]Carcasa para consola estacionaria I
-[NAME PB]Carcaça para console fixo I
-[NAME JA]据え置き機筐体 第1世代
-[NAME CH]第一代家用游戏机机箱
-[NAME CT]第一代家用機機箱
-[NAME IT]Case per console fissa I
-[NAME FR]Boitier pour console fixe I
-[NAME PL]I Obudowa do konsoli 
-[NAME UA]Корпус для стаціонарної консолі I
-[NAME CZ]Skříň pro stacionární konzoli I
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น I
+[NAME EN]Case for stationary console [1]
+[NAME GE]Gehäuse für stationäre Konsole [1]
+[NAME TU]Sabit Konsol Çantası [1]
+[NAME ES]Carcasa para consola estacionaria [1]
+[NAME PB]Carcaça para console fixo [1]
+[NAME JA]Case for stationary console [1]
+[NAME CH]Case for stationary console [1]
+[NAME CT]Case for stationary console [1]
+[NAME IT]Case per console fissa [1]
+[NAME FR]Boitier pour console fixe [1]
+[NAME PL]Obudowa do konsoli [1]
+[NAME UA]Корпус для стаціонарної консолі [1]
+[NAME CZ]Skříň pro stacionární konzoli [1]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [1]
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -2266,20 +2265,20 @@
 
 [ID]133
 [TYP]8
-[NAME EN]Case for stationary console II
-[NAME GE]Gehäuse für stationäre Konsole II
-[NAME TU]Sabit Konsol Çantası II
-[NAME ES]Carcasa para consola estacionaria II
-[NAME PB]Carcaça para console fixo II
-[NAME JA]据え置き機筐体 第2世代
-[NAME CH]第二代家用游戏机机箱
-[NAME CT]第二代家用機機箱
-[NAME IT]Case per console fissa II
-[NAME FR]Boitier pour console fixe II
-[NAME PL]II Obudowa do konsoli 
-[NAME UA]Корпус для стаціонарної консолі II
-[NAME CZ]Skříň pro stacionární konzoli II
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น II
+[NAME EN]Case for stationary console [3]
+[NAME GE]Gehäuse für stationäre Konsole [3]
+[NAME TU]Sabit Konsol Çantası [3]
+[NAME ES]Carcasa para consola estacionaria [3]
+[NAME PB]Carcaça para console fixo [3]
+[NAME JA]Case for stationary console [3]
+[NAME CH]Case for stationary console [3]
+[NAME CT]Case for stationary console [3]
+[NAME IT]Case per console fissa [3]
+[NAME FR]Boitier pour console fixe [3]
+[NAME PL]Obudowa do konsoli [3]
+[NAME UA]Корпус для стаціонарної консолі [3]
+[NAME CZ]Skříň pro stacionární konzoli [3]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [3]
 [DATE]FEB 1982
 [RES POINTS]1000
 [PRICE]250000
@@ -2290,20 +2289,20 @@
 
 [ID]134
 [TYP]8
-[NAME EN]Case for stationary console III
-[NAME GE]Gehäuse für stationäre Konsole III
-[NAME TU]Sabit Konsol Çantası III
-[NAME ES]Carcasa para consola estacionaria III
-[NAME PB]Carcaça para console fixo III
-[NAME JA]据え置き機筐体 第3世代
-[NAME CH]第三代家用游戏机机箱
-[NAME CT]第三代家用機機箱
-[NAME IT]Case per console fissa III
-[NAME FR]Boitier pour console fixe III
-[NAME PL]III Obudowa do konsoli 
-[NAME UA]Корпус для стаціонарної консолі III
-[NAME CZ]Skříň pro stacionární konzoli III
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น III
+[NAME EN]Case for stationary console [5]
+[NAME GE]Gehäuse für stationäre Konsole [5]
+[NAME TU]Sabit Konsol Çantası [5]
+[NAME ES]Carcasa para consola estacionaria [5]
+[NAME PB]Carcaça para console fixo [5]
+[NAME JA]Case for stationary console [5]
+[NAME CH]Case for stationary console [5]
+[NAME CT]Case for stationary console [5]
+[NAME IT]Case per console fissa [5]
+[NAME FR]Boitier pour console fixe [5]
+[NAME PL]Obudowa do konsoli [5]
+[NAME UA]Корпус для стаціонарної консолі [5]
+[NAME CZ]Skříň pro stacionární konzoli [5]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [5]
 [DATE]JUN 1986
 [RES POINTS]1500
 [PRICE]500000
@@ -2314,20 +2313,20 @@
 
 [ID]135
 [TYP]8
-[NAME EN]Case for stationary console IV
-[NAME GE]Gehäuse für stationäre Konsole IV
-[NAME TU]Sabit Konsol Çantası IV
-[NAME ES]Carcasa para consola estacionaria IV
-[NAME PB]Carcaça para console fixo IV
-[NAME JA]据え置き機筐体 第4世代
-[NAME CH]第四代家用游戏机机箱
-[NAME CT]第四代家用機機箱
-[NAME IT]Case per console fissa IV
-[NAME FR]Boitier pour console fixe IV
-[NAME PL]IV Obudowa do konsoli 
-[NAME UA]Корпус для стаціонарної консолі IV
-[NAME CZ]Skříň pro stacionární konzoli IV
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น IV
+[NAME EN]Case for stationary console [7]
+[NAME GE]Gehäuse für stationäre Konsole [7]
+[NAME TU]Sabit Konsol Çantası [7]
+[NAME ES]Carcasa para consola estacionaria [7]
+[NAME PB]Carcaça para console fixo [7]
+[NAME JA]Case for stationary console [7]
+[NAME CH]Case for stationary console [7]
+[NAME CT]Case for stationary console [7]
+[NAME IT]Case per console fissa [7]
+[NAME FR]Boitier pour console fixe [7]
+[NAME PL]Obudowa do konsoli [7]
+[NAME UA]Корпус для стаціонарної консолі [7]
+[NAME CZ]Skříň pro stacionární konzoli [7]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [7]
 [DATE]AUG 1992
 [RES POINTS]2000
 [PRICE]1000000
@@ -2338,20 +2337,20 @@
 
 [ID]136
 [TYP]8
-[NAME EN]Case for stationary console V
-[NAME GE]Gehäuse für stationäre Konsole V
-[NAME TU]Sabit Konsol Çantası V
-[NAME ES]Carcasa para consola estacionaria V
-[NAME PB]Carcaça para console fixo V
-[NAME JA]据え置き機筐体 第5世代
-[NAME CH]第五代家用游戏机机箱
-[NAME CT]第五代家用機機箱
-[NAME IT]Case per console fissa V
-[NAME FR]Boitier pour console fixe V
-[NAME PL]V Obudowa do konsoli 
-[NAME UA]Корпус для стаціонарної консолі V
-[NAME CZ]Skříň pro stacionární konzoli V
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น V
+[NAME EN]Case for stationary console [9]
+[NAME GE]Gehäuse für stationäre Konsole [9]
+[NAME TU]Sabit Konsol Çantası [9]
+[NAME ES]Carcasa para consola estacionaria [9]
+[NAME PB]Carcaça para console fixo [9]
+[NAME JA]Case for stationary console [9]
+[NAME CH]Case for stationary console [9]
+[NAME CT]Case for stationary console [9]
+[NAME IT]Case per console fissa [9]
+[NAME FR]Boitier pour console fixe [9]
+[NAME PL]Obudowa do konsoli [9]
+[NAME UA]Корпус для стаціонарної консолі [9]
+[NAME CZ]Skříň pro stacionární konzoli [9]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [9]
 [DATE]DEC 1997
 [RES POINTS]2500
 [PRICE]2500000
@@ -2362,20 +2361,20 @@
 
 [ID]137
 [TYP]8
-[NAME EN]Case for stationary console VI
-[NAME GE]Gehäuse für stationäre Konsole VI
-[NAME TU]Sabit Konsol Çantası VI
-[NAME ES]Carcasa para consola estacionaria VI
-[NAME PB]Carcaça para console fixo VI
-[NAME JA]据え置き機筐体 第6世代
-[NAME CH]第六代家用游戏机机箱
-[NAME CT]第六代家用機機箱
-[NAME IT]Case per console fissa VI
-[NAME FR]Boitier pour console fixe VI
-[NAME PL]VI Obudowa do konsoli
-[NAME UA]Корпус для стаціонарної консолі VI
-[NAME CZ]Skříň pro stacionární konzoli VI
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น VI
+[NAME EN]Case for stationary console [11]
+[NAME GE]Gehäuse für stationäre Konsole [11]
+[NAME TU]Sabit Konsol Çantası [11]
+[NAME ES]Carcasa para consola estacionaria [11]
+[NAME PB]Carcaça para console fixo [11]
+[NAME JA]Case for stationary console [11]
+[NAME CH]Case for stationary console [11]
+[NAME CT]Case for stationary console [11]
+[NAME IT]Case per console fissa [11]
+[NAME FR]Boitier pour console fixe [11]
+[NAME PL]Obudowa do konsoli [11]
+[NAME UA]Корпус для стаціонарної консолі [11]
+[NAME CZ]Skříň pro stacionární konzoli [11]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [11]
 [DATE]MAY 2004
 [RES POINTS]3000
 [PRICE]5000000
@@ -2386,20 +2385,20 @@
 
 [ID]138
 [TYP]8
-[NAME EN]Case for stationary console VII
-[NAME GE]Gehäuse für stationäre Konsole VII
-[NAME TU]Sabit Konsol Çantası VII
-[NAME ES]Carcasa para consola estacionaria VII
-[NAME PB]Carcaça para console fixo VII
-[NAME JA]据え置き機筐体 第7世代
-[NAME CH]第七代家用游戏机机箱
-[NAME CT]第七代家用機機箱
-[NAME IT]Case per console fissa VII
-[NAME FR]Boitier pour console fixe VII
-[NAME PL]VII Obudowa do konsoli
-[NAME UA]Корпус для стаціонарної консолі VII
-[NAME CZ]Skříň pro stacionární konzoli VII
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น VII
+[NAME EN]Case for stationary console [13]
+[NAME GE]Gehäuse für stationäre Konsole [13]
+[NAME TU]Sabit Konsol Çantası [13]
+[NAME ES]Carcasa para consola estacionaria [13]
+[NAME PB]Carcaça para console fixo [13]
+[NAME JA]Case for stationary console [13]
+[NAME CH]Case for stationary console [13]
+[NAME CT]Case for stationary console [13]
+[NAME IT]Case per console fissa [13]
+[NAME FR]Boitier pour console fixe [13]
+[NAME PL]Obudowa do konsoli [13]
+[NAME UA]Корпус для стаціонарної консолі [13]
+[NAME CZ]Skříň pro stacionární konzoli [13]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [13]
 [DATE]APR 2012
 [RES POINTS]3500
 [PRICE]7500000
@@ -2410,20 +2409,20 @@
 
 [ID]139
 [TYP]8
-[NAME EN]Case for stationary console VIII
-[NAME GE]Gehäuse für stationäre Konsole VIII
-[NAME TU]Sabit Konsol Çantası VIII
-[NAME ES]Carcasa para consola estacionaria VIII
-[NAME PB]Carcaça para console fixo VIII
-[NAME JA]据え置き機筐体 第8世代
-[NAME CH]第八代家用游戏机机箱
-[NAME CT]第八代家用機機箱
-[NAME IT]Case per console fissa VIII
-[NAME FR]Boitier pour console fixe VIII
-[NAME PL]VIII Obudowa do konsoli 
-[NAME UA]Корпус для стаціонарної консолі VIII
-[NAME CZ]Skříň pro stacionární konzoli VIII
-[NAME TH]เคสสำหรับคอนโซลตั้งพื้น VIII
+[NAME EN]Case for stationary console [15]
+[NAME GE]Gehäuse für stationäre Konsole [15]
+[NAME TU]Sabit Konsol Çantası [15]
+[NAME ES]Carcasa para consola estacionaria [15]
+[NAME PB]Carcaça para console fixo [15]
+[NAME JA]Case for stationary console [15]
+[NAME CH]Case for stationary console [15]
+[NAME CT]Case for stationary console [15]
+[NAME IT]Case per console fissa [15]
+[NAME FR]Boitier pour console fixe [15]
+[NAME PL]Obudowa do konsoli [15]
+[NAME UA]Корпус для стаціонарної консолі [15]
+[NAME CZ]Skříň pro stacionární konzoli [15]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [15]
 [DATE]AUG 2017
 [RES POINTS]4000
 [PRICE]10000000
@@ -2436,20 +2435,20 @@
 
 [ID]140
 [TYP]8
-[NAME EN]Case for handheld I
-[NAME GE]Gehäuse für Handheld I
-[NAME TU]El Çantası I
-[NAME ES]Carcasa para consola portatil I
-[NAME PB]Carcaça para console portatil I
-[NAME JA]携帯機筐体 第1世代
-[NAME CH]第一代掌机外壳
-[NAME CT]第一代手提機外殼
-[NAME IT]Case per console portatile I
-[NAME FR]Boitier pour console portable I
-[NAME PL]I Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі I
-[NAME CZ]Skříň pro mobilní konzoli I
-[NAME TH]เคสสำหรับคอนโซลพกพา I
+[NAME EN]Case for handheld [1]
+[NAME GE]Gehäuse für Handheld [1]
+[NAME TU]El Çantası [1]
+[NAME ES]Carcasa para consola portatil [1]
+[NAME PB]Carcaça para console portatil [1]
+[NAME JA]Case for handheld [1]
+[NAME CH]Case for handheld [1]
+[NAME CT]Case for handheld [1]
+[NAME IT]Case per console portatile [1]
+[NAME FR]Boitier pour console portable [1]
+[NAME PL]Obudowa do konsoli przenośnej [1]
+[NAME UA]Корпус для портативної консолі [1]
+[NAME CZ]Skříň pro mobilní konzoli [1]
+[NAME TH]เคสสำหรับคอนโซลพกพา [1]
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -2460,20 +2459,20 @@
 
 [ID]141
 [TYP]8
-[NAME EN]Case for handheld II
-[NAME GE]Gehäuse für Handheld II
-[NAME TU]El Çantası II
-[NAME ES]Carcasa para consola portatil II
-[NAME PB]Carcaça para console portatil II
-[NAME JA]携帯機筐体 第2世代
-[NAME CH]第二代掌机外壳
-[NAME CT]第二代手提機外殼
-[NAME IT]Case per console portatile II
-[NAME FR]Boitier pour console portable II
-[NAME PL]II Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі II
-[NAME CZ]Skříň pro mobilní konzoli II
-[NAME TH]เคสสำหรับคอนโซลพกพา II
+[NAME EN]Case for handheld [3]
+[NAME GE]Gehäuse für Handheld [3]
+[NAME TU]El Çantası [3]
+[NAME ES]Carcasa para consola portatil [3]
+[NAME PB]Carcaça para console portatil [3]
+[NAME JA]Case for handheld [3]
+[NAME CH]Case for handheld [3]
+[NAME CT]Case for handheld [3]
+[NAME IT]Case per console portatile [3]
+[NAME FR]Boitier pour console portable [3]
+[NAME PL]Obudowa do konsoli przenośnej [3]
+[NAME UA]Корпус для портативної консолі [3]
+[NAME CZ]Skříň pro mobilní konzoli [3]
+[NAME TH]เคสสำหรับคอนโซลพกพา [3]
 [DATE]FEB 1982
 [RES POINTS]1000
 [PRICE]250000
@@ -2484,20 +2483,20 @@
 
 [ID]142
 [TYP]8
-[NAME EN]Case for handheld III
-[NAME GE]Gehäuse für Handheld III
-[NAME TU]El Çantası III
-[NAME ES]Carcasa para consola portatil III
-[NAME PB]Carcaça para console portatil III
-[NAME JA]携帯機筐体 第3世代
-[NAME CH]第三代掌机外壳
-[NAME CT]第三代手提機外殼
-[NAME IT]Case per console portatile III
-[NAME FR]Boitier pour console portable III
-[NAME PL]III Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі III
-[NAME CZ]Skříň pro mobilní konzoli III
-[NAME TH]เคสสำหรับคอนโซลพกพา III
+[NAME EN]Case for handheld [5]
+[NAME GE]Gehäuse für Handheld [5]
+[NAME TU]El Çantası [5]
+[NAME ES]Carcasa para consola portatil [5]
+[NAME PB]Carcaça para console portatil [5]
+[NAME JA]Case for handheld [5]
+[NAME CH]Case for handheld [5]
+[NAME CT]Case for handheld [5]
+[NAME IT]Case per console portatile [5]
+[NAME FR]Boitier pour console portable [5]
+[NAME PL]Obudowa do konsoli przenośnej [5]
+[NAME UA]Корпус для портативної консолі [5]
+[NAME CZ]Skříň pro mobilní konzoli [5]
+[NAME TH]เคสสำหรับคอนโซลพกพา [5]
 [DATE]JUN 1986
 [RES POINTS]1500
 [PRICE]500000
@@ -2508,20 +2507,20 @@
 
 [ID]143
 [TYP]8
-[NAME EN]Case for handheld IV
-[NAME GE]Gehäuse für Handheld IV
-[NAME TU]El Çantası IV
-[NAME ES]Carcasa para consola portatil IV
-[NAME PB]Carcaça para console portatil IV
-[NAME JA]携帯機筐体 第4世代
-[NAME CH]第四代掌机外壳
-[NAME CT]第四代手提機外殼
-[NAME IT]Case per console portatile IV
-[NAME FR]Boitier pour console portable IV
-[NAME PL]IV Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі IV
-[NAME CZ]Skříň pro mobilní konzoli IV
-[NAME TH]เคสสำหรับคอนโซลพกพา IV
+[NAME EN]Case for handheld [7]
+[NAME GE]Gehäuse für Handheld [7]
+[NAME TU]El Çantası [7]
+[NAME ES]Carcasa para consola portatil [7]
+[NAME PB]Carcaça para console portatil [7]
+[NAME JA]Case for handheld [7]
+[NAME CH]Case for handheld [7]
+[NAME CT]Case for handheld [7]
+[NAME IT]Case per console portatile [7]
+[NAME FR]Boitier pour console portable [7]
+[NAME PL]Obudowa do konsoli przenośnej [7]
+[NAME UA]Корпус для портативної консолі [7]
+[NAME CZ]Skříň pro mobilní konzoli [7]
+[NAME TH]เคสสำหรับคอนโซลพกพา [7]
 [DATE]AUG 1992
 [RES POINTS]2000
 [PRICE]1000000
@@ -2532,20 +2531,20 @@
 
 [ID]144
 [TYP]8
-[NAME EN]Case for handheld V
-[NAME GE]Gehäuse für Handheld V
-[NAME TU]El Çantası V
-[NAME ES]Carcasa para consola portatil V
-[NAME PB]Carcaça para console portatil V
-[NAME JA]携帯機筐体 第5世代
-[NAME CH]第五代掌机外壳
-[NAME CT]第五代手提機外殼
-[NAME IT]Case per console portatile V
-[NAME FR]Boitier pour console portable V
-[NAME PL]V Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі V
-[NAME CZ]Skříň pro mobilní konzoli V
-[NAME TH]เคสสำหรับคอนโซลพกพา V
+[NAME EN]Case for handheld [9]
+[NAME GE]Gehäuse für Handheld [9]
+[NAME TU]El Çantası [9]
+[NAME ES]Carcasa para consola portatil [9]
+[NAME PB]Carcaça para console portatil [9]
+[NAME JA]Case for handheld [9]
+[NAME CH]Case for handheld [9]
+[NAME CT]Case for handheld [9]
+[NAME IT]Case per console portatile [9]
+[NAME FR]Boitier pour console portable [9]
+[NAME PL]Obudowa do konsoli przenośnej [9]
+[NAME UA]Корпус для портативної консолі [9]
+[NAME CZ]Skříň pro mobilní konzoli [9]
+[NAME TH]เคสสำหรับคอนโซลพกพา [9]
 [DATE]DEC 1997
 [RES POINTS]2500
 [PRICE]2500000
@@ -2556,20 +2555,20 @@
 
 [ID]145
 [TYP]8
-[NAME EN]Case for handheld VI
-[NAME GE]Gehäuse für Handheld VI
-[NAME TU]El Çantası VI
-[NAME ES]Carcasa para consola portatil VI
-[NAME PB]Carcaça para console portatil VI
-[NAME JA]携帯機筐体 第6世代
-[NAME CH]第六代掌机外壳
-[NAME CT]第六代手提機外殼
-[NAME IT]Case per console portatile VI
-[NAME FR]Boitier pour console portable VI
-[NAME PL]VI Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі VI
-[NAME CZ]Skříň pro mobilní konzoli VI
-[NAME TH]เคสสำหรับคอนโซลพกพา VI
+[NAME EN]Case for handheld [11]
+[NAME GE]Gehäuse für Handheld [11]
+[NAME TU]El Çantası [11]
+[NAME ES]Carcasa para consola portatil [11]
+[NAME PB]Carcaça para console portatil [11]
+[NAME JA]Case for handheld [11]
+[NAME CH]Case for handheld [11]
+[NAME CT]Case for handheld [11]
+[NAME IT]Case per console portatile [11]
+[NAME FR]Boitier pour console portable [11]
+[NAME PL]Obudowa do konsoli przenośnej [11]
+[NAME UA]Корпус для портативної консолі [11]
+[NAME CZ]Skříň pro mobilní konzoli [11]
+[NAME TH]เคสสำหรับคอนโซลพกพา [11]
 [DATE]MAY 2004
 [RES POINTS]3000
 [PRICE]5000000
@@ -2580,20 +2579,20 @@
 
 [ID]146
 [TYP]8
-[NAME EN]Case for handheld VII
-[NAME GE]Gehäuse für Handheld VII
-[NAME TU]El Çantası VII
-[NAME ES]Carcasa para consola portatil VII
-[NAME PB]Carcaça para console portatil VII
-[NAME JA]携帯機筐体 第7世代
-[NAME CH]第七代掌机外壳
-[NAME CT]第七代手提機外殼
-[NAME IT]Case per console portatile VII
-[NAME FR]Boitier pour console portable VII
-[NAME PL]VII Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі VII
-[NAME CZ]Skříň pro mobilní konzoli VII
-[NAME TH]เคสสำหรับคอนโซลพกพา VII
+[NAME EN]Case for handheld [13]
+[NAME GE]Gehäuse für Handheld [13]
+[NAME TU]El Çantası [13]
+[NAME ES]Carcasa para consola portatil [13]
+[NAME PB]Carcaça para console portatil [13]
+[NAME JA]Case for handheld [13]
+[NAME CH]Case for handheld [13]
+[NAME CT]Case for handheld [13]
+[NAME IT]Case per console portatile [13]
+[NAME FR]Boitier pour console portable [13]
+[NAME PL]Obudowa do konsoli przenośnej [13]
+[NAME UA]Корпус для портативної консолі [13]
+[NAME CZ]Skříň pro mobilní konzoli [13]
+[NAME TH]เคสสำหรับคอนโซลพกพา [13]
 [DATE]APR 2012
 [RES POINTS]3500
 [PRICE]7500000
@@ -2604,20 +2603,20 @@
 
 [ID]147
 [TYP]8
-[NAME EN]Case for handheld VIII
-[NAME GE]Gehäuse für Handheld VIII
-[NAME TU]El Çantası VIII
-[NAME ES]Carcasa para consola portatil VIII
-[NAME PB]Carcaça para console portatil VIII
-[NAME JA]携帯機筐体 第8世代
-[NAME CH]第八代掌机外壳
-[NAME CT]第八代手提機外殼
-[NAME IT]Case per console portatile VIII
-[NAME FR]Boitier pour console portable VIII
-[NAME PL]VIII Obudowa do konsoli przenośnej
-[NAME UA]Корпус для портативної консолі VIII
-[NAME CZ]Skříň pro mobilní konzoli VIII
-[NAME TH]เคสสำหรับคอนโซลพกพา VIII
+[NAME EN]Case for handheld [15]
+[NAME GE]Gehäuse für Handheld [15]
+[NAME TU]El Çantası [15]
+[NAME ES]Carcasa para consola portatil [15]
+[NAME PB]Carcaça para console portatil [15]
+[NAME JA]Case for handheld [15]
+[NAME CH]Case for handheld [15]
+[NAME CT]Case for handheld [15]
+[NAME IT]Case per console portatile [15]
+[NAME FR]Boitier pour console portable [15]
+[NAME PL]Obudowa do konsoli przenośnej [15]
+[NAME UA]Корпус для портативної консолі [15]
+[NAME CZ]Skříň pro mobilní konzoli [15]
+[NAME TH]เคสสำหรับคอนโซลพกพา [15]
 [DATE]AUG 2019
 [RES POINTS]4000
 [PRICE]10000000
@@ -2625,5 +2624,393 @@
 [TECHLEVEL]8
 [PIC]pHand7.png
 [ONLY_HANDHELD]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]156
+[TYP]8
+[NAME EN]Case for handheld [2]
+[NAME GE]Gehäuse für Handheld [2]
+[NAME TU]El Çantası [2]
+[NAME ES]Carcasa para consola portatil [2]
+[NAME PB]Carcaça para console portatil [2]
+[NAME JA]Case for handheld [2]
+[NAME CH]Case for handheld [2]
+[NAME CT]Case for handheld [2]
+[NAME IT]Case per console portatile [2]
+[NAME FR]Boitier pour console portable [2]
+[NAME PL]Obudowa do konsoli przenośnej [2]
+[NAME UA]Корпус для портативної консолі [2]
+[NAME CZ]Skříň pro mobilní konzoli [2]
+[NAME TH]เคสสำหรับคอนโซลพกพา [2]
+[DATE]FEB 1978
+[RES POINTS]500
+[PRICE]200000
+[DEV COSTS]300000
+[TECHLEVEL]1
+[PIC]pHand0B.png
+[ONLY_HANDHELD]
+
+[ID]157
+[TYP]8
+[NAME EN]Case for handheld [4]
+[NAME GE]Gehäuse für Handheld [4]
+[NAME TU]El Çantası [4]
+[NAME ES]Carcasa para consola portatil [4]
+[NAME PB]Carcaça para console portatil [4]
+[NAME JA]Case for handheld [4]
+[NAME CH]Case for handheld [4]
+[NAME CT]Case for handheld [4]
+[NAME IT]Case per console portatile [4]
+[NAME FR]Boitier pour console portable [4]
+[NAME PL]Obudowa do konsoli przenośnej [4]
+[NAME UA]Корпус для портативної консолі [4]
+[NAME CZ]Skříň pro mobilní konzoli [4]
+[NAME TH]เคสสำหรับคอนโซลพกพา [4]
+[DATE]FEB 1984
+[RES POINTS]1200
+[PRICE]350000
+[DEV COSTS]700000
+[TECHLEVEL]2
+[PIC]pHand1B.png
+[ONLY_HANDHELD]
+
+[ID]158
+[TYP]8
+[NAME EN]Case for handheld [6]
+[NAME GE]Gehäuse für Handheld [6]
+[NAME TU]El Çantası [6]
+[NAME ES]Carcasa para consola portatil [6]
+[NAME PB]Carcaça para console portatil [6]
+[NAME JA]Case for handheld [6]
+[NAME CH]Case for handheld [6]
+[NAME CT]Case for handheld [6]
+[NAME IT]Case per console portatile [6]
+[NAME FR]Boitier pour console portable [6]
+[NAME PL]Obudowa do konsoli przenośnej [6]
+[NAME UA]Корпус для портативної консолі [6]
+[NAME CZ]Skříň pro mobilní konzoli [6]
+[NAME TH]เคสสำหรับคอนโซลพกพา [6]
+[DATE]JUN 1988
+[RES POINTS]1700
+[PRICE]700000
+[DEV COSTS]1500000
+[TECHLEVEL]3
+[PIC]pHand2B.png
+[ONLY_HANDHELD]
+
+[ID]159
+[TYP]8
+[NAME EN]Case for handheld [8]
+[NAME GE]Gehäuse für Handheld [8]
+[NAME TU]El Çantası [8]
+[NAME ES]Carcasa para consola portatil [8]
+[NAME PB]Carcaça para console portatil [8]
+[NAME JA]Case for handheld [8]
+[NAME CH]Case for handheld [8]
+[NAME CT]Case for handheld [8]
+[NAME IT]Case per console portatile [8]
+[NAME FR]Boitier pour console portable [8]
+[NAME PL]Obudowa do konsoli przenośnej [8]
+[NAME UA]Корпус для портативної консолі [8]
+[NAME CZ]Skříň pro mobilní konzoli [8]
+[NAME TH]เคสสำหรับคอนโซลพกพา IV
+[DATE]AUG 1994
+[RES POINTS]2200
+[PRICE]1500000
+[DEV COSTS]2500000
+[TECHLEVEL]4
+[PIC]pHand3B.png
+[ONLY_HANDHELD]
+
+[ID]160
+[TYP]8
+[NAME EN]Case for handheld [10]
+[NAME GE]Gehäuse für Handheld [10]
+[NAME TU]El Çantası [10]
+[NAME ES]Carcasa para consola portatil [10]
+[NAME PB]Carcaça para console portatil [10]
+[NAME JA]Case for handheld [10]
+[NAME CH]Case for handheld [10]
+[NAME CT]Case for handheld [10]
+[NAME IT]Case per console portatile [10]
+[NAME FR]Boitier pour console portable [10]
+[NAME PL]Obudowa do konsoli przenośnej [10]
+[NAME UA]Корпус для портативної консолі [10]
+[NAME CZ]Skříň pro mobilní konzoli [10]
+[NAME TH]เคสสำหรับคอนโซลพกพา [10]
+[DATE]DEC 1999
+[RES POINTS]2700
+[PRICE]3000000
+[DEV COSTS]7000000
+[TECHLEVEL]5
+[PIC]pHand4B.png
+[ONLY_HANDHELD]
+
+[ID]161
+[TYP]8
+[NAME EN]Case for handheld [12]
+[NAME GE]Gehäuse für Handheld [12]
+[NAME TU]El Çantası [12]
+[NAME ES]Carcasa para consola portatil [12]
+[NAME PB]Carcaça para console portatil [12]
+[NAME JA]Case for handheld [12]
+[NAME CH]Case for handheld [12]
+[NAME CT]Case for handheld [12]
+[NAME IT]Case per console portatile [12]
+[NAME FR]Boitier pour console portable [12]
+[NAME PL]Obudowa do konsoli przenośnej [12]
+[NAME UA]Корпус для портативної консолі [12]
+[NAME CZ]Skříň pro mobilní konzoli [12]
+[NAME TH]เคสสำหรับคอนโซลพกพา [12]
+[DATE]MAY 2006
+[RES POINTS]3200
+[PRICE]6000000
+[DEV COSTS]12000000
+[TECHLEVEL]6
+[PIC]pHand5B.png
+[ONLY_HANDHELD]
+
+[ID]162
+[TYP]8
+[NAME EN]Case for handheld [14]
+[NAME GE]Gehäuse für Handheld VII [14]
+[NAME TU]El Çantası [14]
+[NAME ES]Carcasa para consola portatil [14]
+[NAME PB]Carcaça para console portatil [14]
+[NAME JA]Case for handheld [14]
+[NAME CH]Case for handheld [14]
+[NAME CT]Case for handheld [14]
+[NAME IT]Case per console portatile [14]
+[NAME FR]Boitier pour console portable [14]
+[NAME PL]Obudowa do konsoli przenośnej [14]
+[NAME UA]Корпус для портативної консолі [14]
+[NAME CZ]Skříň pro mobilní konzoli [14]
+[NAME TH]เคสสำหรับคอนโซลพกพา [14]
+[DATE]APR 2014
+[RES POINTS]3700
+[PRICE]8500000
+[DEV COSTS]17000000
+[TECHLEVEL]7
+[PIC]pHand6B.png
+[ONLY_HANDHELD]
+
+[ID]163
+[TYP]8
+[NAME EN]Case for handheld [16]
+[NAME GE]Gehäuse für Handheld [16]
+[NAME TU]El Çantası [16]
+[NAME ES]Carcasa para consola portatil [16]
+[NAME PB]Carcaça para console portatil [16]
+[NAME JA]Case for handheld [16]
+[NAME CH]Case for handheld [16]
+[NAME CT]Case for handheld [16]
+[NAME IT]Case per console portatile [16]
+[NAME FR]Boitier pour console portable [16]
+[NAME PL]Obudowa do konsoli przenośnej [16]
+[NAME UA]Корпус для портативної консолі [16]
+[NAME CZ]Skříň pro mobilní konzoli [16]
+[NAME TH]เคสสำหรับคอนโซลพกพา [16]
+[DATE]AUG 2022
+[RES POINTS]5000
+[PRICE]13000000
+[DEV COSTS]23000000
+[TECHLEVEL]8
+[PIC]pHand7B.png
+[ONLY_HANDHELD]
+
+////////////////////////////////////////////////////////////////////
+
+[ID]164
+[TYP]8
+[NAME EN]Case for stationary console [2]
+[NAME GE]Gehäuse für stationäre Konsole [2]
+[NAME TU]Sabit Konsol Çantası [2]
+[NAME ES]Carcasa para consola estacionaria [2]
+[NAME PB]Carcaça para console fixo [2]
+[NAME JA]Case for stationary console [2]
+[NAME CH]Case for stationary console [2]
+[NAME CT]Case for stationary console [2]
+[NAME IT]Case per console fissa [2]
+[NAME FR]Boitier pour console fixe [2]
+[NAME PL]Obudowa do konsoli [2]
+[NAME UA]Корпус для стаціонарної консолі [2]
+[NAME CZ]Skříň pro stacionární konzoli [2]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [2]
+[DATE]JAN 1978
+[RES POINTS]500
+[PRICE]200000
+[DEV COSTS]300000
+[TECHLEVEL]1
+[PIC]pCon0B.png
+[ONLY_STATIONARY]
+
+[ID]165
+[TYP]8
+[NAME EN]Case for stationary console [4]
+[NAME GE]Gehäuse für stationäre Konsole [4]
+[NAME TU]Sabit Konsol Çantası [4]
+[NAME ES]Carcasa para consola estacionaria [4]
+[NAME PB]Carcaça para console fixo [4]
+[NAME JA]Case for stationary console [4]
+[NAME CH]Case for stationary console [4]
+[NAME CT]Case for stationary console [4]
+[NAME IT]Case per console fissa [4]
+[NAME FR]Boitier pour console fixe [4]
+[NAME PL]Obudowa do konsoli [4]
+[NAME UA]Корпус для стаціонарної консолі [4]
+[NAME CZ]Skříň pro stacionární konzoli [4]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [4]
+[DATE]FEB 1984
+[RES POINTS]1200
+[PRICE]350000
+[DEV COSTS]700000
+[TECHLEVEL]2
+[PIC]pCon1B.png
+[ONLY_STATIONARY]
+
+[ID]166
+[TYP]8
+[NAME EN]Case for stationary console [6]
+[NAME GE]Gehäuse für stationäre Konsole [6]
+[NAME TU]Sabit Konsol Çantası [6]
+[NAME ES]Carcasa para consola estacionaria [6]
+[NAME PB]Carcaça para console fixo [6]
+[NAME JA]Case for stationary console [6]
+[NAME CH]Case for stationary console [6]
+[NAME CT]Case for stationary console [6]
+[NAME IT]Case per console fissa [6]
+[NAME FR]Boitier pour console fixe [6]
+[NAME PL]Obudowa do konsoli [6]
+[NAME UA]Корпус для стаціонарної консолі [6]
+[NAME CZ]Skříň pro stacionární konzoli [6]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [6]
+[DATE]JUN 1988
+[RES POINTS]1700
+[PRICE]700000
+[DEV COSTS]1500000
+[TECHLEVEL]3
+[PIC]pCon2B.png
+[ONLY_STATIONARY]
+
+[ID]167
+[TYP]8
+[NAME EN]Case for stationary console [8]
+[NAME GE]Gehäuse für stationäre Konsole [8]
+[NAME TU]Sabit Konsol Çantası [8]
+[NAME ES]Carcasa para consola estacionaria [8]
+[NAME PB]Carcaça para console fixo [8]
+[NAME JA]Case for stationary console [8]
+[NAME CH]Case for stationary console [8]
+[NAME CT]Case for stationary console [8]
+[NAME IT]Case per console fissa [8]
+[NAME FR]Boitier pour console fixe [8]
+[NAME PL]Obudowa do konsoli [8]
+[NAME UA]Корпус для стаціонарної консолі [8]
+[NAME CZ]Skříň pro stacionární konzoli [8]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [8]
+[DATE]AUG 1994
+[RES POINTS]2200
+[PRICE]1500000
+[DEV COSTS]2500000
+[TECHLEVEL]4
+[PIC]pCon3B.png
+[ONLY_STATIONARY]
+
+[ID]168
+[TYP]8
+[NAME EN]Case for stationary console [10]
+[NAME GE]Gehäuse für stationäre Konsole [10]
+[NAME TU]Sabit Konsol Çantası [10]
+[NAME ES]Carcasa para consola estacionaria [10]
+[NAME PB]Carcaça para console fixo [10]
+[NAME JA]Case for stationary console [10]
+[NAME CH]Case for stationary console [10]
+[NAME CT]Case for stationary console [10]
+[NAME IT]Case per console fissa [10]
+[NAME FR]Boitier pour console fixe [10]
+[NAME PL]Obudowa do konsoli [10]
+[NAME UA]Корпус для стаціонарної консолі [10]
+[NAME CZ]Skříň pro stacionární konzoli [10]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [10]
+[DATE]DEC 1999
+[RES POINTS]2700
+[PRICE]3000000
+[DEV COSTS]7000000
+[TECHLEVEL]5
+[PIC]pCon4B.png
+[ONLY_STATIONARY]
+
+[ID]169
+[TYP]8
+[NAME EN]Case for stationary console [12]
+[NAME GE]Gehäuse für stationäre Konsole [12]
+[NAME TU]Sabit Konsol Çantası [12]
+[NAME ES]Carcasa para consola estacionaria [12]
+[NAME PB]Carcaça para console fixo [12]
+[NAME JA]Case for stationary console [12]
+[NAME CH]Case for stationary console [12]
+[NAME CT]Case for stationary console [12]
+[NAME IT]Case per console fissa [12]
+[NAME FR]Boitier pour console fixe [12]
+[NAME PL]Obudowa do konsoli [12]
+[NAME UA]Корпус для стаціонарної консолі [12]
+[NAME CZ]Skříň pro stacionární konzoli [12]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [12]
+[DATE]MAY 2006
+[RES POINTS]3200
+[PRICE]6000000
+[DEV COSTS]12000000
+[TECHLEVEL]6
+[PIC]pCon5B.png
+[ONLY_STATIONARY]
+
+[ID]170
+[TYP]8
+[NAME EN]Case for stationary console [14]
+[NAME GE]Gehäuse für stationäre Konsole [14]
+[NAME TU]Sabit Konsol Çantası [14]
+[NAME ES]Carcasa para consola estacionaria [14]
+[NAME PB]Carcaça para console fixo [14]
+[NAME JA]Case for stationary console [14]
+[NAME CH]Case for stationary console [14]
+[NAME CT]Case for stationary console [14]
+[NAME IT]Case per console fissa [14]
+[NAME FR]Boitier pour console fixe [14]
+[NAME PL]Obudowa do konsoli [14]
+[NAME UA]Корпус для стаціонарної консолі [14]
+[NAME CZ]Skříň pro stacionární konzoli [14]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [14]
+[DATE]APR 2014
+[RES POINTS]3700
+[PRICE]8500000
+[DEV COSTS]17000000
+[TECHLEVEL]7
+[PIC]pCon6B.png
+[ONLY_STATIONARY]
+
+[ID]171
+[TYP]8
+[NAME EN]Case for stationary console [16]
+[NAME GE]Gehäuse für stationäre Konsole [16]
+[NAME TU]Sabit Konsol Çantası [16]
+[NAME ES]Carcasa para consola estacionaria [16]
+[NAME PB]Carcaça para console fixo [16]
+[NAME JA]Case for stationary console [16]
+[NAME CH]Case for stationary console [16]
+[NAME CT]Case for stationary console [16]
+[NAME IT]Case per console fissa [16]
+[NAME FR]Boitier pour console fixe [16]
+[NAME PL]Obudowa do konsoli [16]
+[NAME UA]Корпус для стаціонарної консолі [16]
+[NAME CZ]Skříň pro stacionární konzoli [16]
+[NAME TH]เคสสำหรับคอนโซลตั้งพื้น [16]
+[DATE]AUG 2020
+[RES POINTS]5000
+[PRICE]13000000
+[DEV COSTS]23000000
+[TECHLEVEL]8
+[PIC]pCon7B.png
+[ONLY_STATIONARY]
 
 [EOF]

@@ -2229,11 +2229,11 @@ Cops <MOVIE><Q7><Y1989><G+12><G-18>
 Cory in the House <MOVIE><Y2007><G-5>
 Count Duckula <MOVIE><Y1988><G-6>
 Criminal Minds <MOVIE><Y2005><G-7>
-CSI: Crime Scene Investigation <MOVIE><Q9><Y2000><G-8>
-CSI: Cyber <MOVIE><Q4><Y2014><G-9>
-CSI: Miami <MOVIE><Q7><Y2002><G-10>
-CSI: New York <MOVIE><Q8><Y2004><G-11>
-CSI: Vegas <MOVIE><Q9><Y2021><G-12>
+CSI: Crime Scene Investigation <MOVIE><Q9><Y2000><G+2><G-8>
+CSI: Cyber <MOVIE><Q4><Y2014><G+2><G-9>
+CSI: Miami <MOVIE><Q7><Y2002><G+2><G-10>
+CSI: New York <MOVIE><Q8><Y2004><G+2><G-11>
+CSI: Vegas <MOVIE><Q9><Y2021><G+2><G-18>
 Cubix: Robots for Everyone <MOVIE><Q6><Y2001><G+17><G-13>
 Cyberchase <MOVIE><Y2002><G-14>
 Dad's Army <MOVIE><Y1976><G-0>
@@ -2323,7 +2323,7 @@ Littlest Pet Shop <MOVIE><Y1995><G-7>
 Lone Ranger <MOVIE><Y1976><G-8>
 Lost <MOVIE><Y2004><G-9>
 Lucifer <MOVIE><Y2016><G-10>
-Lucky Luke <MOVIE><Y1983><G-11>
+Lucky Luke <MOVIE><Q8><Y1983><G+6><G-11>
 M*A*S*H <MOVIE><Y1976><G-12>
 Mad Men <MOVIE><Y2007><G-13>
 Madeline <MOVIE><Y1988><G-14>
@@ -2535,6 +2535,7 @@ BattleTech: MechWarrior <BOARD><Y1986><G+3><G-1>
 Carcassonne <BOARD><Y2000><G+4><G-2>
 Cards Against Humanity <BOARD><Y2011><G+1><G-18>
 Cluedo <BOARD><Y1976><G+4><G-3>
+Crimson Skies <BOARD><Y1998><G+5><G-18>
 Codenames <BOARD><Y2015><G+1><G-4>
 Connect Four <BOARD><Y1976><G+1><G-5>
 Cyberpunk <BOARD><Y1988><G+3><G-7>
