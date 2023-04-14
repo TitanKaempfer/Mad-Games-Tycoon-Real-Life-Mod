@@ -160,6 +160,7 @@ Madara <COMIC><Q7><Y1987><G+3><G-6>
 Made in Abyss <MOVIE><Q9><Y2017><G+3><G-6>
 Magic Knight Rayearth <MOVIE><Q8><Y1994><G-7>
 Magical★Taruruuto-kun <MOVIE><Q8><Y1990><G+6><G-11>
+Magical Hat <MOVIE><Y1989><G+6><G-18>
 Maid Sama! <MOVIE><Q8><Y2010><G+15><G-8>
 Major 2nd <MOVIE><Q8><Y2018><G+8><G-9>
 Maya the Honey Bee <MOVIE><Q7><Y1976><G+6><G-10>
@@ -169,11 +170,11 @@ Mob Psycho 100 <MOVIE><Q9><Y2016><G-13>
 Monster <MOVIE><Q9><Y2004><G+2><G-0>
 Monster Musume <MOVIE><Q7><Y2015><G-1>
 My Dress-Up Darling <MOVIE><Q9><Y2022><G+15><G-2>
-My Hero Academia <MOVIE><Q8><Y2016><G+10><G-3>
+My Hero Academia <MOVIE><Q8><Y2016><G+10><G-7>
 My Neighbor Totoro <MOVIE><Q9><Y1988><G-4>
 Nausicaä of the Valley of the Wind <MOVIE><Q9><Y1984><G-5>
 Neko Majin <COMIC><Q7><Y1999><G+5><G-6>
-Neon Genesis Evangelion <MOVIE><Q9><Y1995><G+5><G-7>
+Neon Genesis Evangelion <MOVIE><Q9><Y1995><G+3><G-7>
 Nichijou - My Ordinary Life <MOVIE><Q9><Y2011><G+15><G-8>
 Ninja Scroll <MOVIE><Q8><Y1993><G-9>
 Nisekoi <MOVIE><Q8><Y2014><G-10>
@@ -183,7 +184,7 @@ Noragami <MOVIE><Q8><Y2014><G+3><G-13>
 One Piece <COMIC><Q10><Y1997><G+10><G-14>
 One Punch Man <MOVIE><Q9><Y2015><G+10><G-0>
 OreImo <MOVIE><Q7><Y2010><G+15><G-1>
-Osomatsu-Kun <MOVIE><Q7><Y1976><G-2>
+Osomatsu-Kun <MOVIE><Q7><Y1976><G+13><G-2>
 Ouran High School Host Club <MOVIE><Q9><Y2006><G+15><G-3>
 Outlaw Star <MOVIE><Q8><Y1998><G-4>
 Overlord <MOVIE><Q8><Y2015><G+3><G-5>
@@ -194,8 +195,8 @@ Place to Place <MOVIE><Q8><Y2012><G+15><G-8>
 Ponyo <MOVIE><Q8><Y2008><G-9>
 Princess Anmitsu <MOVIE><Q7><Y1986><G+2><G-10>
 Princess Mononoke <MOVIE><Q9><Y1997><G-11>
-Psycho-Pass <MOVIE><Q9><Y2012><G+16><G-12>
-Puella Magi Madoka Magica <MOVIE><Q9><Y2011><G-13>
+Psycho-Pass <MOVIE><Q9><Y2012><G+15><G-12>
+Puella Magi Madoka Magica <MOVIE><Q9><Y2011><G+3><G-13>
 Ranma ½ <MOVIE><Q8><Y1989><G+10><G-14>
 Rascal Does Not Dream of Bunny Girl Senpai <MOVIE><Q9><Y2018><G+15><G-0>
 Re:CREATORS <MOVIE><Q8><Y2017><G+10><G-1>
@@ -211,7 +212,7 @@ Rocky Joe <MOVIE><Q9><Y1976><G+10><G-9>
 Rozen Maiden <MOVIE><Q8><Y2004><G-11>
 RWBY <COMIC><Q8><Y2015><G-12>
 Sailor Moon <MOVIE><Q8><Y1992><G+5><G-13>
-Saint Seiya <MOVIE><Q8><Y1986><G-14>
+Saint Seiya <MOVIE><Q8><Y1986><G+3><G-14>
 Samurai 7 <MOVIE><Q8><Y2004><G-0>
 Samurai Champloo <MOVIE><Q9><Y2004><G-1>
 Samurai Pizza Cats <MOVIE><Q7><Y1990><G-2>
@@ -219,7 +220,7 @@ Sazae-san <MOVIE><Q7><Y1976><G+15><G-3>
 School Rumble <MOVIE><Q8><Y2004><G+15><G-4>
 Sekirei <MOVIE><Q7><Y2008><G-5>
 Seraph of the End: Vampire Reign <MOVIE><Q8><Y2015><G+5><G-6>
-Serial Experiments Lain <MOVIE><Q8><Y1998><G-7>
+Serial Experiments Lain <MOVIE><Q8><Y1998><G+15><G-9>
 Shaman King <MOVIE><Q8><Y2001><G-8>
 Silent Möbius <MOVIE><Q7><Y1998><G+15><G-17>
 Slam Dunk <MOVIE><Q9><Y1993><G+8><G-9>
@@ -283,14 +284,14 @@ Wedding Peach <MOVIE><Q7><Y1995><G+10><G-4>
 Weiß Kreuz <MOVIE><Q7><Y1998><G+16><G-6>
 Witch Hunter Robin <MOVIE><Q8><Y2002><G-6>
 X/1999 <MOVIE><Q7><Y1996><G-7>
-Ya Boy Kongming! <MOVIE><Q9><Y2022><G+9><G-5>
+Ya Boy Kongming! <COMIC><Q9><Y2019><G+9><G-5>
 Yadamon <MOVIE><Q7><Y1992><G-8>
-Your Lie in April <MOVIE><Q9><Y2014><G-9>
+Your Lie in April <COMIC><Q9><Y2011><G-9>
 Your Name <MOVIE><Q9><Y2016><G+15><G-10>
-Yu Yu Hakusho <MOVIE><Q9><Y1992><G-11>
-Yu-Gi-Oh! <MOVIE><Q8><Y1998><G+4><G-13>
+Yu Yu Hakusho <COMIC><Q9><Y1990><G-11>
+Yu-Gi-Oh! <COMIC><Q8><Y1996><G+4><G-13>
 Yuri!!! on ICE <MOVIE><Q8><Y2016><G+8><G-13>
-Yuru Yuri <MOVIE><Q8><Y2011><G-14>
+Yuru Yuri <COMIC><Q9><Y2008><G-14>
 Zatch Bell! <COMIC><Q8><Y2001><G-0>
 Zillion <MOVIE><Q7><Y1987><G+5><G-1>
 Zombieland Saga <MOVIE><Q8><Y2018><G+0><G-2>
@@ -359,6 +360,7 @@ Mort & Phil <COMIC><Q5><Y1976><G-11>
 Peanuts <COMIC><Q9><Y1976><G-12>
 Popeye <COMIC><Q6><Y1976><G+6><G-13>
 Sam & Max <COMIC><Y1987><G+2><G-5>
+Scott Pilgrim <COMIC><Q9><Y2004><G+5><G-14>
 Scud: The Disposable Assassin <COMIC><Y1994><G+5><G-14>
 Spawn <COMIC><Q7><Y1992><G+5><G-0>
 Spider-Man <COMIC><Q8><Y1976><G+5><G-1>
@@ -611,7 +613,7 @@ Meister Eder and his Pumuckl <MOVIE><Q8><Y1982><G+6><G-3>
 Miami Vice <MOVIE><Q5><Y2006><G+16><G-4>
 Midnight Express <MOVIE><Q10><Y1978><G+2><G-5>
 Million Dollar Baby <MOVIE><Q9><Y2004><G+10><G-7>
-Minority Report <MOVIE><Q9><Y2002><G+2><G-8>
+Minority Report <MOVIE><Q9><Y2002><G+5><G-8>
 Miracle on 34th Street <MOVIE><Q10><Y1976><G+2><G-9>
 Moana <MOVIE><Q10><Y2016><G+6><G-10>
 Monster House <MOVIE><Q8><Y2006><G+2><G-11>
@@ -667,7 +669,7 @@ Ready Player One <MOVIE><Q8><Y2018><G+5><G-3>
 Red Dawn <MOVIE><Q5><Y1984><G+13><G-4>
 Red Sparrow <MOVIE><Q5><Y2018><G+2><G-5>
 Reign of Fire <MOVIE><Q5><Y2002><G+3><G-6>
-Reservoir Dogs <MOVIE><Q9><Y1992><G+12><G-7>
+Reservoir Dogs <MOVIE><Q9><Y1992><G+16><G-7>
 Revenge of the Nerds <MOVIE><Q8><Y1984><G+2><G-8>
 Richard the Lionheart <MOVIE><Q1><Y2013><G+12><G-9>
 Rio <MOVIE><Q8><Y2011><G+6><G-10>
@@ -686,7 +688,7 @@ Scarecrows <MOVIE><Y1988><G-10>
 Scarface (1976) <MOVIE><Q10><Y1976><G+16><G-11>
 Scarface (1983) <MOVIE><Q9><Y1983><G+16><G-15>
 Schindler's List <MOVIE><Y1993><G+12><G-13>
-Scott Pilgrim vs. the World <MOVIE><Y2010><G-14>
+Scott Pilgrim vs. the World <MOVIE><Q9><Y2010><G+5><G-14>
 Serenity <MOVIE><Y2005><G-0>
 Seven Samurai <MOVIE><Y1976><G-1>
 Sexmission <MOVIE><Y1984><G-2>
@@ -715,7 +717,7 @@ Super 8 <MOVIE><Y2011><G-9>
 Supergirl <MOVIE><Y1984><G-10>
 Surf's Up <MOVIE><Y2007><G-11>
 Sweet Home <MOVIE><Q7><Y1989><G+3><G-12>
-Tangled <MOVIE><Y2010><G-13>
+Tangled <MOVIE><Q9><Y2010><G+2><G-13>
 Tank Girl <MOVIE><Y1995><G-14>
 Tarzan <MOVIE><Q9><Y1999><G+6><G-1>
 Tarzan the Ape Man <MOVIE><Y1981><G-1>
@@ -825,7 +827,7 @@ The Sting <MOVIE><Y1976><G-12>
 The Storm Rider <MOVIE><Y1976><G-13>
 The Sum of All Fears <MOVIE><Y2002><G-14>
 The Thief of Bagdad <MOVIE><Y1978><G-0>
-The Thing <MOVIE><Y1982><G-17>
+The Thing <MOVIE><Q9><Y1982><G+2><G-17>
 The Third Man <MOVIE><Y1976><G-2>
 The Three Musketeers <MOVIE><Y1976><G-3>
 The Time Machine <MOVIE><Y2002><G-4>
@@ -834,10 +836,10 @@ The Truman Show <MOVIE><Y1998><G-6>
 The Unbelievers <MOVIE><Y2013><G-7>
 The Untouchables <MOVIE><Q9><Y1987><G+5><G-8>
 The Verdict <MOVIE><Q9><Y1982><G+15><G-5>
-The Warriors <MOVIE><Y1979><G-9>
+The Warriors <MOVIE><Q8><Y1979><G+5><G-9>
 The Watch <MOVIE><Y2012><G-10>
 The Wave <MOVIE><Y1981><G-11>
-The Wizards of Oz <MOVIE><Y1976><G-12>
+The Wizards of Oz <MOVIE><Q10><Y1976><G+6><G-12>
 The Wolf of Wall Street <MOVIE><Y2013><G-13>
 The X from Outer Space <MOVIE><Y1976><G-14>
 Thirty Five <MOVIE><Y2016><G-0>
@@ -867,8 +869,8 @@ Vertical Limit <MOVIE><Y2000><G-8>
 Vertigo <MOVIE><Y1976><G-9>
 Virus <MOVIE><Y1999><G-10>
 WALL-E <MOVIE><Y2008><G-11>
-Wallace & Gromit: The Curse of the Were-Rabbit <MOVIE><Y2005><G+15><G-13>
-Wanted <MOVIE><Y2008><G-13>
+Wallace & Gromit: The Curse of the Were-Rabbit <MOVIE><Q9><Y2005><G+2><G-13>
+Wanted <MOVIE><Q7><Y2008><G+16><G-13>
 War of the Planets <MOVIE><Y1976><G+5><G-14>
 War of the Worlds <MOVIE><Y2005><G+5><G-0>
 WarGames <MOVIE><Y1983><G-1>
@@ -897,14 +899,14 @@ Cruella <MOVIE><Q8><Y2021><G+6><G-2>
 3 Ninjas Kick Back <MOVIE><Y1994><G+5><G-9>
 3 Ninjas Knuckles Up <MOVIE><Y1995><G+5><G-10>
 3 Ninjas: High Noon at Mega Mountain <MOVIE><Y1998><G+5><G-11>
-A Nightmare on Elm Street <MOVIE><Y1984><G-12>
-A Nightmare on Elm Street 2: Freddy's Revenge <MOVIE><Y1985><G-13>
-A Nightmare on Elm Street 3: Dream Warriors <MOVIE><Y1987><G-14>
-A Nightmare on Elm Street 4: The Dream Master <MOVIE><Y1988><G-0>
-A Nightmare on Elm Street 5: The Dream Child <MOVIE><Y1989><G-1>
-Freddy's Dead: The Final Nightmare <MOVIE><Y1991><G-2>
-Wes Craven's New Nightmare <MOVIE><Y1994><G-3>
-A Nightmare on Elm Street <MOVIE><Y2010><G-4>
+A Nightmare on Elm Street <MOVIE><Q10><Y1984><G+2><G-18>
+A Nightmare on Elm Street 2: Freddy's Revenge <MOVIE><Q5><Y1985><G+2><G-13>
+A Nightmare on Elm Street 3: Dream Warriors <MOVIE><Q8><Y1987><G+2><G-14>
+A Nightmare on Elm Street 4: The Dream Master <MOVIE><Q6><Y1988><G+2><G-0>
+A Nightmare on Elm Street 5: The Dream Child <MOVIE><Q3><Y1989><G+2><G-1>
+Freddy's Dead: The Final Nightmare <MOVIE><Q3><Y1991><G+2><G-15>
+Wes Craven's New Nightmare <MOVIE><Q8><Y1994><G+2><G-3>
+A Nightmare on Elm Street <MOVIE><Q2><Y2010><G+2><G-4>
 A Sound of Thunder <MOVIE><Y2005><G-5>
 Action Man: Robot Atak <MOVIE><Y2004><G-6>
 Airplane! <MOVIE><Q10><Y1980><G+12><G-7>
@@ -1255,11 +1257,11 @@ High School Musical <MOVIE><Y2006><G-13>
 High School Musical 2 <MOVIE><Y2007><G-14>
 High School Musical 3: Senior Year <MOVIE><Y2008><G-0>
 Highlander <MOVIE><Q7><Y1986><G+2><G-4>
-Home Alone <MOVIE><Y1990><G-1>
-Home Alone 2: Lost in New York <MOVIE><Y1992><G-2>
-Home Alone 3 <MOVIE><Y1997><G-3>
-Home Alone 4: Taking Back the House <MOVIE><Y2002><G-4>
-Home Alone: The Holiday Heist <MOVIE><Y2012><G-5>
+Home Alone <MOVIE><Q7><Y1990><G+2><G-1>
+Home Alone 2: Lost in New York <MOVIE><Q4><Y1992><G+2><G-3>
+Home Alone 3 <MOVIE><Q4><Y1997><G+2><G-3>
+Home Alone 4: Taking Back the House <MOVIE><Q3><Y2002><G+2><G-6>
+Home Alone: The Holiday Heist <MOVIE><Q3><Y2012><G+2><G-8>
 How to Train Your Dragon <MOVIE><Y2010><G-6>
 How to Train Your Dragon 2 <MOVIE><Y2014><G-7>
 How to Train Your Dragon: The Hidden World <MOVIE><Y2019><G-8>
@@ -1358,15 +1360,15 @@ Kill Bill <MOVIE><Y2003><G-9>
 Kill Bill: Volume 2 <MOVIE><Y2004><G-10>
 Kindergarten Cop <MOVIE><Q6><Y1990><G+5><G-0>
 Kindergarten Cop 2 <MOVIE><Q3><Y2016><G+5><G-0>
-King Kong <MOVIE><Y1976><G+0><G-11>
-Son of Kong <MOVIE><Y1976><G+0><G-12>
-King Kong (1976) <MOVIE><Y1976><G+0><G-13>
-King Kong Lives <MOVIE><Y1986><G+0><G-14>
-King Kong (2005) <MOVIE><Y2005><G+0><G-0>
-Kong: Skull Island <MOVIE><Y2017><G+0><G-1>
-Godzilla vs. Kong <MOVIE><Y2021><G+0><G-2>
-King Kong vs. Godzilla <MOVIE><Y1976><G+0><G-3>
-King Kong Escapes <MOVIE><Y1976><G+0><G-4>
+King Kong (1933) <MOVIE><Q10><Y1976><G+2><G-11>
+Son of Kong <MOVIE><Q5><Y1976><G+2><G-14>
+King Kong (1976) <MOVIE><Q6><Y1976><G+2><G-13>
+King Kong Lives <MOVIE><Q1><Y1986><G+2><G-14>
+King Kong (2005) <MOVIE><Q9><Y2005><G+2><G-0>
+Kong: Skull Island <MOVIE><Q8><Y2017><G+2><G-1>
+Godzilla vs. Kong <MOVIE><Q8><Y2021><G+2><G-5>
+King Kong vs. Godzilla <MOVIE><Q6><Y1976><G+2><G-3>
+King Kong Escapes <MOVIE><Q7><Y1976><G+2><G-4>
 Kingsman: The Secret Service <MOVIE><Y2014><G-5>
 Kingsman: The Golden Circle <MOVIE><Y2017><G-6>
 The King's Man <MOVIE><Y2021><G-7>
@@ -1395,15 +1397,15 @@ Day of the Dead <MOVIE><Q9><Y1985><G+14><G-12>
 Land of the Dead <MOVIE><Q8><Y2005><G+14><G-13>
 Diary of the Dead <MOVIE><Q7><Y2007><G+14><G-13>
 Survival of the Dead <MOVIE><Q4><Y2009><G+14><G-0>
-Mad Max <MOVIE><Y1980><G+5><G-1>
-Mad Max 2 <MOVIE><Y1982><G+5><G-2>
-Mad Max Beyond Thunderdome <MOVIE><Y1985><G+5><G-3>
-Mad Max: Fury Road <MOVIE><Y2015><G+5><G-4>
-Furiosa <MOVIE><Y2023><G+5><G-18>
-Madagascar <MOVIE><Q6><Y2005><G+6><G-1>
-Madagascar: Escape 2 Africa <MOVIE><Q7><Y2008><G+6><G-7>
-Madagascar 3: Europe's Most Wanted <MOVIE><Q8><Y2012><G+6><G-8>
-Penguins of Madagascar <MOVIE><Q8><Y2014><G+6><G-9>
+Mad Max <MOVIE><Q10><Y1980><G+5><G-1>
+Mad Max 2 <MOVIE><Q10><Y1982><G+5><G-2>
+Mad Max Beyond Thunderdome <MOVIE><Q9><Y1985><G+5><G-3>
+Mad Max: Fury Road <MOVIE><Q10><Y2015><G+5><G-4>
+Furiosa <MOVIE><Y2024><G+5><G-18>
+Madagascar <MOVIE><Q6><Y2005><G+2><G-1>
+Madagascar: Escape 2 Africa <MOVIE><Q7><Y2008><G+2><G-7>
+Madagascar 3: Europe's Most Wanted <MOVIE><Q8><Y2012><G+2><G-8>
+Penguins of Madagascar <MOVIE><Q8><Y2014><G+2><G-9>
 Man-Thing <MOVIE><Y2005><G-10>
 The New Mutants <MOVIE><Y2020><G-11>
 Marvel's The Avengers <MOVIE><Q10><Y2012><G+5><G-12>
@@ -1424,14 +1426,14 @@ Men in Black: International <MOVIE><Y2019><G-9>
 The Mighty Ducks <MOVIE><Y1992><G-11>
 D2: The Mighty Ducks <MOVIE><Y1994><G-12>
 D3: The Mighty Ducks <MOVIE><Y1996><G-13>
-Mission: Impossible <MOVIE><Y1996><G-14>
-Mission: Impossible 2 <MOVIE><Y2000><G-0>
-Mission: Impossible III <MOVIE><Y2006><G-1>
-Mission: Impossible - Ghost Protocol <MOVIE><Y2011><G-2>
-Mission: Impossible - Rogue Nation <MOVIE><Y2015><G-3>
-Mission: Impossible – Fallout <MOVIE><Y2018><G-4>
-Monsters, Inc. <MOVIE><Y2001><G-5>
-Monsters University <MOVIE><Y2013><G-6>
+Mission: Impossible <MOVIE><Q7><Y1996><G+5><G-14>
+Mission: Impossible 2 <MOVIE><Q6><Y2000><G+5><G-0>
+Mission: Impossible III <MOVIE><Q7><Y2006><G+5><G-1>
+Mission: Impossible - Ghost Protocol <MOVIE><Q10><Y2011><G+5><G-2>
+Mission: Impossible - Rogue Nation <MOVIE><Q10><Y2015><G+5><G-3>
+Mission: Impossible – Fallout <MOVIE><Q10><Y2018><G+5><G-4>
+Monsters, Inc. <MOVIE><Q10><Y2001><G+6><G-5>
+Monsters University <MOVIE><Q8><Y2013><G+6><G-18>
 And Now for Something Completely Different <MOVIE><Y1976><G-7>
 Monty Python and the Holy Grail <MOVIE><Y1976><G-8>
 Monty Python's Life of Brian <MOVIE><Y1979><G-9>
@@ -1528,9 +1530,9 @@ Predators <MOVIE><Y2010><G-10>
 The Predator <MOVIE><Y2018><G-11>
 Pumpkinhead <MOVIE><Q7><Y1988><G+14><G-13>
 Pumpkinhead II: Blood Wings <MOVIE><Q2><Y1994><G+14><G-13>
-The Punisher (1989) <MOVIE><Y1989><G+5><G-14>
-The Punisher (2004) <MOVIE><Y2004><G+5><G-0>
-Punisher: War Zone <MOVIE><Y2008><G+5><G-1>
+The Punisher (1989) <MOVIE><Q3><Y1989><G+5><G-14>
+The Punisher (2004) <MOVIE><Q3><Y2004><G+5><G-0>
+Punisher: War Zone <MOVIE><Q3><Y2008><G+5><G-1>
 First Blood <MOVIE><Q9><Y1982><G+5><G-2>
 Rambo: First Blood Part II <MOVIE><Q4><Y1985><G+5><G-3>
 Rambo III <MOVIE><Q4><Y1988><G+5><G-4>
@@ -1599,10 +1601,10 @@ Sharknado 3: Oh Hell No! <MOVIE><Y2015><G-2>
 Sharknado: The 4th Awakens <MOVIE><Y2016><G-3>
 Sharknado 5: Global Swarming <MOVIE><Y2017><G-4>
 The Last Sharknado: It's About Time <MOVIE><Y2018><G-5>
-Shrek <MOVIE><Y2001><G-6>
-Shrek 2 <MOVIE><Y2004><G-7>
-Shrek the Third <MOVIE><Y2007><G-8>
-Shrek Forever After <MOVIE><Y2010><G-9>
+Shrek <MOVIE><Q9><Y2001><G+6><G-4>
+Shrek 2 <MOVIE><Q9><Y2004><G+6><G-7>
+Shrek the Third <MOVIE><Q6><Y2007><G+6><G-8>
+Shrek Forever After <MOVIE><Q6><Y2010><G+6><G-9>
 Sin City <MOVIE><Y2005><G-10>
 Sin City: A Dame to Kill For <MOVIE><Y2014><G-11>
 Space Jam <MOVIE><Y1996><G-12>
@@ -1620,8 +1622,8 @@ Spider-Man: Homecoming <MOVIE><Q10><Y2017><G+5><G-8>
 Spider-Man: Far From Home <MOVIE><Q9><Y2019><G+5><G-9>
 Spider-Man: No Way Home <MOVIE><Q10><Y2021><G+5><G-10>
 Spider-Man: Into the Spiderverse <MOVIE><Q10><Y2018><G+5><G-11>
-The SpongeBob SquarePants Movie <MOVIE><Y2004><G+6><G-12>
-The SpongeBob Movie: Sponge Out of Water <MOVIE><Y2015><G+6><G-13>
+The SpongeBob SquarePants Movie <MOVIE><Q7><Y2004><G+6><G-12>
+The SpongeBob Movie: Sponge Out of Water <MOVIE><Q9><Y2015><G+6><G-13>
 Stalker <MOVIE><Y1979><G-14>
 Star Trek: The Motion Picture <MOVIE><Q5><Y1979><G+5><G-0>
 Star Trek II: The Wrath of Khan <MOVIE><Q9><Y1982><G+5><G-1>
@@ -1649,12 +1651,12 @@ Star Wars: Resistance <MOVIE><Q10><Y2018><G+2><G-7>
 Star Wars: The Bad Batch <MOVIE><Q9><Y2021><G+5><G-8>
 Star Wars: Visions <MOVIE><Q7><Y2021><G+5><G-9>
 Stargate <MOVIE><Q6><Y1994><G+14><G-10>
-Superman <MOVIE><Y1978><G+5><G-0>
-Superman II <MOVIE><Y1980><G+5><G-0>
-Superman III <MOVIE><Y1983><G+5><G-0>
-Superman IV: The Quest for Peace <MOVIE><Y1987><G+5><G-0>
-Superman Returns <MOVIE><Y2006><G+5><G-0>
-Man of Steel <MOVIE><Y2013><G+5><G-0>
+Superman <MOVIE><Q10><Y1978><G+5><G-0>
+Superman II <MOVIE><Q9><Y1980><G+5><G-0>
+Superman III <MOVIE><Q3><Y1983><G+5><G-0>
+Superman IV: The Quest for Peace <MOVIE><Q1><Y1987><G+5><G-0>
+Superman Returns <MOVIE><Q8><Y2006><G+5><G-0>
+Man of Steel <MOVIE><Q6><Y2013><G+5><G-0>
 Swamp Thing <MOVIE><Y1982><G-2>
 The Return of Swamp Thing <MOVIE><Y1989><G-3>
 Taken <MOVIE><Y2008><G-4>
@@ -1777,11 +1779,11 @@ The First Purge <MOVIE><Y2018><G+18><G-12>
 The Forever Purge <MOVIE><Y2021><G+18><G-13>
 The Raid <MOVIE><Y2011><G-14>
 The Raid 2 <MOVIE><Y2014><G-0>
-The Scorpion King <MOVIE><Y2002><G-1>
-The Scorpion King 2: Rise of a Warrior <MOVIE><Y2008><G-2>
-The Scorpion King 3: Battle for Redemption <MOVIE><Y2012><G-3>
-The Scorpion King 4: Quest for Power <MOVIE><Y2015><G-4>
-The Scorpion King: Book of Souls <MOVIE><Y2018><G-5>
+The Scorpion King <MOVIE><Q5><Y2002><G+6><G-1>
+The Scorpion King 2: Rise of a Warrior <MOVIE><Q2><Y2008><G+6><G-18>
+The Scorpion King 3: Battle for Redemption <MOVIE><Q2><Y2012><G+6><G-7>
+The Scorpion King 4: Quest for Power <MOVIE><Q2><Y2015><G+6><G-4>
+The Scorpion King: Book of Souls <MOVIE><Q8><Y2018><G+6><G-18>
 The Silence of the Lambs <MOVIE><Y1991><G-6>
 Hannibal <MOVIE><Y2001><G-7>
 Red Dragon <MOVIE><Y2002><G-8>
@@ -1794,10 +1796,10 @@ The Texas Chainsaw Massacre (2003) <MOVIE><Y2003><G-14>
 The Texas Chainsaw Massacre: The Beginning <MOVIE><Y2006><G-0>
 Texas Chainsaw 3D <MOVIE><Y2013><G-1>
 Leatherface <MOVIE><Y2017><G-2>
-Thor <MOVIE><Y2011><G-3>
-Thor: The Dark World <MOVIE><Y2013><G-4>
-Thor: Ragnarok <MOVIE><Y2017><G-5>
-Thor: Love and Thunder <MOVIE><Y2022><G-6>
+Thor <MOVIE><Q8><Y2011><G+5><G-1>
+Thor: The Dark World <MOVIE><Q7><Y2013><G+5><G-4>
+Thor: Ragnarok <MOVIE><Q10><Y2017><G+5><G-18>
+Thor: Love and Thunder <MOVIE><Q7><Y2022><G+5><G-6>
 Top Gun <MOVIE><Q6><Y1986><G+5><G-7>
 Top Gun: Maverick <MOVIE><Q10><Y2021><G+5><G-8>
 Toy Story <MOVIE><Q10><Y1995><G+6><G-9>
@@ -1806,12 +1808,13 @@ Toy Story 3 <MOVIE><Q10><Y2010><G+6><G-11>
 Toy Story 4 <MOVIE><Q10><Y2019><G+6><G-12>
 Train to Busan <MOVIE><Q10><Y2016><G+18><G-13>
 Peninsula <MOVIE><Q6><Y2020><G+16><G-14>
-The Transformers: The Movie <MOVIE><Y2007><G-0>
-Transformers: Revenge of the Fallen <MOVIE><Y2009><G-1>
-Transformers: Dark of the Moon <MOVIE><Y2011><G-2>
-Transformers: Age of Extinction <MOVIE><Y2014><G-3>
-Transformers: The Last Knight <MOVIE><Y2017><G-4>
-Bumblebee <MOVIE><Y2018><G-5>
+The Transformers: The Movie <MOVIE><Q7><Y1986><G+5><G-18>
+Transformers <MOVIE><Q6><Y2007><G+16><G-0>
+Transformers: Revenge of the Fallen <MOVIE><Q2><Y2009><G+16><G-1>
+Transformers: Dark of the Moon <MOVIE><Q4><Y2011><G+16><G-2>
+Transformers: Age of Extinction <MOVIE><Q2><Y2014><G+16><G-3>
+Transformers: The Last Knight <MOVIE><Q2><Y2017><G+16><G-4>
+Bumblebee <MOVIE><Q9><Y2018><G+16><G-18>
 The Transporter <MOVIE><Y2002><G-6>
 Transporter 2 <MOVIE><Y2005><G-7>
 Transporter 3 <MOVIE><Y2008><G-8>
@@ -1942,6 +1945,7 @@ Kim <BOOK><Q8><Y1976><G-8>
 Les Misérables <BOOK><Q9><Y1976><G-9>
 Life After Life <BOOK><Q8><Y1976><G-10>
 Little Muck <BOOK><Q9><Y1976><G-11>
+Little Monster's Scratch And Sniff Mystery <BOOK><Q10><Y1980><G+2><G-14>
 Little Nemo in Slumberland <BOOK><Q10><Y1976><G-12>
 Little Red Riding Hood <BOOK><Q9><Y1976><G-13>
 Locked On <BOOK><Q9><Y2011><G-14>
@@ -2043,7 +2047,7 @@ The Phantom Prince <BOOK><Y1981><G-2>
 The Pilgrimage <BOOK><Y1987><G-3>
 The Poisonwood Bible <BOOK><Y1998><G-4>
 The Red Badge of Courage <BOOK><Y1985><G-5>
-The Red Star <BOOK><Y1999><G-6>
+The Red Star <COMIC><Q8><Y2001><G+5><G-6>
 The Riftwar Cycle <BOOK><Q9><Y1987><G+3><G-17>
 The Right Stuff <BOOK><Y1979><G-7>
 The Road <BOOK><Y2006><G-8>
@@ -2144,13 +2148,13 @@ The Long Winter <BOOK><Y1976><G-11>
 Little Town on the Prairie <BOOK><Y1976><G-12>
 These Happy Golden Years <BOOK><Y1976><G-13>
 The First Four Years <BOOK><Y1976><G-14>
-The Hobbit <BOOK><Y1976><G-0>
-The Lord of the Rings <BOOK><Y1976><G-1>
-The Adventures of Tom Bobadil <BOOK><Y1976><G-2>
-Tree and Leaf <BOOK><Y1976><G-3>
-The Tolkien Reader <BOOK><Y1976><G-4>
-The Road Goes Ever On <BOOK><Y1976><G-5>
-Smith of Wootton Major <BOOK><Y1976><G-6>
+The Hobbit <BOOK><Q9><Y1976><G+3><G-0>
+The Lord of the Rings <BOOK><Q9><Y1976><G+3><G-1>
+The Adventures of Tom Bobadil <BOOK><Q8><Y1976><G+3><G-18>
+Tree and Leaf <BOOK><Q8><Y1976><G+3><G-10>
+The Tolkien Reader <BOOK><Q8><Y1976><G+3><G-11>
+The Road Goes Ever On <BOOK><Q9><Y1976><G+3><G-5>
+Smith of Wootton Major <BOOK><Q7><Y1976><G+3><G-6>
 The Three Investigators <BOOK><Y1976><G-7>
 New Spring <BOOK><Y2004><G-8>
 The Eye of the World <BOOK><Y1990><G-9>
@@ -2338,12 +2342,12 @@ Monster Garage <MOVIE><Y2002><G-6>
 Moon Knight <MOVIE><Y2022><G-7>
 Moonlight <MOVIE><Y2007><G-8>
 Murder, She Wrote <MOVIE><Y1984><G-9>
-My Little Pony: Friendship Is Magic <MOVIE><Y2010><G-10>
+My Little Pony: Friendship Is Magic <MOVIE><Q8><Y2010><G+2><G-10>
 Mystery Science Theater 3000 <MOVIE><Y1988><G-11>
 New Girl <MOVIE><Y2011><G-12>
 Oggy and the Cockroaches <MOVIE><Q9><Y1998><G+0><G-13>
 Ottifanten <MOVIE><Q6><Y1993><G+6><G-14>
-PAW Patrol <MOVIE><Y2013><G-0>
+PAW Patrol <MOVIE><Q7><Y2013><G+6><G-1>
 Peppa Pig <MOVIE><Y2004><G-1>
 Pet Alien <MOVIE><Y2005><G-2>
 Phantom 2040 <MOVIE><Y1994><G-3>
@@ -2361,10 +2365,10 @@ Robotech <MOVIE><Y1985><G-14>
 RollerGames <MOVIE><Y1989><G-0>
 Rustic Period <MOVIE><Y2002><G-1>
 Saber Rider and the Star Sheriffs <MOVIE><Y1987><G-2>
-Samurai Jack <MOVIE><Y2001><G-3>
+Samurai Jack <MOVIE><Q10><Y2001><G+2><G-4>
 Sandmännchen <MOVIE><Y1976><G-4>
 Schloss Einstein <MOVIE><Y1998><G-5>
-Scooby-Doo <MOVIE><Y1976><G-6>
+Scooby-Doo <MOVIE><Y1976><G+6><G-8>
 Scrubs <MOVIE><Y2001><G+7><G-8>
 seaQuest DSV <MOVIE><Y1993><G-8>
 Seinfeld <MOVIE><Y1989><G-9>
@@ -2415,14 +2419,14 @@ The Mysterious Cities of Gold <MOVIE><Y2012><G-8>
 The Office <MOVIE><Y2001><G-9>
 The Pink Panther <MOVIE><Y1993><G-10>
 The Pirates of Dark Water <MOVIE><Y1991><G-11>
-The Powerpuff Girls <MOVIE><Y1998><G-12>
+The Powerpuff Girls <MOVIE><Q9><Y1998><G+5><G-12>
 The Prisoner <MOVIE><Q9><Y1976><G+2><G-13>
 The Rain <MOVIE><Y2018><G-14>
 The Secret Saturays <MOVIE><Y2008><G-0>
 The Secret World of Santa Claus <MOVIE><Y1999><G-1>
 The Shield <MOVIE><Y2002><G-2>
 The Simpsons <MOVIE><Q9><Y1989><G+5><G-10>
-The Sopranos <MOVIE><Y1999><G-4>
+The Sopranos <MOVIE><Q10><Y1999><G+16><G-4>
 The Suite Life of Zack & Cody <MOVIE><Y2005><G-5>
 The Tick <MOVIE><Y1994><G-6>
 The Trap Door <MOVIE><Y1984><G-7>
@@ -2454,7 +2458,7 @@ Verliebt in Berlin <MOVIE><Y2005><G+15><G-18>
 Victorious <MOVIE><Y2010><G-3>
 Voltron <MOVIE><Y1983><G-4>
 VR Troopers <MOVIE><Y1994><G-5>
-Wacky Races <MOVIE><Y1976><G-6>
+Wacky Races <MOVIE><Q8><Y1976><G+6><G-18>
 Walker, Texas Ranger <MOVIE><Y1993><G-7>
 Walking with Dinosaurs <MOVIE><Q10><Y1999><G+7><G-10>
 WandaVision <MOVIE><Y2021><G-8>
@@ -2471,7 +2475,7 @@ Xavier: Renegade Angel <MOVIE><Y2007><G-3>
 Xena: Warrior Princess <MOVIE><Q8><Y1995><G+5><G-4>
 Xiaolin Showdown <MOVIE><Y2003><G-5>
 Yes Minister <MOVIE><Q9><Y1986><G+7><G-6>
-Young Justice <MOVIE><Q10><Y2010><G+5><G-7>
+Young Justice <MOVIE><Q10><Y2010><G+3><G-7>
 Alice in Borderland <MOVIE><Q8><Y2020><G+0><G-8>
 Avatar: The Last Airbender <MOVIE><Q10><Y2005><G+3><G-9>
 Back at the Barnyard <MOVIE><Y2007><G-10>
@@ -2491,9 +2495,9 @@ Knight Rider <MOVIE><Y2008><G-7>
 Monsters at Work <MOVIE><Y2021><G-8>
 The Charlie Brown and Snoopy Show <MOVIE><Y1983><G-9>
 Phineas and Ferb <MOVIE><Q10><Y2007><G+6><G-10>
-Sabrina the Teenage Witch <MOVIE><Y1976><G-11>
-Sabrina: The Animated Series <MOVIE><Y1999><G-12>
-Chilling Adventures of Sabrina <MOVIE><Y2017><G-13>
+Sabrina the Teenage Witch <MOVIE><Q7><Y1976><G+2><G-11>
+Sabrina: The Animated Series <MOVIE><Q6><Y1999><G+2><G-18>
+Chilling Adventures of Sabrina <MOVIE><Q9><Y2017><G+2><G-13>
 SpongeBob SquarePants <MOVIE><Q8><Y1999><G+6><G-14>
 Star Trek: The Next Generation <MOVIE><Q10><Y1987><G+4><G-17>
 Stargate SG-1 <MOVIE><Q9><Y1997><G+16><G-0>
@@ -2504,7 +2508,7 @@ Stargate Origins <MOVIE><Q5><Y2018><G+16><G-4>
 The Boss Baby: Back in Business <MOVIE><Y2018><G-5>
 The Flintstones <MOVIE><Q7><Y1976><G+6><G-5>
 The Smurfs <MOVIE><Q8><Y1981><G+6><G-7>
-Buzz Lightyear of Star Command <MOVIE><Q8><Y2000><G+5><G-15>
+Buzz Lightyear of Star Command <MOVIE><Q8><Y2000><G+6><G-15>
 Transporter: The Series <MOVIE><Q6><Y2012><G-8>
 Tron: Uprising <MOVIE><Q9><Y2012><G+0><G-6>
 The X-Files <MOVIE><Q8><Y1993><G+12><G-10>
@@ -2546,6 +2550,8 @@ Hotel <BOARD><Y1986><G+9><G-8>
 Labyrinth <BOARD><Y1986><G+1><G-9>
 Mine a Million <BOARD><Y1976><G+9><G-10>
 Monopoly <BOARD><Y1976><G+9><G-18>
+Mutant <BOARD><Y1984><G+4><G-14>
+Pathfinder <BOARD><Y2009><G+3><G-11>
 Pictionary <BOARD><Y1990><G+1><G-12>
 Power Grid <BOARD><Y2004><G+9><G-12>
 Risk <BOARD><Y1976><G+4><G-13>
@@ -2571,6 +2577,7 @@ Lego <TOY><Q10><Y1976><G+5><G-1>
 Micro Machines <TOY><Y1986><G+17><G-12>
 Playmobil <TOY><Q7><Y1976><G-1>
 Tamagotchi <TOY><Q8><Y1996><G+7><G-1>
+ZhuZhu Pets <TOY><Y2008><G+7><G-18>
 Aerobic Gymnastics World Championships (Aerobic) <SPORT><Y1995><G+8><G-0>
 National Aerobic Championships (Aerobic) <SPORT><Y1984><G+8><G-1>
 Aero GP (Air Racing) <SPORT><Y2005><G+17><G-2>
