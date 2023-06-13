@@ -1469,7 +1469,7 @@
 [NAME FR]Atlus
 [NAME JA]Atlus
 [DATE]APR 1986
-[PIC]182
+[PIC]561
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]75
@@ -1486,7 +1486,7 @@
 [NAME FR]miHoYo
 [NAME JA]miHoYo
 [DATE]FEB 2012
-[PIC]183
+[PIC]562
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]70
@@ -1503,7 +1503,7 @@
 [NAME FR]Valve Corporation
 [NAME JA]Valve Corporation
 [DATE]AUG 1996
-[PIC]184
+[PIC]182
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]88
@@ -1521,7 +1521,7 @@
 [NAME FR]SNK
 [NAME JA]SNK
 [DATE]JUL 1978
-[PIC]185
+[PIC]187
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]60
@@ -1540,7 +1540,7 @@
 [NAME FR]CAVE Interactive
 [NAME JA]CAVE Interactive
 [DATE]JUN 1994
-[PIC]186
+[PIC]563
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]45
@@ -1557,7 +1557,7 @@
 [NAME FR]Illusion
 [NAME JA]イリュージョン
 [DATE]APR 2001
-[PIC]187
+[PIC]564
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]42
@@ -1574,7 +1574,7 @@
 [NAME FR]Mages
 [NAME JA]Mages
 [DATE]APR 2005
-[PIC]188
+[PIC]565
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -1591,7 +1591,7 @@
 [NAME FR]PlatinumGames
 [NAME JA]PlatinumGames
 [DATE]OCT 2007
-[PIC]189
+[PIC]566
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]63
@@ -1608,7 +1608,7 @@
 [NAME FR]LucasArts Entertainment
 [NAME JA]LucasArts Entertainment
 [DATE]MAY 1982
-[PIC]190
+[PIC]183
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]85
@@ -1625,7 +1625,7 @@
 [NAME FR]Square
 [NAME JA]Square
 [DATE]SEP 1986
-[PIC]194
+[PIC]185
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]70
@@ -1642,7 +1642,7 @@
 [NAME FR]Take-Two Interactive
 [NAME JA]Take-Two Interactive
 [DATE]APR 1993
-[PIC]195
+[PIC]184
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]88
@@ -1659,7 +1659,7 @@
 [NAME FR]Paradox Interactive
 [NAME JA]Paradox Interactive
 [DATE]OCT 1999
-[PIC]196
+[PIC]186
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]79
@@ -1693,7 +1693,7 @@
 [NAME FR]Bohemia Interactive
 [NAME JA]Bohemia Interactive
 [DATE]JAN 2010
-[PIC]197
+[PIC]567
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]70
@@ -1710,7 +1710,7 @@
 [NAME FR]Level-5
 [NAME JA]Level-5
 [DATE]OCT 1998
-[PIC]198
+[PIC]569
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]63
@@ -1727,7 +1727,7 @@
 [NAME FR]KISS
 [NAME JA]KISS
 [DATE]JAN 1998
-[PIC]199
+[PIC]568
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]42
@@ -1744,7 +1744,7 @@
 [NAME FR]Riot Games
 [NAME JA]Riot Games
 [DATE]SEP 2006
-[PIC]200
+[PIC]570
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]74
@@ -1761,7 +1761,7 @@
 [NAME FR]Davilex Games
 [NAME JA]Davilex Games
 [DATE]MAR 1986
-[PIC]201
+[PIC]571
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]53
@@ -1778,7 +1778,7 @@
 [NAME FR]Piranha Bytes
 [NAME JA]Piranha Bytes
 [DATE]OCT 1997
-[PIC]202
+[PIC]572
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]65
@@ -2156,7 +2156,7 @@
 [NAME CH]Gearbox Software
 [NAME UA]Gearbox Software
 [DATE]AUG 1999
-[PIC]389
+[PIC]188
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]78
@@ -2175,7 +2175,7 @@
 [NAME CH]Microïds
 [NAME UA]Microïds
 [DATE]OCT 1985
-[PIC]477
+[PIC]189
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]47
@@ -2194,7 +2194,7 @@
 [NAME CH]Crystal Dynamics
 [NAME UA]Crystal Dynamics
 [DATE]SEP 1992
-[PIC]319
+[PIC]190
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]68
@@ -2213,7 +2213,7 @@
 [NAME CH]Avalance Studios
 [NAME UA]Avalance Studios
 [DATE]OCT 1995
-[PIC]478
+[PIC]191
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]65
@@ -2232,7 +2232,7 @@
 [NAME CH]Cinemaware
 [NAME UA]Cinemaware
 [DATE]NOV 1985
-[PIC]479
+[PIC]192
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]40
@@ -2251,7 +2251,7 @@
 [NAME CH]Adventure Soft
 [NAME UA]Adventure Soft
 [DATE]JUN 1983
-[PIC]480
+[PIC]193
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]15
@@ -2270,7 +2270,7 @@
 [NAME CH]Ion Storm
 [NAME UA]Ion Storm
 [DATE]NOV 1996
-[PIC]438
+[PIC]194
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]70
@@ -2289,7 +2289,7 @@
 [NAME CH]Thalion Software
 [NAME UA]Thalion Software
 [DATE]OCT 1988
-[PIC]481
+[PIC]195
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]22
@@ -2308,7 +2308,7 @@
 [NAME CH]Mindscape
 [NAME UA]Mindscape
 [DATE]OCT 1983
-[PIC]482
+[PIC]196
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]77
