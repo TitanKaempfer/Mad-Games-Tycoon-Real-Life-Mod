@@ -78,6 +78,8 @@ French with <NAME>
 Future <NAME>
 Math with <NAME>
 Quiz <NAME>
+<NAME>: Typing Adventure
+Learn with <NAME>
 [END]
 
 [2]
@@ -135,6 +137,7 @@ The Isle of <NAME>
 The Legend of <NAME>
 The Secret of <NAME>
 The Murder of <NAME>
+<NAME> Blackgate
 [END]
 
 [3]
@@ -259,6 +262,7 @@ The Lords of <NAME>
 The Ring of <NAME>
 The Secret of <NAME>
 World of <NAME>
+<NAME> Blackgate
 [END]
 
 [4]
@@ -522,6 +526,7 @@ Super <NAME>
 Super <NAME>
 The Curse of <NAME>
 The Journey of <NAME>
+<NAME> Blackgate
 [END]
 
 [7]
