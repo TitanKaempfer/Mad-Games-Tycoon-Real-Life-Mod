@@ -5,6 +5,7 @@
 [NAME FR]Acclaim
 [NAME JA]Acclaim
 [DATE]DEC 1987
+[DATE END]AUG 2010
 [PIC]1
 [DEVELOPER]true
 [PUBLISHER]true
@@ -22,6 +23,7 @@
 [NAME FR]Accolade
 [NAME JA]Accolade
 [DATE]JUN 1984
+[DATE END]OCT 2000
 [PIC]2
 [DEVELOPER]true
 [PUBLISHER]true
@@ -144,6 +146,7 @@
 [NAME FR]Gremlin Interactive
 [NAME JA]Gremlin Interactive
 [DATE]APR 1984
+[DATE END]OCT 2003
 [PIC]9
 [DEVELOPER]true
 [PUBLISHER]false
@@ -178,6 +181,7 @@
 [NAME FR]Infocom
 [NAME JA]Infocom
 [DATE]JUN 1979
+[DATE END]JUN 1986
 [PIC]11
 [DEVELOPER]true
 [PUBLISHER]true
@@ -195,6 +199,7 @@
 [NAME FR]Infogrames
 [NAME JA]Infogrames
 [DATE]JUN 1983
+[DATE END]MAY 2003
 [PIC]12
 [DEVELOPER]true
 [PUBLISHER]true
@@ -263,6 +268,7 @@
 [NAME FR]Microprose
 [NAME JA]Microprose
 [DATE]OCT 1982
+[DATE END]DEC 1993
 [PIC]16
 [DEVELOPER]true
 [PUBLISHER]true
@@ -283,6 +289,7 @@
 [PIC]17
 [DEVELOPER]true
 [PUBLISHER]true
+[EXCLUSIVE]true
 [MARKET]100
 [SHARE]13
 [GENRE]13
@@ -336,6 +343,7 @@
 [NAME FR]Ocean Software
 [NAME JA]Ocean Software
 [DATE]NOV 1982
+[DATE END]FEB 1998
 [PIC]20
 [DEVELOPER]true
 [PUBLISHER]false
@@ -353,6 +361,7 @@
 [NAME FR]Origin Systems
 [NAME JA]Origin Systems
 [DATE]APR 1983
+[DATE END]FEB 2004
 [PIC]21
 [DEVELOPER]true
 [PUBLISHER]true
@@ -370,6 +379,7 @@
 [NAME FR]Psygnosis
 [NAME JA]Psygnosis
 [DATE]FEB 1984
+[DATE END]AUG 2012
 [PIC]22
 [DEVELOPER]true
 [PUBLISHER]true
@@ -424,6 +434,7 @@
 [NAME FR]Sierra Entertainment
 [NAME JA]Sierra Entertainment
 [DATE]APR 1979
+[DATE END]JAN 2008
 [PIC]25
 [DEVELOPER]true
 [PUBLISHER]true
@@ -562,6 +573,7 @@
 [NAME FR]Sir-Tech
 [NAME JA]Sir-Tech
 [DATE]OCT 1979
+[DATE END]JAN 2003
 [PIC]33
 [DEVELOPER]true
 [PUBLISHER]true
@@ -579,6 +591,7 @@
 [NAME FR]Technosoft
 [NAME JA]Technosoft
 [DATE]JAN 1976
+[DATE END]JAN 2001
 [PIC]34
 [DEVELOPER]true
 [PUBLISHER]false
@@ -596,6 +609,7 @@
 [NAME FR]Troika Games
 [NAME JA]Troika Games
 [DATE]NOV 1998
+[DATE END]FEB 2005
 [PIC]35
 [DEVELOPER]true
 [PUBLISHER]false
@@ -613,6 +627,7 @@
 [NAME FR]Westwood Studios
 [NAME JA]Westwood Studios
 [DATE]DEC 1985
+[DATE END]MAR 2003
 [PIC]36
 [DEVELOPER]true
 [PUBLISHER]false
@@ -630,6 +645,7 @@
 [NAME FR]The Bitmap Brothers
 [NAME JA]The Bitmap Brothers
 [DATE]FEB 1987
+[DATE END]NOV 2019
 [PIC]37
 [DEVELOPER]true
 [PUBLISHER]false
@@ -681,6 +697,7 @@
 [NAME FR]Bullfrog Productions
 [NAME JA]Bullfrog Productions
 [DATE]APR 1987
+[DATE END]MAR 2001
 [PIC]40
 [DEVELOPER]true
 [PUBLISHER]false
@@ -766,6 +783,7 @@
 [NAME FR]Lionhead Studios
 [NAME JA]Lionhead Studios
 [DATE]JUL 1997
+[DATE END]APR 2016
 [PIC]45
 [DEVELOPER]true
 [PUBLISHER]false
@@ -783,6 +801,7 @@
 [NAME FR]Looking Glass Studios
 [NAME JA]Looking Glass Studios
 [DATE]JUN 1990
+[DATE END]MAY 2000
 [PIC]46
 [DEVELOPER]true
 [PUBLISHER]false
@@ -817,6 +836,7 @@
 [NAME FR]Novalogic
 [NAME JA]Novalogic
 [DATE]AUG 1985
+[DATE END]OCT 2016
 [PIC]48
 [DEVELOPER]true
 [PUBLISHER]true
@@ -851,6 +871,7 @@
 [NAME FR]Data East
 [NAME JA]Data East
 [DATE]APR 1976
+[DATE END]JUN 2003
 [PIC]50
 [DEVELOPER]true
 [PUBLISHER]true
@@ -868,6 +889,7 @@
 [NAME FR]Epyx Computer Software
 [NAME JA]Epyx Computer Software
 [DATE]JAN 1978
+[DATE END]JUN 1993
 [PIC]51
 [DEVELOPER]true
 [PUBLISHER]true

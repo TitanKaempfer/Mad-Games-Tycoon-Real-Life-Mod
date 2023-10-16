@@ -1195,7 +1195,7 @@
 [END]
 
 [ID]43
-[NAME EN]Sega Mega Drive
+[NAME EN]Sega Genesis
 [NAME GE]Sega Mega Drive
 [NAME TU]Sega Mega Drive
 [NAME FR]Sega Mega Drive
