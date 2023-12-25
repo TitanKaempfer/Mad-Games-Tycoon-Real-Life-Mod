@@ -263,6 +263,8 @@ The Ring of <NAME>
 The Secret of <NAME>
 World of <NAME>
 <NAME> Blackgate
+<NAME> Tactica
+<NAME>: Rise of Legends
 [END]
 
 [4]
@@ -372,6 +374,8 @@ Tactics <NAME>
 War of <NAME>
 Heroes of <NAME>
 <NAME>: Planetfall
+<NAME> Tactica
+<NAME>: Rise of Legends
 [END]
 
 [5]
@@ -852,6 +856,8 @@ Knights of <NAME>
 Legions of <NAME>
 <NAME>: Planetfall
 <NAME>: RTS
+<NAME> Tactica
+<NAME>: Rise of Legends
 [END]
 
 [14]

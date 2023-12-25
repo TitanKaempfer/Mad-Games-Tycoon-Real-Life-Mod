@@ -213,6 +213,12 @@ Mutsumi Inomata <G><f>
 Noizi Ito <G><f>
 Rieko Kodama <G><f>
 Temmie Chang <G><f>
+Doug Bowser <O>
+Geoff Keighley <O>
+Ken Kutaragi <O>
+Phil Spencer <O>
+Reggie Fils-Aimé <O>
+Yanis Varoufakis <O>
 Akihiro Imamura <P>
 Alan Miller <P>
 Alexey Pajitnov <P>
@@ -260,6 +266,7 @@ Jun Ito <P>
 Karl Morton <P>
 Ken Silverman <P>
 Ken Williams <P>
+Lawrence Hryb <P>
 Maciej Siniło <P>
 Marco Corbetta <P>
 Mark Cerny <P>
