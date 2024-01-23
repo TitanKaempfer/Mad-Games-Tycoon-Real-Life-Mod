@@ -68,6 +68,7 @@ Panic Shot! <NAME>
 <NAME>: Enlightment
 <NAME>: IQ!
 <NAME>: Neuro!
+<NAME>: Typing Adventure
 <NAME>'s Cookie
 <NAME>'s Woods
 Advanced <NAME>
@@ -76,15 +77,15 @@ Dr. <NAME>
 English with <NAME>
 French with <NAME>
 Future <NAME>
+Learn with <NAME>
 Math with <NAME>
 Quiz <NAME>
-<NAME>: Typing Adventure
-Learn with <NAME>
 [END]
 
 [2]
 <NAME> Advent
 <NAME> Adventures
+<NAME> Blackgate
 <NAME> Legends
 <NAME>: Abyss
 <NAME>: Adventure!
@@ -135,9 +136,8 @@ Legend of <NAME>
 Sins of <NAME>
 The Isle of <NAME>
 The Legend of <NAME>
-The Secret of <NAME>
 The Murder of <NAME>
-<NAME> Blackgate
+The Secret of <NAME>
 [END]
 
 [3]
@@ -146,6 +146,7 @@ The Murder of <NAME>
 <NAME> Aeons
 <NAME> Afterlife
 <NAME> Ascendancy
+<NAME> Blackgate
 <NAME> Colosseum
 <NAME> Dungeons
 <NAME> Eternal
@@ -158,6 +159,7 @@ The Murder of <NAME>
 <NAME> Ranger
 <NAME> RPG
 <NAME> Star Force
+<NAME> Tactica
 <NAME> Walk
 <NAME>: Abyss
 <NAME>: Adventure
@@ -206,6 +208,7 @@ The Murder of <NAME>
 <NAME>: New World
 <NAME>: Next Generation
 <NAME>: Realms
+<NAME>: Rise of Legends
 <NAME>: Serpent Quest
 <NAME>: Skull Quest
 <NAME>: Souls
@@ -262,9 +265,6 @@ The Lords of <NAME>
 The Ring of <NAME>
 The Secret of <NAME>
 World of <NAME>
-<NAME> Blackgate
-<NAME> Tactica
-<NAME>: Rise of Legends
 [END]
 
 [4]
@@ -283,6 +283,7 @@ World of <NAME>
 <NAME> Clone Wars
 <NAME> Combat
 <NAME> Revolution
+<NAME> Tactica
 <NAME> Tactics
 <NAME> Trading Card Game
 <NAME>: Allied Assault
@@ -328,8 +329,10 @@ World of <NAME>
 <NAME>: New Conflict
 <NAME>: New World
 <NAME>: Offensive
+<NAME>: Planetfall
 <NAME>: Red Alert
 <NAME>: Resistance
+<NAME>: Rise of Legends
 <NAME>: Robot Wars
 <NAME>: Siege
 <NAME>: Squads
@@ -372,13 +375,10 @@ Knights of <NAME>
 Legion of <NAME>
 Tactics <NAME>
 War of <NAME>
-Heroes of <NAME>
-<NAME>: Planetfall
-<NAME> Tactica
-<NAME>: Rise of Legends
 [END]
 
 [5]
+<NAME> Avenger
 <NAME> Battle
 <NAME> Battlegrounds
 <NAME> Blast
@@ -397,6 +397,7 @@ Heroes of <NAME>
 <NAME> Paintball
 <NAME> Rising
 <NAME> Rumble
+<NAME> Safari
 <NAME> Skypatrol
 <NAME> Strikers
 <NAME> Survive
@@ -413,6 +414,7 @@ Heroes of <NAME>
 <NAME>: Attack!
 <NAME>: Bad Blood
 <NAME>: Combat
+<NAME>: Combat Racing
 <NAME>: Crisis
 <NAME>: Dark Armies
 <NAME>: Dark Project
@@ -448,9 +450,11 @@ Heroes of <NAME>
 <NAME>: Resistance
 <NAME>: Revelation
 <NAME>: Robot Wars
+<NAME>: Rush of Blood
 <NAME>: Shock!
 <NAME>: Shoots!
 <NAME>: Skyfighter
+<NAME>: Small Brawl
 <NAME>: Spartan Assault
 <NAME>: Spartan Strike
 <NAME>: Spec Ops
@@ -473,6 +477,7 @@ Heroes of <NAME>
 Absolute <NAME>
 Armies of <NAME>
 Attack <NAME>
+Azure Striker <NAME>
 Battle <NAME>
 Champions of <NAME>
 Chaotic <NAME>
@@ -480,15 +485,15 @@ Crisis of <NAME>
 Dead <NAME>
 Extreme <NAME>
 Heroes of <NAME>
+Luminous <NAME>
+Mighty <NAME>
 Ultimate <NAME>
 Violent <NAME>
-<NAME>: Rush of Blood
-<NAME>: Small Brawl
-<NAME> Safari
-<NAME>: Combat Racing
 [END]
 
 [6]
+<NAME> Avenger
+<NAME> Blackgate
 <NAME> Chaos
 <NAME> Chaotix
 <NAME> Climber
@@ -517,6 +522,7 @@ Violent <NAME>
 <NAME>: Wonderland
 Adventures of <NAME>
 Amazing <NAME>
+Azure Striker <NAME>
 Big <NAME>
 Chaotic <NAME>
 Cool <NAME>
@@ -526,16 +532,18 @@ Explorers of <NAME>
 Heart of <NAME>
 Hey! <NAME>
 Kid <NAME>
+Luminous <NAME>
+Mighty <NAME>
 Super <NAME>
 Super <NAME>
 The Curse of <NAME>
 The Journey of <NAME>
-<NAME> Blackgate
 [END]
 
 [7]
 <NAME> Bloom
 <NAME> Channel
+<NAME> Deer Huntin'
 <NAME> Paint
 <NAME> Pocket Camp
 <NAME> Simulator
@@ -549,6 +557,7 @@ The Journey of <NAME>
 <NAME>: Daily Life
 <NAME>: Deep Diving
 <NAME>: Farm Hero
+<NAME>: Freescape
 <NAME>: Industrial
 <NAME>: Industry
 <NAME>: Pilot Wings
@@ -567,11 +576,9 @@ My <NAME>
 My <NAME> Ranch
 Planet of <NAME>
 Sim <NAME>
-<NAME> Deer Huntin'
 [END]
 
 [8]
-<NAME> at the Olympic Games
 <NAME> Bowling
 <NAME> Cars
 <NAME> Championship
@@ -616,6 +623,7 @@ Sim <NAME>
 <NAME>: Skater
 <NAME>: Skating
 <NAME>: Snooker
+<NAME>: Soccer
 <NAME>: Speedballs
 <NAME>: Sports
 <NAME>: Tennis
@@ -679,6 +687,7 @@ Wall Street <NAME>
 <NAME>: Martial Arts
 <NAME>: Mega Fights
 <NAME>: Renegade
+<NAME>: Small Brawl
 <NAME>: The Combat
 <NAME>: The Fist
 <NAME>: The Kickboxer
@@ -694,11 +703,11 @@ Heroes of <NAME>
 Karate <NAME>
 Legends of <NAME>
 Mega <NAME>
+Mighty <NAME>
 Smash <NAME>
 Super <NAME>
 Super <NAME> Turbo
 Violent <NAME>
-<NAME>: Small Brawl
 [END]
 
 [11]
@@ -782,6 +791,7 @@ Chronicles of <NAME>
 <NAME> Clone Wars
 <NAME> Defense
 <NAME> Invasion
+<NAME> Tactica
 <NAME> UNITE
 <NAME> Wars
 <NAME>: Alliance
@@ -819,9 +829,12 @@ Chronicles of <NAME>
 <NAME>: Mercenaries
 <NAME>: New Conflict
 <NAME>: Offensive
+<NAME>: Planetfall
 <NAME>: Red Alert
 <NAME>: Resistance
+<NAME>: Rise of Legends
 <NAME>: Robot Wars
+<NAME>: RTS
 <NAME>: Syndicate
 <NAME>: Tank Fighter
 <NAME>: The Combat
@@ -854,13 +867,10 @@ Heroes of <NAME>
 Invaders of <NAME>
 Knights of <NAME>
 Legions of <NAME>
-<NAME>: Planetfall
-<NAME>: RTS
-<NAME> Tactica
-<NAME>: Rise of Legends
 [END]
 
 [14]
+<NAME> 3D
 <NAME> Attack
 <NAME> Battlegrounds
 <NAME> Cadets
@@ -883,6 +893,7 @@ Legions of <NAME>
 <NAME>: Dark Project
 <NAME>: Deathmatch
 <NAME>: Destruction
+<NAME>: Dungeons in Chaos
 <NAME>: Enforcers
 <NAME>: Full Fire
 <NAME>: Future Alert
@@ -903,7 +914,6 @@ Legions of <NAME>
 <NAME>: Xeno
 <NAME>: Zero
 Bionic <NAME>
-<NAME> 3D
 [END]
 
 [15]
@@ -938,15 +948,17 @@ Memories of <NAME>
 Play Novel: <NAME>
 The Book of <NAME>
 The Journey of <NAME>
-The Secret of <NAME>
 The Murder of <NAME>
+The Secret of <NAME>
 [END]
 
 [16]
+<NAME> 3D
 <NAME> Anti-heroes
 <NAME> Battlegrounds
 <NAME> Cadets
 <NAME> Invasion
+<NAME> Mansion
 <NAME> Paintball
 <NAME>: Allied Assault
 <NAME>: Annihilation
@@ -982,8 +994,6 @@ The Murder of <NAME>
 <NAME>: Zero
 Bionic <NAME>
 The Bureau: <NAME> Declassified
-<NAME> 3D
-<NAME> Mansion
 [END]
 
 [17]
@@ -1023,10 +1033,10 @@ The Bureau: <NAME> Declassified
 <NAME>: V-Plane
 <NAME>: Velocity
 Nitro <NAME>
+Off-Road <NAME> Racing
 Streets of <NAME>
 Team <NAME> Racing
 Turbo <NAME>
-Off-Road <NAME> Racing
 [END]
 
 [18]
