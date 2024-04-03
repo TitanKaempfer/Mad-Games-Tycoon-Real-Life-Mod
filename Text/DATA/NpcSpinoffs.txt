@@ -689,6 +689,7 @@ Wall Street <NAME>
 <NAME>: Renegade
 <NAME>: Small Brawl
 <NAME>: The Combat
+<NAME>: The Duel
 <NAME>: The Fist
 <NAME>: The Kickboxer
 <NAME>: The Power Battle
@@ -792,6 +793,8 @@ Chronicles of <NAME>
 <NAME> Defense
 <NAME> Invasion
 <NAME> Tactica
+<NAME> TD
+<NAME> Tower Defense
 <NAME> UNITE
 <NAME> Wars
 <NAME>: Alliance
