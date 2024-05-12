@@ -1,9 +1,9 @@
-﻿Akihiro Hino <D><1><25><BODY2><HAIR7><EYES0><BEARD-1> <SKINCOL2><HAIRCOL0><UPPERCOL15><BOTTOMCOL9><EXTRACOL15>
-Al Lowe <D><1><15>
+﻿Akihiro Hino <D><1><25><BODY2><HAIR7><EYES0><BEARD-1> <SKINCOL2><HAIRCOL0><UPPERCOL14><BOTTOMCOL9><EXTRACOL14>
+Al Lowe <D><1><15><25><BODY7><HAIR-1><EYES0><BEARD2> <SKINCOL0><HAIRCOL9><UPPERCOL10><BOTTOMCOL10><EXTRACOL11>
 Allen Adham <D><1>
-American James McGee <D><1>
+American James McGee <D><1><BODY2><HAIR3><EYES0><BEARD-1> <SKINCOL0><HAIRCOL0><UPPERCOL10><BOTTOMCOL9><EXTRACOL10>
 Andrew Gower <D><1>
-Andy Gavin <D><1>
+Andy Gavin <D><1><25><BODY3><HAIR0><EYES3><BEARD-1> <SKINCOL1><HAIRCOL0><UPPERCOL0><BOTTOMCOL2><EXTRACOL0>
 Arnab Basu <D><1>
 Bill Budge <D><1>
 Björn Pankratz <D><1>
@@ -38,11 +38,11 @@ Ed Logg <D><1>
 Eiji Aonuma <D><1>
 Fred Ford <D><1>
 Frédérick Raynal <D><1>
-Gabe Newell <D><1>
+Gabe Newell <D><1><14><20><25>
 George Broussard <D><1>
 Gregg Mayles <D><1>
 Hideki Kamiya <D><1>
-Hideo Kojima <D><1>
+Hideo Kojima <D><1><25>
 Hidetaka Miyazaki <D><1>
 Hironobu Sakaguchi <D><1>
 Hugh Tsai <D><1>
@@ -471,6 +471,6 @@ Seymour Cray <T><1>
 Shiraz Shivji <T><1>
 Steve Jobs <T><1>
 Steve Wozniak <T><1>
-Wei Yen <T><1>
-Sophie Wilson <T><f><1>
+Wei Yen <T><1><26>
+Sophie Wilson <T><f><1><29><BODY0><HAIR1><EYES0><BEARD-1> <SKINCOL0><HAIRCOL5><UPPERCOL11><BOTTOMCOL9><EXTRACOL10>
 Xiaoyuan Tu <T><f><1>

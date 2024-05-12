@@ -455,6 +455,7 @@ War of <NAME>
 <NAME>: Shoots!
 <NAME>: Skyfighter
 <NAME>: Small Brawl
+<NAME>: Space Assault
 <NAME>: Spartan Assault
 <NAME>: Spartan Strike
 <NAME>: Spec Ops
@@ -492,6 +493,7 @@ Violent <NAME>
 [END]
 
 [6]
+<NAME> and the Guardians of Gross
 <NAME> Avenger
 <NAME> Blackgate
 <NAME> Chaos
