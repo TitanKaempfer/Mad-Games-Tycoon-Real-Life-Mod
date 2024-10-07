@@ -37,6 +37,7 @@ Dance Party: <NAME> Mix
 Dream <NAME>
 Future <NAME>
 Panic Shot! <NAME>
+<NAME> Galaxy
 [END]
 
 [1]
@@ -80,6 +81,7 @@ Future <NAME>
 Learn with <NAME>
 Math with <NAME>
 Quiz <NAME>
+<NAME> Card Game
 [END]
 
 [2]
@@ -138,6 +140,9 @@ The Isle of <NAME>
 The Legend of <NAME>
 The Murder of <NAME>
 The Secret of <NAME>
+<NAME>: Crimson Trail
+<NAME> Adventure Game
+<NAME> Tales
 [END]
 
 [3]
@@ -265,6 +270,11 @@ The Lords of <NAME>
 The Ring of <NAME>
 The Secret of <NAME>
 World of <NAME>
+<NAME>: Crimson Trail
+<NAME> Tales
+<NAME>: Monster Slayer
+<NAME> Galaxy
+<NAME>: Chronos Dungeon
 [END]
 
 [4]
@@ -375,6 +385,7 @@ Knights of <NAME>
 Legion of <NAME>
 Tactics <NAME>
 War of <NAME>
+<NAME> Card Game
 [END]
 
 [5]
@@ -490,6 +501,9 @@ Luminous <NAME>
 Mighty <NAME>
 Ultimate <NAME>
 Violent <NAME>
+<NAME> Galaxy
+<NAME> Infiltrator
+<NAME>: Chronos Dungeon
 [END]
 
 [6]
@@ -540,6 +554,7 @@ Super <NAME>
 Super <NAME>
 The Curse of <NAME>
 The Journey of <NAME>
+<NAME> Galaxy
 [END]
 
 [7]
@@ -711,6 +726,7 @@ Smash <NAME>
 Super <NAME>
 Super <NAME> Turbo
 Violent <NAME>
+<NAME> Battle Arena
 [END]
 
 [11]
@@ -919,6 +935,7 @@ Legions of <NAME>
 <NAME>: Xeno
 <NAME>: Zero
 Bionic <NAME>
+<NAME> Infiltrator
 [END]
 
 [15]
@@ -999,6 +1016,7 @@ The Secret of <NAME>
 <NAME>: Zero
 Bionic <NAME>
 The Bureau: <NAME> Declassified
+<NAME> Infiltrator
 [END]
 
 [17]

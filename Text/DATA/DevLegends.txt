@@ -1,9 +1,9 @@
-﻿Akihiro Hino <D><1><25><BODY2><HAIR7><EYES0><BEARD-1> <SKINCOL2><HAIRCOL0><UPPERCOL14><BOTTOMCOL9><EXTRACOL14>
-Al Lowe <D><1><15><25><BODY7><HAIR-1><EYES0><BEARD2> <SKINCOL0><HAIRCOL9><UPPERCOL10><BOTTOMCOL10><EXTRACOL11>
+﻿Akihiro Hino <D><1><25><BODY2><HAIR7><EYES0><BEARD-1><SKINCOL2><HAIRCOL0><UPPERCOL14><BOTTOMCOL9><EXTRACOL14>
+Al Lowe <D><1><15><25><BODY7><HAIR-1><EYES0><BEARD2><SKINCOL0><HAIRCOL9><UPPERCOL10><BOTTOMCOL10><EXTRACOL11>
 Allen Adham <D><1>
-American James McGee <D><1><BODY2><HAIR3><EYES0><BEARD-1> <SKINCOL0><HAIRCOL0><UPPERCOL10><BOTTOMCOL9><EXTRACOL10>
+American James McGee <D><1><BODY2><HAIR3><EYES0><BEARD-1><SKINCOL0><HAIRCOL0><UPPERCOL10><BOTTOMCOL9><EXTRACOL10>
 Andrew Gower <D><1>
-Andy Gavin <D><1><25><BODY3><HAIR0><EYES3><BEARD-1> <SKINCOL1><HAIRCOL0><UPPERCOL0><BOTTOMCOL2><EXTRACOL0>
+Andy Gavin <D><1><25><BODY3><HAIR0><EYES3><BEARD-1><SKINCOL1><HAIRCOL0><UPPERCOL0><BOTTOMCOL2><EXTRACOL0>
 Arnab Basu <D><1>
 Bill Budge <D><1>
 Björn Pankratz <D><1>
@@ -13,9 +13,9 @@ Brian Allgeier <D><1>
 Brian Fargo <D><1>
 Brian Sullivan <D><1>
 Bruce Shelley <D><1>
-Casey Hudson <D><1>
+Casey Hudson <D><1><25>
 Chris Avelone <D><1>
-Chris Sawyer <D><1>
+Chris Sawyer <D><1><25><26>
 Christopher Vincent Metzen <D><1>
 Cliff Bleszinski <D><1>
 Clive Barker <D><1>
@@ -36,9 +36,9 @@ Ducan Botwood <D><1>
 Ed Boon <D><1>
 Ed Logg <D><1>
 Eiji Aonuma <D><1>
-Fred Ford <D><1>
+Fred Ford <P><1>
 Frédérick Raynal <D><1>
-Gabe Newell <D><1><14><20><25>
+Gabe Newell <D><1><14><20><25><BODY8><HAIR7><EYES2><BEARD2><SKINCOL0><HAIRCOL9><UPPERCOL10><BOTTOMCOL0><EXTRACOL11>
 George Broussard <D><1>
 Gregg Mayles <D><1>
 Hideki Kamiya <D><1>
@@ -50,7 +50,7 @@ Jacob Minkoff <D><1>
 Jason Rubin <D><1>
 Jeff Minter <D><1>
 Jens Bergenstein <D><1>
-Jim Sachs <D><1>
+James D. Sachs <G><1>
 Jon Van Canegham <D><1>
 Jonathan Blow <D><1>
 Jordan Mechner <D><1>
@@ -100,8 +100,8 @@ Toshihiro Nishikado <D><1>
 Ulf Andersson <D><1>
 Warren Robinett <D><1>
 Warren Spector <D><1>
-Will Wright <D><1>
-William Pugh <D><1>
+Will Wright <D><1><25><BODY6><HAIR7><EYES1><BEARD-1><SKINCOL1><HAIRCOL0><UPPERCOL18><BOTTOMCOL8><EXTRACOL18>
+William Pugh <D><1><14><22><BODY1><HAIR7><EYES0><BEARD-1><SKINCOL1><HAIRCOL0><UPPERCOL10><BOTTOMCOL9><EXTRACOL10>
 Yu Suzuki <D><1>
 Yuji Horii <D><1>
 Yuji Naka <D><1>
@@ -117,17 +117,17 @@ Rebecca Heineman <D><f><1>
 Rhianna Pratchett <D><f><1>
 Roberta Williams <D><f><1>
 Sophie Buhl <D><f><1>
-Zoë Quinn <D><f><1><27><BODY5><HAIR3><EYES2><BEARD-1> <SKINCOL0><HAIRCOL12><UPPERCOL11><BOTTOMCOL2><EXTRACOL11>
+Zoë Quinn <D><f><1><27><BODY5><HAIR3><EYES2><BEARD-1><SKINCOL0><HAIRCOL12><UPPERCOL11><BOTTOMCOL2><EXTRACOL11>
 Adam Badowski <G><1>
 Adrian Carmack <G><1>
-Akihiko Yoshida <G><1><BODY5><HAIR0><EYES2><BEARD-1> <SKINCOL1><HAIRCOL1><UPPERCOL1><BOTTOMCOL9><EXTRACOL11>
-Akira Toriyama <G><1><28>
+Akihiko Yoshida <G><1><BODY5><HAIR0><EYES2><BEARD-1><SKINCOL1><HAIRCOL1><UPPERCOL1><BOTTOMCOL9><EXTRACOL11>
+Akira Toriyama <G><1><6><28><BODY3><HAIR4><EYES1><BEARD-1><SKINCOL2><HAIRCOL1><UPPERCOL10><BOTTOMCOL2><EXTRACOL21>
 Alisa Tana <G><1>
 Andreas Rönnberg <G><1><6><15>
 Andrzej Poznanski <G><1>
 Axel Torvenius <G><1>
 Ben Brudenell <G><1>
-Bob Rafei <G><1>
+Bob Rafei <G><1><28>
 Brad Crow <G><1>
 Chad Moldenhauer <G><1>
 Charles Zimbillas <G><1>
@@ -164,7 +164,7 @@ Ken Sugimori <G><1>
 Kenji Koyama <G><1>
 Kev Bayliss <G><1>
 Kevin Cloud <G><1>
-Kunihiko Tanaka <G><1>
+Kunihiko Tanaka <G><1><28>
 Lee Myung-jin <G><1>
 Mark Crowe <G><1>
 Markus Toivonen <G><1>
@@ -182,7 +182,7 @@ Rafael Grassetti <G><1>
 Raphaël Lacoste <G><1>
 Ryan Stevenson <G><1>
 Sawaki Takeyasu <G><1>
-Shigenori Soejima <G><1>
+Shigenori Soejima <G><1><5>
 Shin Yamanouchi <G><1>
 Simon Foster <G><1>
 Steve Mayles <G><1>
@@ -193,19 +193,19 @@ Toby Gard <G><1>
 Toshiaki Hontani <G><1>
 Tuomas Erikoinen <G><1>
 Viktor Antonov <G><1>
-Wes Saulsberry <G><1>
+Wes Saulsberry <G><1><BODY3><HAIR3><EYES0><BEARD-1><SKINCOL0><HAIRCOL0><UPPERCOL19><BOTTOMCOL2><EXTRACOL8>
 Yasuyuki Honne <G><1>
 Yoji Shinkawa <G><1>
 Yusuke Kozaki <G><1>
 Alexandra Steible <G><f><1>
-Ayami Kojima <G><f><1>
+Ayami Kojima <G><f><1><5>
 Brenda Brathwaite <G><f><1>
 Celine Tellier <G><f><1>
 Erik Nakamura <G><f><1>
 Erina Makino <G><f><1>
 Ikumi Nakamura <G><f><1>
 Jen Zee <G><f><1>
-Joelle Silverio <G><f><1>
+Joelle Silverio <D><f><1>
 Kazuko Shibuya <G><f><1>
 Kumiko Suekane <G><f><1>
 Mika Kojima <G><f><1>
@@ -221,7 +221,7 @@ Phil Spencer <O><1>
 Reggie Fils-Aimé <O><1>
 Yanis Varoufakis <O><1>
 Akihiro Imamura <P><1>
-Alan Miller <P><1>
+Alan Miller <D><1>
 Alexey Pajitnov <P><1>
 Alfonso John Romero <P><1>
 Andy Hull <P><1>
@@ -235,7 +235,7 @@ Damien Castelltort <P><1>
 Damien Morello <P><1>
 Dan Spitzley <P><1>
 Daniel Dunham <P><1>
-Dave Akers <P><1>
+Dave Akers <P><1><24>
 Dave D. Taylor <P><1>
 David Braben <P><1>
 David Brevik <P><1>
@@ -295,7 +295,7 @@ Shigeharu Umezaki <P><1>
 Shintaro Sato <P><1>
 Stefan Pohl <P><1>
 Steve Clover <P><1>
-Steve Polge <P><1>
+Steve Polge <P><1><14>
 Thomas Krog <P><1>
 Tim Moss <P><1>
 Tim Sweeney <P><1>
@@ -305,7 +305,7 @@ William Randolph <P><1>
 Yasuhiro Ampo <P><1>
 Yuji Tanaka <P><1>
 Yuta Yamazaki <P><1>
-Anne Westfall <P><f><1>
+Anne Westfall <P><f><1><24>
 Carol Shaw <P><f><1>
 Corrinne Yu <P><f><1>
 Danielle Bunten Berry <P><f><1>
@@ -324,7 +324,7 @@ T.L. Taylor <R><1>
 Amy Susan Bruckman <R><f><1>
 Bonnie Nardi <R><f><1>
 Regan Lee Mandryk <R><f><1>
-Akira Yamaoka <S><1><6>
+Akira Yamaoka <S><1><6><BODY2><HAIR4><EYES0><BEARD-1><SKINCOL2><HAIRCOL1><UPPERCOL10><BOTTOMCOL10><EXTRACOL18>
 Allister Brimble <S><1>
 Austin Wintory <S><1>
 Chris Hülsbeck <S><1>
@@ -339,7 +339,7 @@ Geoff Knorr <S><1>
 Graeme Norgate <S><1>
 Grant Kirkhope <S><1>
 Hans Zimmer <S><1>
-Harry Gregson-Williams <S><1>
+Harry Gregson-Williams <S><1><28>
 Hidenori Shoji <S><1>
 Hideyuki Fukasawa <S><1>
 Hirokazu Tanaka <S><1>
@@ -360,7 +360,7 @@ Jun Maeda <S><1>
 Jun Senoue <S><1>
 Junichi Masuda <S><1>
 Kai Rosenkranz <S><1>
-Kazumi Totaka <S><1>
+Kazumi Totaka <S><1><4>
 Keiji Yamagishi <S><1>
 Keiki Kobayashi <S><1>
 Kelly Bailey <S><1>
@@ -411,11 +411,11 @@ Toru Minegishi <S><1>
 Yannis Brown <S><1>
 Yasunori Mitsuda <S><1>
 Yu-Peng Chen <S><1>
-Yuzo Koshiro <S><1>
-Aki Hata <S><f><1><28><BODY1><HAIR3><EYES0><BEARD-1> <SKINCOL0><HAIRCOL0><UPPERCOL21><BOTTOMCOL9><EXTRACOL22>
+Yuzo Koshiro <S><1><5><BODY0><HAIR7><EYES0><BEARD-1><SKINCOL2><HAIRCOL3><UPPERCOL20><BOTTOMCOL9><EXTRACOL10>
+Aki Hata <S><f><1><28><BODY1><HAIR3><EYES0><BEARD-1><SKINCOL0><HAIRCOL0><UPPERCOL21><BOTTOMCOL9><EXTRACOL22>
 Ayako Mori <S><f><1>
 Kinuyo Yamashita <S><f><1>
-Lena Raine <S><f><1>
+Lena Raine <S><f><1><BODY1><HAIR7><EYES3><BEARD-1><SKINCOL0><HAIRCOL11><UPPERCOL20><BOTTOMCOL9><EXTRACOL11>
 Michiko Naruke <S><f><1>
 Minako Hamano <S><f><1>
 Yoko Kanno <S><f><1>
@@ -433,9 +433,9 @@ David Lewis Needle <T><1>
 Douglas Engelbart <T><1>
 Eiji Fukatsu <T><1>
 Federico Faggin <T><1>
-Genyo Takeda <T><1>
+Genyo Takeda <T><1><4>
 Gerry Karr <T><1>
-Gunpei Yokoi <T><1>
+Gunpei Yokoi <T><1><4><6>
 Ivan Sutherland <T><1>
 Jack Kilby <T><1>
 Jay Miner <T><1>
@@ -450,7 +450,7 @@ Jonathan Blackley <T><1>
 Josef Kates <T><1>
 Joseph Weisbecker <T><1>
 Ken Kutaragi <T><1>
-Ken Olsen <T><1>
+Ken Olsen <T><1><15>
 Li-Chen Wang <T><1>
 Martin Brennan <T><1>
 Masatoshi Shima <T><1>
@@ -472,5 +472,5 @@ Shiraz Shivji <T><1>
 Steve Jobs <T><1>
 Steve Wozniak <T><1>
 Wei Yen <T><1><26>
-Sophie Wilson <T><f><1><29><BODY0><HAIR1><EYES0><BEARD-1> <SKINCOL0><HAIRCOL5><UPPERCOL11><BOTTOMCOL9><EXTRACOL10>
+Sophie Wilson <T><f><1><29><BODY0><HAIR1><EYES0><BEARD-1><SKINCOL0><HAIRCOL5><UPPERCOL11><BOTTOMCOL9><EXTRACOL10>
 Xiaoyuan Tu <T><f><1>
